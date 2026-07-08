@@ -1,0 +1,29 @@
+name: Sync Astana Structure
+
+on:
+  schedule:
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - run: npm install cheerio
+
+      - run: node scripts/sync-astana.js
+
+      - name: Commit updated data
+        run: |
+          git config user.name "sync-bot"
+          git config user.email "sync-bot@example.com"
+          git add data/astana-structure.json
+          git commit -m "Update Astana structure data" || echo "No changes"
+          git push
