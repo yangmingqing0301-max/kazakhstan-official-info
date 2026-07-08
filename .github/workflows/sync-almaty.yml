@@ -1,0 +1,32 @@
+name: Sync Almaty People
+
+on:
+  schedule:
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - run: npm install cheerio
+
+      - run: node scripts/sync-almaty.js
+
+      - name: Commit updated data
+        run: |
+          git config user.name "sync-bot"
+          git config user.email "sync-bot@example.com"
+          git add data/almaty-people.json
+          git commit -m "Update Almaty people data" || echo "No changes"
+          git push
