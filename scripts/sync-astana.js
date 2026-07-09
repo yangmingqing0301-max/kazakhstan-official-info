@@ -49,8 +49,12 @@ async function main() {
     });
   });
 
-  const people =
+  let people =
     payload.people && payload.people.length > 0 ? mergePeople(payload.people, existing?.people || []) : existing?.people || [];
+
+  if ((!payload.people || payload.people.length === 0) && people.length > 0) {
+    people = await enrichExistingPeopleFromApi(people);
+  }
   const output = {
     sourceUrl: SOURCE_URL,
     syncedAt: new Date().toISOString(),
@@ -234,6 +238,26 @@ async function enrichBiographies(browser, people) {
   }
 }
 
+async function enrichExistingPeopleFromApi(people) {
+  const updated = [];
+
+  for (const person of people) {
+    if (!person.biographyUrl) {
+      updated.push(person);
+      continue;
+    }
+
+    const apiDetails = await fetchCuratorDetails(person).catch((error) => {
+      console.warn(`Curator API failed for ${person.name}: ${error.message}`);
+      return null;
+    });
+
+    updated.push(apiDetails ? { ...person, ...apiDetails } : person);
+  }
+
+  return updated;
+}
+
 async function fetchCuratorDetails(person) {
   const id = person.biographyUrl.match(/people\/(\d+)/)?.[1];
   if (!id) return null;
@@ -261,6 +285,7 @@ async function fetchCuratorDetails(person) {
     phone: normalizeText(data.phone || person.phone),
     receptionPhone: normalizeText(data.public_reception_phone || data.phone || person.receptionPhone || person.phone),
     email: normalizeText(data.email || person.email),
+    biographyUrl: `https://www.gov.kz/memleket/entities/astana/about/structure/people/${id}?lang=en`,
     career: [generalInfo, careerHistory].filter(Boolean).join("\n"),
     detail: [generalInfo, careerHistory].filter(Boolean).join("\n"),
     generalInfo,
