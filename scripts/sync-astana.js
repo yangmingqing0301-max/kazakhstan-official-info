@@ -54,11 +54,21 @@ function mergePeople(freshPeople, existingPeople) {
     const existing = existingByName.get(normalizeText(person.name).toLowerCase()) || {};
     return {
       ...person,
+      phone: chooseLonger(person.phone, existing.phone),
+      receptionPhone: chooseLonger(person.receptionPhone, existing.receptionPhone || existing.phone),
       detail: person.detail || existing.detail || existing.career || "",
       career: person.career || existing.career || existing.detail || "",
+      generalInfo: person.generalInfo || existing.generalInfo || "",
+      careerHistory: person.careerHistory || existing.careerHistory || "",
       responsibilities: person.responsibilities || existing.responsibilities || "",
     };
   });
+}
+
+function chooseLonger(primary = "", fallback = "") {
+  const first = normalizeText(primary);
+  const second = normalizeText(fallback);
+  return second.length > first.length ? second : first;
 }
 
 async function scrapeWithPlaywright() {
@@ -207,10 +217,13 @@ function compactPeople(people) {
       position: normalizeText(person.position),
       photo: normalizeText(person.photo),
       phone: normalizeText(person.phone),
+      receptionPhone: normalizeText(person.receptionPhone),
       email: normalizeText(person.email),
       biographyUrl: normalizeText(person.biographyUrl),
       career: normalizeText(person.career),
       detail: stripSecurityNotice(person.detail || person.career),
+      generalInfo: normalizeText(person.generalInfo),
+      careerHistory: normalizeText(person.careerHistory),
       responsibilities: normalizeText(person.responsibilities),
     }))
     .filter((person) => person.name && !seen.has(person.name) && seen.add(person.name));
