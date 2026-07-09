@@ -1,8 +1,47 @@
 {
   "sourceUrl": "https://www.gov.kz/memleket/entities/astana/about/structure?lang=en",
-  "syncedAt": "2026-07-08T16:44:14.290Z",
-  "title": "GOV.KZ - Единая платформа интернет-ресурсов государственных органов (ЕПИР ГО)",
-  "summaryText": "",
-  "links": [],
-  "structureItems": []
+  "syncedAt": "2026-07-08T16:32:58.082Z",
+  "title": "Astana city administration structure",
+  "people": [
+    {
+      "name": "Zhenis Kassymbek",
+      "position": "Akim of Astana",
+      "photo": "",
+      "phone": "+7 (7172) 55-64-61",
+      "email": "",
+      "biographyUrl": "",
+      "career": "Biography data is refreshed automatically from the official source page.",
+      "responsibilities": "Overall leadership of Astana city administration."
+    },
+    {
+      "name": "Nurlan Nurkenov",
+      "position": "First Deputy Akim of Astana",
+      "photo": "",
+      "phone": "+7 (7172) 55-64-12",
+      "email": "",
+      "biographyUrl": "",
+      "career": "Biography data is refreshed automatically from the official source page.",
+      "responsibilities": ""
+    },
+    {
+      "name": "Yerik Meirkhanov",
+      "position": "Deputy Akim of Astana",
+      "photo": "",
+      "phone": "+7 (7172) 55-74-89",
+      "email": "ye.meirkhanov@astana.kz",
+      "biographyUrl": "",
+      "career": "Biography data is refreshed automatically from the official source page.",
+      "responsibilities": "Employment and social protection, public health, physical culture and sports, mobilization and defense."
+    },
+    {
+      "name": "Daulat Yeshkeyev",
+      "position": "Chief of Staff of the Astana Akim's Office",
+      "photo": "",
+      "phone": "+7 (7172) 55-64-14",
+      "email": "d.eshkeev@astana.kz",
+      "biographyUrl": "",
+      "career": "Biography data is refreshed automatically from the official source page.",
+      "responsibilities": ""
+    }
+  ]
 }
