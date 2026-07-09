@@ -15,6 +15,22 @@ function stripSecurityNotice(value = "") {
     : text;
 }
 
+function htmlToText(value = "") {
+  return String(value)
+    .replace(/<\/(p|li|div|h[1-6]|ol|ul)>/gi, "\n")
+    .replace(/<br\s*\/?>/gi, "\n")
+    .replace(/<[^>]+>/g, " ")
+    .replace(/&nbsp;/g, " ")
+    .replace(/&amp;/g, "&")
+    .replace(/&lt;/g, "<")
+    .replace(/&gt;/g, ">")
+    .replace(/&quot;/g, '"')
+    .split(/\n+/)
+    .map(normalizeText)
+    .filter(Boolean)
+    .join("\n");
+}
+
 function readExistingPayload() {
   try {
     return JSON.parse(fs.readFileSync(OUT_PATH, "utf8"));
@@ -188,6 +204,16 @@ async function enrichBiographies(browser, people) {
   const targets = people.filter((person) => person.biographyUrl).slice(0, 20);
 
   for (const person of targets) {
+    const apiDetails = await fetchCuratorDetails(person).catch((error) => {
+      console.warn(`Curator API failed for ${person.name}: ${error.message}`);
+      return null;
+    });
+
+    if (apiDetails) {
+      Object.assign(person, apiDetails);
+      continue;
+    }
+
     const page = await browser.newPage({ viewport: { width: 1280, height: 900 } });
     try {
       await page.goto(person.biographyUrl, { waitUntil: "networkidle", timeout: 60000 });
@@ -206,6 +232,40 @@ async function enrichBiographies(browser, people) {
       await page.close();
     }
   }
+}
+
+async function fetchCuratorDetails(person) {
+  const id = person.biographyUrl.match(/people\/(\d+)/)?.[1];
+  if (!id) return null;
+
+  const response = await fetch(`https://www.gov.kz/api/v1/public/content-manager/curators/${id}`, {
+    headers: {
+      "user-agent": "Mozilla/5.0 (compatible; SilkRoadInfoSync/1.0)",
+      accept: "application/json",
+      "accept-language": "en",
+    },
+  });
+
+  if (!response.ok) {
+    throw new Error(`${response.status} ${response.statusText}`);
+  }
+
+  const data = await response.json();
+  const generalInfo = stripSecurityNotice(htmlToText(data.biography || ""));
+  const careerHistory = stripSecurityNotice(htmlToText(data.biography_details || ""));
+
+  return {
+    name: normalizeText([data.lastname, data.name, data.middlename].filter(Boolean).join(" ")) || person.name,
+    position: normalizeText(data.level?.items?.[0]?.position || data.position || person.position),
+    photo: data.photo ? new URL(data.photo, "https://www.gov.kz").href : person.photo,
+    phone: normalizeText(data.phone || person.phone),
+    receptionPhone: normalizeText(data.public_reception_phone || data.phone || person.receptionPhone || person.phone),
+    email: normalizeText(data.email || person.email),
+    career: [generalInfo, careerHistory].filter(Boolean).join("\n"),
+    detail: [generalInfo, careerHistory].filter(Boolean).join("\n"),
+    generalInfo,
+    careerHistory,
+  };
 }
 
 function compactPeople(people) {
