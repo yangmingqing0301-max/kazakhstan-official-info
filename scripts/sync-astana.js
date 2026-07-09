@@ -4,15 +4,185 @@ const path = require("node:path");
 const SOURCE_URL = "https://www.gov.kz/memleket/entities/astana/about/structure?lang=en";
 const OUT_PATH = path.join(__dirname, "..", "data", "astana-structure.json");
 
-function normalizeText(value) {
-  return value.replace(/\s+/g, " ").trim();
+function normalizeText(value = "") {
+  return String(value).replace(/\s+/g, " ").trim();
 }
 
-function unique(values) {
-  return [...new Set(values.filter(Boolean))];
+function readExistingPayload() {
+  try {
+    return JSON.parse(fs.readFileSync(OUT_PATH, "utf8"));
+  } catch {
+    return null;
+  }
 }
 
 async function main() {
+  const existing = readExistingPayload();
+  const payload = await scrapeWithPlaywright().catch(async (error) => {
+    console.warn(`Playwright scrape failed: ${error.message}`);
+    return scrapeStaticHtml().catch((fallbackError) => {
+      console.warn(`Static scrape failed: ${fallbackError.message}`);
+      return { people: [], warning: fallbackError.message };
+    });
+  });
+
+  const people = payload.people && payload.people.length > 0 ? payload.people : existing?.people || [];
+  const output = {
+    sourceUrl: SOURCE_URL,
+    syncedAt: new Date().toISOString(),
+    title: "Astana city administration structure",
+    people,
+    warning: people.length === 0 ? payload.warning || "No people were extracted from the source page." : undefined,
+  };
+
+  fs.mkdirSync(path.dirname(OUT_PATH), { recursive: true });
+  fs.writeFileSync(OUT_PATH, `${JSON.stringify(output, null, 2)}\n`, "utf8");
+}
+
+async function scrapeWithPlaywright() {
+  const { chromium } = require("playwright");
+  const browser = await chromium.launch({ headless: true });
+  const page = await browser.newPage({
+    viewport: { width: 1440, height: 1200 },
+    userAgent: "Mozilla/5.0 (compatible; SilkRoadInfoSync/1.0)",
+  });
+
+  try {
+    await page.goto(SOURCE_URL, { waitUntil: "networkidle", timeout: 90000 });
+    await page.waitForTimeout(3500);
+
+    const people = await page.evaluate(() => {
+      const source = location.href;
+
+      function clean(value) {
+        return String(value || "").replace(/\s+/g, " ").trim();
+      }
+
+      function absoluteUrl(value) {
+        try {
+          return value ? new URL(value, source).href : "";
+        } catch {
+          return "";
+        }
+      }
+
+      function textLines(node) {
+        return clean(node.innerText)
+          .split(/\n|(?=Phone number:)|(?=E-mail:)|(?=Supervised areas)|(?=Biography)/i)
+          .map(clean)
+          .filter(Boolean);
+      }
+
+      function guessName(lines) {
+        return (
+          lines.find((line) => /^[A-Z][A-Za-z' -]+ [A-Z][A-Za-z' -]+/.test(line) && line.length < 90) ||
+          lines[0] ||
+          ""
+        );
+      }
+
+      function extractAfter(text, labelPattern, stopPattern) {
+        const label = text.match(labelPattern);
+        if (!label) return "";
+        const start = label.index + label[0].length;
+        const tail = text.slice(start);
+        const stop = tail.search(stopPattern);
+        return clean(stop >= 0 ? tail.slice(0, stop) : tail);
+      }
+
+      const cards = Array.from(document.querySelectorAll("article, li, section, div"))
+        .filter((node) => {
+          const text = clean(node.innerText);
+          return (
+            text.length > 80 &&
+            text.length < 1400 &&
+            /(Phone number|E-mail|Biography|Reception dates|Supervised areas)/i.test(text) &&
+            node.querySelector("img")
+          );
+        })
+        .filter((node, index, all) => !all.some((other, otherIndex) => otherIndex !== index && other.contains(node)));
+
+      return cards.map((card) => {
+        const fullText = clean(card.innerText);
+        const lines = textLines(card);
+        const name = guessName(lines);
+        const biographyLink = Array.from(card.querySelectorAll("a")).find((link) =>
+          /biography/i.test(clean(link.innerText)),
+        );
+        const photo = card.querySelector("img");
+        const phone = fullText.match(/\+7[\d\s()–-]{8,}/)?.[0] || "";
+        const email = fullText.match(/[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}/i)?.[0] || "";
+        const position =
+          lines.find((line) => line !== name && /(Akim|Deputy|Chief|Head|Office|Department)/i.test(line)) ||
+          lines.find((line) => line !== name && !/Phone|E-mail|Biography|Reception/i.test(line)) ||
+          "";
+        const directions = extractAfter(
+          fullText,
+          /(Supervised areas|Curated directions|Responsible areas):?/i,
+          /(Phone number|Phone:|E-mail|Reception dates|Biography)/i,
+        );
+
+        return {
+          name,
+          position,
+          photo: absoluteUrl(photo?.getAttribute("src") || photo?.getAttribute("data-src")),
+          phone: clean(phone),
+          email: clean(email),
+          biographyUrl: absoluteUrl(biographyLink?.getAttribute("href")),
+          career: "",
+          responsibilities: directions,
+        };
+      });
+    });
+
+    await enrichBiographies(browser, people);
+    return { people: compactPeople(people) };
+  } finally {
+    await browser.close();
+  }
+}
+
+async function enrichBiographies(browser, people) {
+  const targets = people.filter((person) => person.biographyUrl).slice(0, 20);
+
+  for (const person of targets) {
+    const page = await browser.newPage({ viewport: { width: 1280, height: 900 } });
+    try {
+      await page.goto(person.biographyUrl, { waitUntil: "networkidle", timeout: 60000 });
+      await page.waitForTimeout(1200);
+      const biography = await page.evaluate(() => {
+        const clone = document.body.cloneNode(true);
+        clone.querySelectorAll("script, style, header, footer, nav, svg").forEach((node) => node.remove());
+        return String(clone.innerText || "").replace(/\s+/g, " ").trim();
+      });
+      person.career = normalizeText(biography).slice(0, 1600);
+    } catch (error) {
+      person.career = "";
+      person.biographyWarning = error.message;
+    } finally {
+      await page.close();
+    }
+  }
+}
+
+function compactPeople(people) {
+  const seen = new Set();
+
+  return people
+    .map((person) => ({
+      name: normalizeText(person.name),
+      position: normalizeText(person.position),
+      photo: normalizeText(person.photo),
+      phone: normalizeText(person.phone),
+      email: normalizeText(person.email),
+      biographyUrl: normalizeText(person.biographyUrl),
+      career: normalizeText(person.career),
+      responsibilities: normalizeText(person.responsibilities),
+    }))
+    .filter((person) => person.name && !seen.has(person.name) && seen.add(person.name));
+}
+
+async function scrapeStaticHtml() {
   const response = await fetch(SOURCE_URL, {
     headers: {
       "user-agent": "Mozilla/5.0 (compatible; SilkRoadInfoSync/1.0)",
@@ -25,66 +195,6 @@ async function main() {
   }
 
   const html = await response.text();
-  let cheerio;
-
-  try {
-    cheerio = require("cheerio");
-  } catch {
-    cheerio = null;
-  }
-
-  const payload = cheerio
-    ? parseWithCheerio(cheerio.load(html))
-    : parseWithoutCheerio(html);
-
-  fs.mkdirSync(path.dirname(OUT_PATH), { recursive: true });
-  fs.writeFileSync(
-    OUT_PATH,
-    `${JSON.stringify(
-      {
-        sourceUrl: SOURCE_URL,
-        syncedAt: new Date().toISOString(),
-        ...payload,
-      },
-      null,
-      2,
-    )}\n`,
-    "utf8",
-  );
-}
-
-function parseWithCheerio($) {
-  $("script, style, noscript, svg, header, footer, nav").remove();
-
-  const title = normalizeText($("title").first().text()) || "Astana structure";
-  const pageText = normalizeText($("body").text());
-  const links = unique(
-    $("a")
-      .map((_, element) => normalizeText($(element).text()))
-      .get(),
-  ).slice(0, 80);
-
-  const cards = [];
-  $("div, article, section, li").each((_, element) => {
-    const text = normalizeText($(element).text());
-    if (
-      text.length >= 40 &&
-      text.length <= 900 &&
-      /phone|e-mail|email|reception|chief|akim|deputy/i.test(text)
-    ) {
-      cards.push(text);
-    }
-  });
-
-  return {
-    title,
-    summaryText: pageText.slice(0, 4000),
-    links,
-    structureItems: unique(cards).slice(0, 40),
-  };
-}
-
-function parseWithoutCheerio(html) {
   const text = normalizeText(
     html
       .replace(/<script[\s\S]*?<\/script>/gi, " ")
@@ -93,10 +203,10 @@ function parseWithoutCheerio(html) {
   );
 
   return {
-    title: "Astana structure",
-    summaryText: text.slice(0, 4000),
-    links: [],
-    structureItems: [],
+    people: [],
+    warning: text.includes("enable JavaScript")
+      ? "Source page requires JavaScript rendering."
+      : "Static HTML did not contain person cards.",
   };
 }
 
