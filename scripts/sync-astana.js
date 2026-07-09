@@ -33,7 +33,8 @@ async function main() {
     });
   });
 
-  const people = payload.people && payload.people.length > 0 ? payload.people : existing?.people || [];
+  const people =
+    payload.people && payload.people.length > 0 ? mergePeople(payload.people, existing?.people || []) : existing?.people || [];
   const output = {
     sourceUrl: SOURCE_URL,
     syncedAt: new Date().toISOString(),
@@ -44,6 +45,20 @@ async function main() {
 
   fs.mkdirSync(path.dirname(OUT_PATH), { recursive: true });
   fs.writeFileSync(OUT_PATH, `${JSON.stringify(output, null, 2)}\n`, "utf8");
+}
+
+function mergePeople(freshPeople, existingPeople) {
+  const existingByName = new Map(existingPeople.map((person) => [normalizeText(person.name).toLowerCase(), person]));
+
+  return freshPeople.map((person) => {
+    const existing = existingByName.get(normalizeText(person.name).toLowerCase()) || {};
+    return {
+      ...person,
+      detail: person.detail || existing.detail || existing.career || "",
+      career: person.career || existing.career || existing.detail || "",
+      responsibilities: person.responsibilities || existing.responsibilities || "",
+    };
+  });
 }
 
 async function scrapeWithPlaywright() {
