@@ -27,12 +27,7 @@
     <main>
       <section class="section directory-section person-detail-section" aria-live="polite">
         <div class="person-detail-header">
-          <p class="eyebrow">Biography</p>
           <h1 id="person-title">人员履历</h1>
-          <div class="data-toolbar">
-            <span id="sync-time">数据更新时间读取中</span>
-            <a href="astana-json.html">返回人员列表</a>
-          </div>
         </div>
         <article class="person-detail" id="person-detail"></article>
       </section>
@@ -64,12 +59,6 @@
           .replace(/"/g, "&quot;");
       }
 
-      function formatDate(value) {
-        const date = new Date(value);
-        if (!value || Number.isNaN(date.getTime())) return "暂无更新时间";
-        return `更新于 ${date.toLocaleString("zh-CN", { hour12: false })}`;
-      }
-
       function initials(name) {
         return String(name || "KZ")
           .split(/\s+/)
@@ -96,6 +85,13 @@
       }
 
       function splitBiography(person) {
+        if (person.generalInfo || person.careerHistory) {
+          return {
+            general: person.generalInfo || "等待官方页面同步",
+            career: person.careerHistory || "等待官方页面同步",
+          };
+        }
+
         const detail = String(person.detail || person.career || "").trim();
         if (!detail) {
           return {
@@ -132,7 +128,7 @@
             <dl class="person-contact-list">
               <div>
                 <dt>Reception phone number:</dt>
-                <dd>${escapeHtml(person.phone || "暂无")}</dd>
+                <dd>${escapeHtml(person.receptionPhone || person.phone || "暂无")}</dd>
               </div>
               <div>
                 <dt>E-mail:</dt>
@@ -165,7 +161,6 @@
           const people = Array.isArray(data.people) ? data.people : [];
           const selectedId = new URLSearchParams(location.search).get("id");
           const person = people.find((item) => slugify(item.name) === selectedId) || people[0];
-          document.getElementById("sync-time").textContent = formatDate(data.syncedAt);
           document.getElementById("person-title").textContent = person?.name || "人员履历";
           document.getElementById("person-detail").innerHTML = person
             ? renderPerson(person)
