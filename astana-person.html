@@ -3,10 +3,10 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>阿斯塔纳市人员详细情况 | 丝路译讯</title>
+    <title>阿斯塔纳市人员履历 | 丝路译讯</title>
     <meta
       name="description"
-      content="阿斯塔纳市政府人员详细情况，按当前网站风格展示官方来源中的图片、职务、履历与负责方向。"
+      content="阿斯塔纳市政府人员履历，按当前网站风格展示官方来源中的图片、职务、履历与联系方式。"
     />
     <link rel="stylesheet" href="styles.css" />
   </head>
@@ -26,8 +26,8 @@
 
     <main>
       <section class="section directory-hero astana-data-hero" aria-labelledby="person-title">
-        <p class="eyebrow">Details</p>
-        <h1 id="person-title">详细情况</h1>
+        <p class="eyebrow">Biography</p>
+        <h1 id="person-title">人员履历</h1>
         <div class="data-toolbar">
           <span id="sync-time">数据更新时间读取中</span>
           <a href="astana-json.html">返回人员列表</a>
@@ -101,7 +101,6 @@
           ? `<img src="${escapeHtml(person.photo)}" alt="${escapeHtml(person.name)}" loading="lazy" />`
           : `<span>${escapeHtml(initials(person.name))}</span>`;
         const detail = person.detail || person.career || "等待官方页面同步";
-        const responsibilities = person.responsibilities || "等待官方页面同步";
 
         return `
           <div class="person-detail-photo">${photo}</div>
@@ -111,10 +110,6 @@
             <section>
               <h3>基本信息</h3>
               ${paragraphs(detail)}
-            </section>
-            <section>
-              <h3>负责方向</h3>
-              ${paragraphs(responsibilities)}
             </section>
             <section>
               <h3>联系方式</h3>
@@ -136,7 +131,7 @@
           const selectedId = new URLSearchParams(location.search).get("id");
           const person = people.find((item) => slugify(item.name) === selectedId) || people[0];
           document.getElementById("sync-time").textContent = formatDate(data.syncedAt);
-          document.getElementById("person-title").textContent = person?.name || "详细情况";
+          document.getElementById("person-title").textContent = person?.name || "人员履历";
           document.getElementById("person-detail").innerHTML = person
             ? renderPerson(person)
             : '<p class="empty-state">暂无人员数据，等待自动同步。</p>';
