@@ -1,46 +1,66 @@
 {
   "sourceUrl": "https://www.gov.kz/memleket/entities/astana/about/structure?lang=en",
-  "syncedAt": "2026-07-08T16:32:58.082Z",
+  "syncedAt": "2026-07-09T14:19:57.668Z",
   "title": "Astana city administration structure",
   "people": [
     {
-      "name": "Zhenis Kassymbek",
-      "position": "Akim of Astana",
-      "photo": "",
+      "name": "Kassymbek Zhenis Mahmuduly Mayor",
+      "position": "E-mail: priemnaya.akima@astana.kz Reception dates:",
+      "photo": "https://www.gov.kz/uploads/2022/12/8/bdfcfff0425d31392bdad92922f3175a_1280x720.jpeg",
       "phone": "+7 (7172) 55-64-61",
-      "email": "",
-      "biographyUrl": "",
-      "career": "Biography data is refreshed automatically from the official source page.",
-      "responsibilities": "Overall leadership of Astana city administration."
-    },
-    {
-      "name": "Nurlan Nurkenov",
-      "position": "First Deputy Akim of Astana",
-      "photo": "",
-      "phone": "+7 (7172) 55-64-12",
-      "email": "",
-      "biographyUrl": "",
-      "career": "Biography data is refreshed automatically from the official source page.",
+      "email": "priemnaya.akima@astana.kz",
+      "biographyUrl": "https://www.gov.kz/memleket/entities/astana/about/structure/people/307",
+      "career": "Ақпараттық қауіпсіздікке байланысты Интернет желісіне қолжетімділіктің бірыңғай шлюзі жабдықтарында Интернет-ресурсқа қолжетімділік уақытша шектелген! Қосымша ақпарат алу үшін «МТҚ» АҚ техникалық қолдау қызметіне хабарласыңыз. Сізді support.sts.kz веб-ресурсында өтініш ашып, келесі мәліметтерді көрсетуіңізді сұраймыз: Доменнің атауы: www.gov.kz/memleket/entities/astana/about/structure/people/307 Пайдаланушының IP-мекенжайы: 64.236.192.145 Күні мен Уақыты: 09-07-2026 14:19:52 Доступ на интернет-ресурс временно ограничен на оборудовании Единого шлюза доступа к Интернету в связи с рисками информационной безопасности! За дополнительной информацией просим обратиться в техническую поддержку АО \"ГТС\". Вам необходимо создать заявку на веб-ресурсе support.sts.kz и указать следующие данные: Имя домена: www.gov.kz/memleket/entities/astana/about/structure/people/307 IP-адрес пользователя: 64.236.192.145 Дата и Время: 09-07-2026 14:19:52 1",
       "responsibilities": ""
     },
     {
-      "name": "Yerik Meirkhanov",
-      "position": "Deputy Akim of Astana",
-      "photo": "",
-      "phone": "+7 (7172) 55-74-89",
-      "email": "ye.meirkhanov@astana.kz",
-      "biographyUrl": "",
-      "career": "Biography data is refreshed automatically from the official source page.",
-      "responsibilities": "Employment and social protection, public health, physical culture and sports, mobilization and defense."
+      "name": "Nurkenov Nurlan Zhanbyrshyuly First Deputy Akim",
+      "position": "",
+      "photo": "https://www.gov.kz/uploads/2019/11/6/0b8cd1ef3f35fff003842ef3a66b6664_original.11738.jpeg",
+      "phone": "+7 (7172) 55-64-12",
+      "email": "n.nurkenov@astana.kz",
+      "biographyUrl": "https://www.gov.kz/memleket/entities/astana/about/structure/people/1813",
+      "career": "",
+      "responsibilities": ""
     },
     {
-      "name": "Daulat Yeshkeyev",
-      "position": "Chief of Staff of the Astana Akim's Office",
-      "photo": "",
+      "name": "Baiken Yesset Berikuly Deputy Akim",
+      "position": "",
+      "photo": "https://www.gov.kz/uploads/2026/1/14/6ca1639a0221296d82c0dacc0491c5ae_1280x720.jpg",
+      "phone": "+7 (7172) 55-64-06",
+      "email": "e.baiken@astana.kz",
+      "biographyUrl": "https://www.gov.kz/memleket/entities/astana/about/structure/people/24969",
+      "career": "",
+      "responsibilities": ""
+    },
+    {
+      "name": "Glotov Yevgeniy Sergeevich Deputy Akim",
+      "position": "",
+      "photo": "https://www.gov.kz/uploads/2023/11/2/9efeda0db54a970fb9672cee44a451d9_1280x720.jpeg",
+      "phone": "+7 (7172) 55-64-08",
+      "email": "e.glotov@astana.kz",
+      "biographyUrl": "https://www.gov.kz/memleket/entities/astana/about/structure/people/24546",
+      "career": "",
+      "responsibilities": ""
+    },
+    {
+      "name": "Otebayev Yersin Kenzhebayevich Deputy Mayor Areas of work Управление топливно-энергетического комплекса и коммунального хозяйства города Астаны, Управление строительства города Астаны, Управление коммунального хозяйства города Астаны, Транспорт және автожол басқармасы",
+      "position": "",
+      "photo": "https://www.gov.kz/uploads/2023/9/25/b35764a2f83c3b3380819eb9116f0449_1280x720.jpeg",
+      "phone": "+7 (7172) 55-64-04",
+      "email": "ersin.otebaev@astana.kz",
+      "biographyUrl": "",
+      "career": "",
+      "responsibilities": ""
+    },
+    {
+      "name": "Yeshkeyev Daulat Zatovich Chief of Staff of the Astana Akim's Office",
+      "position": "",
+      "photo": "https://www.gov.kz/uploads/2023/2/21/144986ad011042552d34728a9fd77ca6_1280x720.jpeg",
       "phone": "+7 (7172) 55-64-14",
       "email": "d.eshkeev@astana.kz",
-      "biographyUrl": "",
-      "career": "Biography data is refreshed automatically from the official source page.",
+      "biographyUrl": "https://www.gov.kz/memleket/entities/astana/about/structure/people/22165",
+      "career": "",
       "responsibilities": ""
     }
   ]
