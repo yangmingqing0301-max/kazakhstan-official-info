@@ -3,10 +3,10 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>阿斯塔纳市机构人员 JSON | 丝路译讯</title>
+    <title>阿斯塔纳市机构人员 | 丝路译讯</title>
     <meta
       name="description"
-      content="阿斯塔纳市政府机构人员信息中文转译 JSON 界面，聚合人员照片、姓名、职务、履历与负责方向。"
+      content="阿斯塔纳市政府机构人员信息中文转译页面，聚合人员照片、姓名、职务与详细情况。"
     />
     <link rel="stylesheet" href="styles.css" />
   </head>
@@ -26,17 +26,10 @@
 
     <main>
       <section class="section directory-hero astana-data-hero" aria-labelledby="astana-title">
-        <p class="eyebrow">Astana JSON</p>
+        <p class="eyebrow">Astana City</p>
         <h1 id="astana-title">阿斯塔纳市机构人员</h1>
         <div class="data-toolbar">
           <span id="sync-time">数据更新时间读取中</span>
-          <a
-            href="https://www.gov.kz/memleket/entities/astana/about/structure?lang=en"
-            target="_blank"
-            rel="noreferrer"
-          >
-            官方来源
-          </a>
         </div>
       </section>
 
@@ -44,17 +37,8 @@
         <div class="section-heading compact-heading">
           <p class="eyebrow">People</p>
           <h2 id="people-title">人员数据</h2>
-          <a class="text-link" href="data/astana-structure.json">查看 JSON</a>
         </div>
         <div class="people-grid" id="people-grid" aria-live="polite"></div>
-      </section>
-
-      <section class="section json-section" aria-labelledby="json-title">
-        <div class="section-heading compact-heading">
-          <p class="eyebrow">Raw Data</p>
-          <h2 id="json-title">JSON 原文</h2>
-        </div>
-        <pre class="json-panel" id="json-panel">{}</pre>
       </section>
 
       <section class="source-note" aria-label="来源链接">
@@ -82,44 +66,49 @@
         title: "Astana city administration structure",
         people: [
           {
-            name: "Zhenis Kassymbek",
-            position: "Akim of Astana",
-            photo: "",
+            name: "Kassymbek Zhenis Mahmuduly",
+            position: "Mayor",
+            photo: "https://www.gov.kz/uploads/2022/12/8/bdfcfff0425d31392bdad92922f3175a_1280x720.jpeg",
             phone: "+7 (7172) 55-64-61",
-            email: "",
+            email: "priemnaya.akima@astana.kz",
             biographyUrl: "",
-            career: "Biography data is refreshed automatically from the official source page.",
-            responsibilities: "Overall leadership of Astana city administration.",
+            career:
+              "Born in Zhambyl region in 1975. Graduated from the Kazakh State Academy of Architecture and Construction, and later from Gumilyov Eurasian State University with a degree in Public Administration.",
+            detail:
+              "Born in Zhambyl region in 1975. Graduated from the Kazakh State Academy of Architecture and Construction, and later from Gumilyov Eurasian State University with a degree in Public Administration.",
+            responsibilities: "City administration leadership.",
           },
           {
-            name: "Nurlan Nurkenov",
-            position: "First Deputy Akim of Astana",
-            photo: "",
+            name: "Nurkenov Nurlan Zhanbyrshyuly",
+            position: "First Deputy Akim",
+            photo: "https://www.gov.kz/uploads/2019/11/6/0b8cd1ef3f35fff003842ef3a66b6664_original.11738.jpeg",
             phone: "+7 (7172) 55-64-12",
-            email: "",
+            email: "n.nurkenov@astana.kz",
             biographyUrl: "",
             career: "Biography data is refreshed automatically from the official source page.",
+            detail: "",
             responsibilities: "",
           },
           {
-            name: "Yerik Meirkhanov",
+            name: "Baiken Yesset Berikuly",
             position: "Deputy Akim of Astana",
-            photo: "",
-            phone: "+7 (7172) 55-74-89",
-            email: "ye.meirkhanov@astana.kz",
+            photo: "https://www.gov.kz/uploads/2026/1/14/6ca1639a0221296d82c0dacc0491c5ae_1280x720.jpg",
+            phone: "+7 (7172) 55-64-06",
+            email: "e.baiken@astana.kz",
             biographyUrl: "",
             career: "Biography data is refreshed automatically from the official source page.",
-            responsibilities:
-              "Employment and social protection, public health, physical culture and sports, mobilization and defense.",
+            detail: "",
+            responsibilities: "",
           },
           {
-            name: "Daulat Yeshkeyev",
+            name: "Yeshkeyev Daulat Zatovich",
             position: "Chief of Staff of the Astana Akim's Office",
-            photo: "",
+            photo: "https://www.gov.kz/uploads/2023/2/21/144986ad011042552d34728a9fd77ca6_1280x720.jpeg",
             phone: "+7 (7172) 55-64-14",
             email: "d.eshkeev@astana.kz",
             biographyUrl: "",
             career: "Biography data is refreshed automatically from the official source page.",
+            detail: "",
             responsibilities: "",
           },
         ],
@@ -149,28 +138,32 @@
           .toUpperCase();
       }
 
+      function slugify(value) {
+        return String(value || "")
+          .toLowerCase()
+          .replace(/[^a-z0-9]+/g, "-")
+          .replace(/^-|-$/g, "");
+      }
+
       function renderPerson(person) {
         const photo = person.photo
           ? `<img src="${escapeHtml(person.photo)}" alt="${escapeHtml(person.name)}" loading="lazy" />`
           : `<span>${escapeHtml(initials(person.name))}</span>`;
-        const biography = person.biographyUrl
-          ? `<a href="${escapeHtml(person.biographyUrl)}" target="_blank" rel="noreferrer">官方履历</a>`
-          : "";
+        const detailUrl = `astana-person.html?id=${encodeURIComponent(slugify(person.name))}`;
 
         return `
           <article class="person-card">
             <div class="person-photo">${photo}</div>
             <div class="person-body">
-              <p class="person-role">${escapeHtml(person.position || "职务待同步")}</p>
               <h3>${escapeHtml(person.name || "姓名待同步")}</h3>
               <dl class="field-list">
                 <div>
-                  <dt>负责方向</dt>
-                  <dd>${escapeHtml(person.responsibilities || "等待官方页面同步")}</dd>
+                  <dt>职务</dt>
+                  <dd>${escapeHtml(person.position || "等待官方页面同步")}</dd>
                 </div>
                 <div>
-                  <dt>工作履历</dt>
-                  <dd>${escapeHtml(person.career || "等待官方履历同步")} ${biography}</dd>
+                  <dt><a href="${detailUrl}">详细情况</a></dt>
+                  <dd><a href="${detailUrl}">查看人员履历与负责方向</a></dd>
                 </div>
                 <div>
                   <dt>联系方式</dt>
@@ -199,7 +192,6 @@
           people.length > 0
             ? people.map(renderPerson).join("")
             : '<p class="empty-state">暂无人员数据，等待自动同步。</p>';
-        document.getElementById("json-panel").textContent = JSON.stringify(data, null, 2);
       });
     </script>
   </body>

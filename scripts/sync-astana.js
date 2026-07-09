@@ -8,6 +8,13 @@ function normalizeText(value = "") {
   return String(value).replace(/\s+/g, " ").trim();
 }
 
+function stripSecurityNotice(value = "") {
+  const text = normalizeText(value);
+  return /(Ақпараттық қауіпсіздік|Доступ на интернет-ресурс временно ограничен|support\.sts\.kz)/i.test(text)
+    ? ""
+    : text;
+}
+
 function readExistingPayload() {
   try {
     return JSON.parse(fs.readFileSync(OUT_PATH, "utf8"));
@@ -67,18 +74,27 @@ async function scrapeWithPlaywright() {
       }
 
       function textLines(node) {
-        return clean(node.innerText)
-          .split(/\n|(?=Phone number:)|(?=E-mail:)|(?=Supervised areas)|(?=Biography)/i)
+        return String(node.innerText || "")
+          .split(/\n|(?=Phone number:)|(?=E-mail:)|(?=Reception dates:)|(?=Areas of work)|(?=Supervised areas)|(?=Biography)/i)
           .map(clean)
           .filter(Boolean);
       }
 
       function guessName(lines) {
         return (
-          lines.find((line) => /^[A-Z][A-Za-z' -]+ [A-Z][A-Za-z' -]+/.test(line) && line.length < 90) ||
+          lines.find(
+            (line) =>
+              /^[A-Z][A-Za-z' -]+ [A-Z][A-Za-z' -]+/.test(line) &&
+              line.length < 90 &&
+              !/(Akim|Mayor|Deputy|Chief|Head|Phone|E-mail|Reception|Biography|Areas of work)/i.test(line),
+          ) ||
           lines[0] ||
           ""
         );
+      }
+
+      function cleanName(value) {
+        return clean(value).replace(/\s+(Mayor|Akim|First Deputy Akim|Deputy Akim|Deputy Mayor|Chief of Staff.*)$/i, "");
       }
 
       function extractAfter(text, labelPattern, stopPattern) {
@@ -105,7 +121,7 @@ async function scrapeWithPlaywright() {
       return cards.map((card) => {
         const fullText = clean(card.innerText);
         const lines = textLines(card);
-        const name = guessName(lines);
+        const name = cleanName(guessName(lines));
         const biographyLink = Array.from(card.querySelectorAll("a")).find((link) =>
           /biography/i.test(clean(link.innerText)),
         );
@@ -113,12 +129,12 @@ async function scrapeWithPlaywright() {
         const phone = fullText.match(/\+7[\d\s()–-]{8,}/)?.[0] || "";
         const email = fullText.match(/[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}/i)?.[0] || "";
         const position =
-          lines.find((line) => line !== name && /(Akim|Deputy|Chief|Head|Office|Department)/i.test(line)) ||
-          lines.find((line) => line !== name && !/Phone|E-mail|Biography|Reception/i.test(line)) ||
+          lines.find((line) => line !== name && /^(Mayor|Akim|First Deputy Akim|Deputy Akim|Deputy Mayor|Chief of Staff|Head)/i.test(line)) ||
+          lines.find((line) => line !== name && /(Akim|Mayor|Deputy|Chief of Staff)/i.test(line) && line.length < 120) ||
           "";
         const directions = extractAfter(
           fullText,
-          /(Supervised areas|Curated directions|Responsible areas):?/i,
+          /(Areas of work|Supervised areas|Curated directions|Responsible areas):?/i,
           /(Phone number|Phone:|E-mail|Reception dates|Biography)/i,
         );
 
@@ -130,6 +146,7 @@ async function scrapeWithPlaywright() {
           email: clean(email),
           biographyUrl: absoluteUrl(biographyLink?.getAttribute("href")),
           career: "",
+          detail: "",
           responsibilities: directions,
         };
       });
@@ -155,7 +172,8 @@ async function enrichBiographies(browser, people) {
         clone.querySelectorAll("script, style, header, footer, nav, svg").forEach((node) => node.remove());
         return String(clone.innerText || "").replace(/\s+/g, " ").trim();
       });
-      person.career = normalizeText(biography).slice(0, 1600);
+      person.detail = stripSecurityNotice(biography).slice(0, 2800);
+      person.career = person.detail;
     } catch (error) {
       person.career = "";
       person.biographyWarning = error.message;
@@ -177,6 +195,7 @@ function compactPeople(people) {
       email: normalizeText(person.email),
       biographyUrl: normalizeText(person.biographyUrl),
       career: normalizeText(person.career),
+      detail: stripSecurityNotice(person.detail || person.career),
       responsibilities: normalizeText(person.responsibilities),
     }))
     .filter((person) => person.name && !seen.has(person.name) && seen.add(person.name));
