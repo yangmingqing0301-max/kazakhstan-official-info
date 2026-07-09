@@ -25,16 +25,15 @@
     </header>
 
     <main>
-      <section class="section directory-hero astana-data-hero" aria-labelledby="person-title">
-        <p class="eyebrow">Biography</p>
-        <h1 id="person-title">人员履历</h1>
-        <div class="data-toolbar">
-          <span id="sync-time">数据更新时间读取中</span>
-          <a href="astana-json.html">返回人员列表</a>
-        </div>
-      </section>
-
       <section class="section directory-section person-detail-section" aria-live="polite">
+        <div class="person-detail-header">
+          <p class="eyebrow">Biography</p>
+          <h1 id="person-title">人员履历</h1>
+          <div class="data-toolbar">
+            <span id="sync-time">数据更新时间读取中</span>
+            <a href="astana-json.html">返回人员列表</a>
+          </div>
+        </div>
         <article class="person-detail" id="person-detail"></article>
       </section>
 
@@ -96,24 +95,60 @@
           .join("");
       }
 
+      function splitBiography(person) {
+        const detail = String(person.detail || person.career || "").trim();
+        if (!detail) {
+          return {
+            general: "等待官方页面同步",
+            career: "等待官方页面同步",
+          };
+        }
+
+        const careerMarker = "Career experience includes";
+        if (detail.includes(careerMarker)) {
+          const [general, career] = detail.split(careerMarker);
+          return {
+            general: general.trim(),
+            career: `${careerMarker}${career || ""}`.trim(),
+          };
+        }
+
+        const parts = detail.split(/\n+/).map((line) => line.trim()).filter(Boolean);
+        return {
+          general: parts[0] || detail,
+          career: parts.slice(1).join("\n") || "等待官方页面同步",
+        };
+      }
+
       function renderPerson(person) {
         const photo = person.photo
           ? `<img src="${escapeHtml(person.photo)}" alt="${escapeHtml(person.name)}" loading="lazy" />`
           : `<span>${escapeHtml(initials(person.name))}</span>`;
-        const detail = person.detail || person.career || "等待官方页面同步";
+        const biography = splitBiography(person);
 
         return `
-          <div class="person-detail-photo">${photo}</div>
-          <div class="person-detail-body">
+          <aside class="person-detail-side">
+            <div class="person-detail-photo">${photo}</div>
+            <dl class="person-contact-list">
+              <div>
+                <dt>Reception phone number:</dt>
+                <dd>${escapeHtml(person.phone || "暂无")}</dd>
+              </div>
+              <div>
+                <dt>E-mail:</dt>
+                <dd>${escapeHtml(person.email || "暂无")}</dd>
+              </div>
+            </dl>
+          </aside>
+          <div class="person-detail-body gov-style-body">
             <p class="person-role">${escapeHtml(person.position || "职务待同步")}</p>
-            <h2>${escapeHtml(person.name || "姓名待同步")}</h2>
             <section>
-              <h3>基本信息</h3>
-              ${paragraphs(detail)}
+              <h3>General information, education</h3>
+              ${paragraphs(biography.general)}
             </section>
             <section>
-              <h3>联系方式</h3>
-              <p>${escapeHtml([person.phone, person.email].filter(Boolean).join(" / ") || "暂无")}</p>
+              <h3>Career</h3>
+              ${paragraphs(biography.career)}
             </section>
           </div>
         `;
