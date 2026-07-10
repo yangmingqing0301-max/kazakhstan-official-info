@@ -1,4 +1,4 @@
-name: Sync Almaty People
+name: Sync Shymkent People
 
 on:
   schedule:
@@ -19,12 +19,12 @@ jobs:
         with:
           node-version: 20
 
-      - run: node scripts/sync-almaty.js
+      - run: node scripts/sync-shymkent.js
 
       - name: Commit updated data
         run: |
           git config user.name "sync-bot"
           git config user.email "sync-bot@example.com"
-          git add data/almaty-people.json
-          git commit -m "Update Almaty people data" || echo "No changes"
+          git add data/shymkent-people.json
+          git commit -m "Update Shymkent people data" || echo "No changes"
           git push
