@@ -149,7 +149,7 @@
         const photo = person.photo
           ? `<img src="${escapeHtml(person.photo)}" alt="${escapeHtml(person.name)}" loading="lazy" />`
           : `<span>${escapeHtml(initials(person.name))}</span>`;
-        const detailUrl = `astana-person.html?id=${encodeURIComponent(slugify(person.name))}`;
+        const detailUrl = `astana-biography.html?id=${encodeURIComponent(slugify(person.name))}`;
 
         return `
           <article class="person-card">
