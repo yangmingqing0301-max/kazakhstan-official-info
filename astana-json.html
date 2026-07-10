@@ -150,6 +150,13 @@
           ? `<img src="${escapeHtml(person.photo)}" alt="${escapeHtml(person.name)}" loading="lazy" />`
           : `<span>${escapeHtml(initials(person.name))}</span>`;
         const detailUrl = `astana-biography.html?id=${encodeURIComponent(slugify(person.name))}`;
+        const workScope = person.workScopeZh
+          ? `
+                <div>
+                  <dt>工作范围</dt>
+                  <dd>${escapeHtml(person.workScopeZh)}</dd>
+                </div>`
+          : "";
 
         return `
           <article class="person-card">
@@ -161,6 +168,7 @@
                   <dt>职务</dt>
                   <dd>${escapeHtml(person.position || "等待官方页面同步")}</dd>
                 </div>
+                ${workScope}
                 <div>
                   <dt><a href="${detailUrl}">人员履历</a></dt>
                   <dd><a href="${detailUrl}">查看人员履历</a></dd>
