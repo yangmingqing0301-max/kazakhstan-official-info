@@ -1,0 +1,30 @@
+name: Sync Shymkent People
+
+on:
+  schedule:
+    - cron: "0 16 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - run: node scripts/sync-shymkent.js
+
+      - name: Commit updated data
+        run: |
+          git config user.name "sync-bot"
+          git config user.email "sync-bot@example.com"
+          git add data/shymkent-people.json
+          git commit -m "Update Shymkent people data" || echo "No changes"
+          git push
