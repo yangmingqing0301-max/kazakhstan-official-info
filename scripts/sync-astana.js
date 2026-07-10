@@ -31,6 +31,24 @@ function htmlToText(value = "") {
     .join("\n");
 }
 
+function getChineseFields(id) {
+  if (id !== "307") {
+    return {};
+  }
+
+  return {
+    nameZh: "卡瑟姆别克·热尼斯·马赫穆杜雷",
+    positionZh: "阿斯塔纳市市长",
+    generalInfoZh:
+      "卡瑟姆别克·热尼斯·马赫穆杜雷于1975年出生在江布尔州。毕业于哈萨克国立建筑与建设学院，专业为建筑与设计。2001年毕业于古米廖夫欧亚国立大学，专业为公共管理。",
+    careerHistoryZh:
+      "1997年，他在哈萨克国立建筑与建设学院以实习研究员身份开始职业生涯。1998年至2000年，任哈萨克斯坦共和国反垄断政策委员会部门负责人，并曾任哈萨克斯坦共和国交通与通信部水运司司长。2004年至2005年，任阿克套国际海港商业港口司长。2005年11月，被任命为交通与通信部副部长，后任交通与通信部执行秘书，并曾任交通与通信部长。此后，任投资与发展部长、工业和基础设施发展部长。2019年2月25日，任哈萨克斯坦共和国副总理。2019年9月19日至2022年12月，任卡拉干达州州长。2022年12月8日起，任阿斯塔纳市市长。",
+    detailZh:
+      "卡瑟姆别克·热尼斯·马赫穆杜雷于1975年出生在江布尔州。毕业于哈萨克国立建筑与建设学院，专业为建筑与设计。2001年毕业于古米廖夫欧亚国立大学，专业为公共管理。\n1997年，他在哈萨克国立建筑与建设学院以实习研究员身份开始职业生涯。1998年至2000年，任哈萨克斯坦共和国反垄断政策委员会部门负责人，并曾任哈萨克斯坦共和国交通与通信部水运司司长。2004年至2005年，任阿克套国际海港商业港口司长。2005年11月，被任命为交通与通信部副部长，后任交通与通信部执行秘书，并曾任交通与通信部长。此后，任投资与发展部长、工业和基础设施发展部长。2019年2月25日，任哈萨克斯坦共和国副总理。2019年9月19日至2022年12月，任卡拉干达州州长。2022年12月8日起，任阿斯塔纳市市长。",
+    translationNote: "本页面内容翻译自原网站，中文翻译仅供参考",
+  };
+}
+
 function readExistingPayload() {
   try {
     return JSON.parse(fs.readFileSync(OUT_PATH, "utf8"));
@@ -290,6 +308,7 @@ async function fetchCuratorDetails(person) {
     detail: [generalInfo, careerHistory].filter(Boolean).join("\n"),
     generalInfo,
     careerHistory,
+    ...getChineseFields(id),
   };
 }
 
@@ -309,6 +328,12 @@ function compactPeople(people) {
       detail: stripSecurityNotice(person.detail || person.career),
       generalInfo: normalizeText(person.generalInfo),
       careerHistory: normalizeText(person.careerHistory),
+      nameZh: normalizeText(person.nameZh),
+      positionZh: normalizeText(person.positionZh),
+      generalInfoZh: normalizeText(person.generalInfoZh),
+      careerHistoryZh: normalizeText(person.careerHistoryZh),
+      detailZh: normalizeText(person.detailZh),
+      translationNote: normalizeText(person.translationNote),
       responsibilities: normalizeText(person.responsibilities),
     }))
     .filter((person) => person.name && !seen.has(person.name) && seen.add(person.name));
