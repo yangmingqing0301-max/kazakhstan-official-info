@@ -44,6 +44,8 @@ function getChineseFields(id) {
     1813: {
       nameZh: "努尔肯诺夫·努尔兰·詹贝尔舒勒",
       positionZh: "阿斯塔纳市第一副市长",
+      workScopeZh:
+        "城市公共交通与通信、道路基础设施、轻轨建设、清雪、城市边缘区域发展、建筑施工监管、劳动监察、兽医、植物保护、公用事业、排水和雨水渠、公用工程网络。",
       generalInfoZh:
         "他个人负责城市公共交通与通信、道路基础设施建设、轻轨线路建设、清雪、城市边缘区域发展、国家建筑和施工监管、劳动监察、兽医、植物保护、公用事业（水供应与用水）、排水、雨水渠以及公用工程网络等领域。他于1976年11月3日出生在采利诺格勒市。教育经历包括：塞弗林阿克莫拉农业大学、哈萨克斯坦共和国总统直属学院国家公共政策学院、卡拉干达经济大学。",
       careerHistoryZh:
@@ -52,6 +54,8 @@ function getChineseFields(id) {
     24969: {
       nameZh: "拜肯·耶塞特·别里库雷",
       positionZh: "阿斯塔纳市副市长",
+      workScopeZh:
+        "下属法人实体、共有建设及问题项目完工、动员和民防、征兵、违法行为预防、内部与青年政策、社会稳定、宗教、教育和语言发展。",
       generalInfoZh:
         "他个人负责与市政府下属法人实体有关的工作、共有建设、问题共有建设项目完工、动员、领土和民防、征兵入伍公民、城市违法行为预防、内部政策、青年政策和意识形态、首都社会政治稳定与社会和谐，以及哈萨克斯坦人民大会秘书处、宗教、预防宗教极端主义和恐怖主义、教育和语言发展等领域。耶塞特·别里库雷·拜肯于1986年10月23日出生在卡拉干达州滕吉兹地区巴尔希诺村。受过高等教育：2005年毕业于哈萨克人文法律大学人文与法律学院，2008年毕业于哈萨克人文法律大学，2010年毕业于叶·阿·布克托夫卡拉干达国立大学。2015年获“劳动优秀奖章”。已婚，育有三个孩子。",
       careerHistoryZh:
@@ -60,6 +64,8 @@ function getChineseFields(id) {
     24546: {
       nameZh: "格洛托夫·叶夫根尼·谢尔盖耶维奇",
       positionZh: "阿斯塔纳市副市长",
+      workScopeZh:
+        "财政预算与经济政策、投资和创新发展、创业、工业、旅游、食品供应、农业、就业与社会保护、公共服务、数字化、卫生、文化和体育。",
       generalInfoZh:
         "他个人负责财政、预算和经济政策，投资与创新发展，创业、工业、旅游、食品供应、农业、就业和社会保护，公共服务、数字化、本地内容推广和协调、“简单事物经济”、社会企业公司（SEC）、卫生、Ikomek 服务工作、文化、体育文化和运动等领域。",
       careerHistoryZh: "官方页面未提供单独的工作履历内容。",
@@ -67,6 +73,7 @@ function getChineseFields(id) {
     22165: {
       nameZh: "叶什克耶夫·道拉特·扎托维奇",
       positionZh: "阿斯塔纳市市长办公室主任",
+      workScopeZh: "市长办公室机关管理、组织协调与行政保障。",
       generalInfoZh:
         "他于1975年出生在卡拉干达。1996年毕业于卡拉干达国立大学（经济学家），2000年和2014年毕业于卡拉干达消费者合作经济大学（法学家、经济学硕士）。",
       careerHistoryZh:
@@ -370,6 +377,7 @@ function compactPeople(people) {
       generalInfoZh: normalizeText(person.generalInfoZh),
       careerHistoryZh: normalizeText(person.careerHistoryZh),
       detailZh: normalizeText(person.detailZh),
+      workScopeZh: normalizeText(person.workScopeZh),
       translationNote: normalizeText(person.translationNote),
       responsibilities: normalizeText(person.responsibilities),
     }))
