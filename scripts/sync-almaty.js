@@ -6,6 +6,14 @@ const API_URL = "https://www.gov.kz/api/v1/public/content-manager/curators?proje
 const OUT_PATH = path.join(__dirname, "..", "data", "almaty-people.json");
 const DISCLAIMER = "本页面内容翻译自原网站，中文翻译仅供参考";
 
+function beijingMidnightIso(date = new Date()) {
+  const beijing = new Date(date.getTime() + 8 * 60 * 60 * 1000);
+  const year = beijing.getUTCFullYear();
+  const month = String(beijing.getUTCMonth() + 1).padStart(2, "0");
+  const day = String(beijing.getUTCDate()).padStart(2, "0");
+  return `${year}-${month}-${day}T00:00:00+08:00`;
+}
+
 const CHINESE_FIELDS = {
   51061: {
     nameZh: "萨特巴尔德·达尔汗·阿曼格尔德吾勒",
@@ -220,7 +228,7 @@ async function main() {
 
   const payload = {
     sourceUrl: SOURCE_URL,
-    syncedAt: new Date().toISOString(),
+    syncedAt: beijingMidnightIso(),
     title: "Almaty city administration structure",
     people,
   };

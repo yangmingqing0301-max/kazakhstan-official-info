@@ -4,6 +4,14 @@ const path = require("node:path");
 const SOURCE_URL = "https://www.gov.kz/memleket/entities/astana/about/structure?lang=en";
 const OUT_PATH = path.join(__dirname, "..", "data", "astana-structure.json");
 
+function beijingMidnightIso(date = new Date()) {
+  const beijing = new Date(date.getTime() + 8 * 60 * 60 * 1000);
+  const year = beijing.getUTCFullYear();
+  const month = String(beijing.getUTCMonth() + 1).padStart(2, "0");
+  const day = String(beijing.getUTCDate()).padStart(2, "0");
+  return `${year}-${month}-${day}T00:00:00+08:00`;
+}
+
 function normalizeText(value = "") {
   return String(value).replace(/\s+/g, " ").trim();
 }
@@ -119,7 +127,7 @@ async function main() {
   }
   const output = {
     sourceUrl: SOURCE_URL,
-    syncedAt: new Date().toISOString(),
+    syncedAt: beijingMidnightIso(),
     title: "Astana city administration structure",
     people,
     warning: people.length === 0 ? payload.warning || "No people were extracted from the source page." : undefined,

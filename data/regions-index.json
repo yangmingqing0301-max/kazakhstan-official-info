@@ -1,0 +1,157 @@
+[
+  {
+    "key": "aqmola",
+    "nameZh": "阿克莫拉州",
+    "capitalZh": "科克舍套",
+    "eyebrow": "Aqmola Region",
+    "sourceUrl": "https://www.gov.kz/memleket/entities/aqmola/about/structure?lang=en",
+    "apiProject": "aqmola",
+    "sourceLanguage": "en"
+  },
+  {
+    "key": "abay",
+    "nameZh": "阿拜州",
+    "capitalZh": "塞梅伊",
+    "eyebrow": "Abay Region",
+    "sourceUrl": "https://www.gov.kz/memleket/entities/abay/about/structure?lang=ru",
+    "apiProject": "abay",
+    "sourceLanguage": "ru"
+  },
+  {
+    "key": "aktobe",
+    "nameZh": "阿克托别州",
+    "capitalZh": "阿克托别",
+    "eyebrow": "Aktobe Region",
+    "sourceUrl": "https://www.gov.kz/memleket/entities/aktobe/about/structure?lang=ru",
+    "apiProject": "aktobe",
+    "sourceLanguage": "ru"
+  },
+  {
+    "key": "almobl",
+    "nameZh": "阿拉木图州",
+    "capitalZh": "科纳耶夫",
+    "eyebrow": "Almaty Region",
+    "sourceUrl": "https://www.gov.kz/memleket/entities/almobl/about/structure?lang=ru",
+    "apiProject": "almobl",
+    "sourceLanguage": "ru"
+  },
+  {
+    "key": "atyrau",
+    "nameZh": "阿特劳州",
+    "capitalZh": "阿特劳",
+    "eyebrow": "Atyrau Region",
+    "sourceUrl": "https://www.gov.kz/memleket/entities/atyrau/about/structure?lang=en",
+    "apiProject": "atyrau",
+    "sourceLanguage": "en"
+  },
+  {
+    "key": "akimvko",
+    "nameZh": "东哈萨克斯坦州",
+    "capitalZh": "乌斯季卡缅诺戈尔斯克",
+    "eyebrow": "East Kazakhstan Region",
+    "sourceUrl": "https://www.gov.kz/memleket/entities/akimvko/about/structure?lang=ru",
+    "apiProject": "akimvko",
+    "sourceLanguage": "ru"
+  },
+  {
+    "key": "pavlodar",
+    "nameZh": "巴甫洛达尔州",
+    "capitalZh": "巴甫洛达尔",
+    "eyebrow": "Pavlodar Region",
+    "sourceUrl": "https://www.gov.kz/memleket/entities/pavlodar/about/structure?lang=ru",
+    "apiProject": "pavlodar",
+    "sourceLanguage": "ru"
+  },
+  {
+    "key": "zhambyl",
+    "nameZh": "江布尔州",
+    "capitalZh": "塔拉兹",
+    "eyebrow": "Zhambyl Region",
+    "sourceUrl": "https://www.gov.kz/memleket/entities/zhambyl/about/structure?lang=ru",
+    "apiProject": "zhambyl",
+    "sourceLanguage": "ru"
+  },
+  {
+    "key": "zhetysu-oblysy",
+    "nameZh": "杰特苏州",
+    "capitalZh": "塔尔迪库尔干",
+    "eyebrow": "Zhetysu Region",
+    "sourceUrl": "https://www.gov.kz/memleket/entities/zhetysu-oblysy/about/structure?lang=ru",
+    "apiProject": "zhetysu-oblysy",
+    "sourceLanguage": "ru"
+  },
+  {
+    "key": "bko",
+    "nameZh": "西哈萨克斯坦州",
+    "capitalZh": "乌拉尔斯克",
+    "eyebrow": "West Kazakhstan Region",
+    "sourceUrl": "https://www.gov.kz/memleket/entities/bko/about/structure?lang=en",
+    "apiProject": "bko",
+    "sourceLanguage": "en"
+  },
+  {
+    "key": "karaganda",
+    "nameZh": "卡拉干达州",
+    "capitalZh": "卡拉干达",
+    "eyebrow": "Karaganda Region",
+    "sourceUrl": "https://www.gov.kz/memleket/entities/karaganda/about/structure?lang=ru",
+    "apiProject": "karaganda",
+    "sourceLanguage": "ru"
+  },
+  {
+    "key": "ulytau",
+    "nameZh": "乌勒套州",
+    "capitalZh": "杰兹卡兹甘",
+    "eyebrow": "Ulytau Region",
+    "sourceUrl": "https://www.gov.kz/memleket/entities/ulytau/about/structure?lang=ru",
+    "apiProject": "ulytau",
+    "sourceLanguage": "ru"
+  },
+  {
+    "key": "kostanay",
+    "nameZh": "科斯塔奈州",
+    "capitalZh": "科斯塔奈",
+    "eyebrow": "Kostanay Region",
+    "sourceUrl": "https://www.gov.kz/memleket/entities/kostanay/about/structure?lang=en",
+    "apiProject": "kostanay",
+    "sourceLanguage": "en",
+    "sortMode": "hierarchy",
+    "dedupePeople": true
+  },
+  {
+    "key": "kyzylorda",
+    "nameZh": "克孜勒奥尔达州",
+    "capitalZh": "克孜勒奥尔达",
+    "eyebrow": "Kyzylorda Region",
+    "sourceUrl": "https://www.gov.kz/memleket/entities/kyzylorda/about/structure?lang=ru",
+    "apiProject": "kyzylorda",
+    "sourceLanguage": "ru"
+  },
+  {
+    "key": "mangystau",
+    "nameZh": "曼格斯套州",
+    "capitalZh": "阿克套",
+    "eyebrow": "Mangystau Region",
+    "sourceUrl": "https://www.gov.kz/memleket/entities/mangystau/about/structure?lang=en",
+    "apiProject": "mangystau",
+    "sourceLanguage": "en"
+  },
+  {
+    "key": "sko",
+    "nameZh": "北哈萨克斯坦州",
+    "capitalZh": "彼得罗巴甫尔",
+    "eyebrow": "North Kazakhstan Region",
+    "sourceUrl": "https://www.gov.kz/memleket/entities/sko/about/structure?lang=ru",
+    "apiProject": "sko",
+    "sourceLanguage": "ru"
+  },
+  {
+    "key": "ontustik",
+    "nameZh": "突厥斯坦州",
+    "capitalZh": "突厥斯坦",
+    "eyebrow": "Turkestan Region",
+    "sourceUrl": "https://www.gov.kz/memleket/entities/ontustik/about/structure?lang=ru",
+    "apiProject": "ontustik",
+    "sourceLanguage": "ru"
+  }
+]

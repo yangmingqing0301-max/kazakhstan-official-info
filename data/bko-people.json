@@ -1,0 +1,1672 @@
+{
+  "sourceUrl": "https://www.gov.kz/memleket/entities/bko/about/structure?lang=en",
+  "syncedAt": "2026-07-17T00:00:00+08:00",
+  "title": "西哈萨克斯坦州机构人员",
+  "region": {
+    "key": "bko",
+    "apiProject": "bko",
+    "sourceLanguage": "en"
+  },
+  "contentBlocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "西哈萨克斯坦州机构人员"
+    },
+    {
+      "type": "person",
+      "id": 1038,
+      "name": "Turegaliev Nariman",
+      "position": "Akim of the West-Kazakhstan region",
+      "positionZh": "西哈萨克斯坦州州长",
+      "photo": "https://www.gov.kz/uploads/2022/12/15/f2c852090150354db378f951be71a156_original.113027.jpeg"
+    },
+    {
+      "type": "person",
+      "id": 36839,
+      "name": "Aitmukhambetov Kaliar Shadiyarovich",
+      "position": "Deputy Akim of the West Kazakhstan region",
+      "positionZh": "西哈萨克斯坦州副州长",
+      "photo": "https://www.gov.kz/uploads/2023/9/1/befbe7145ad2ee0cb21805792a01e1e9_original.42603.jpeg"
+    },
+    {
+      "type": "person",
+      "id": 22792,
+      "name": "Kayupov Tlepbergen Ersaevich",
+      "position": "Deputy Akim of the West Kazakhstan region",
+      "positionZh": "西哈萨克斯坦州副州长",
+      "photo": "https://www.gov.kz/uploads/2023/2/17/38d30e7f1d44ee53db9f375e2eb97873_original.35649.jpg"
+    },
+    {
+      "type": "person",
+      "id": 19590,
+      "name": "Mulkai Miras Rustemuly",
+      "position": "Deputy Akim of the West Kazakhstan region",
+      "positionZh": "西哈萨克斯坦州副州长",
+      "photo": "https://www.gov.kz/uploads/2025/7/16/8b21c2e5eaea113c379b668b190b046a_original.519756.jpeg"
+    },
+    {
+      "type": "person",
+      "id": 46598,
+      "name": "Mendigaliyev Kairzhan Yermekuly",
+      "position": "Deputy Akim of the West Kazakhstan region",
+      "positionZh": "西哈萨克斯坦州副州长",
+      "photo": "https://www.gov.kz/uploads/2024/7/5/aeb785817a54edd98a27c83686272338_original.18686.JPG"
+    },
+    {
+      "type": "person",
+      "id": 11426,
+      "name": "Oraz Nurdilda Serikuly",
+      "position": "Head of staff",
+      "positionZh": "部门负责人",
+      "photo": "https://www.gov.kz/uploads/2023/7/19/cdd0e319c0818bd33e949bf0017b4b0a_original.432848.jpeg"
+    },
+    {
+      "type": "person",
+      "id": 29629,
+      "name": "Mukambetzhanov Askar Zhumartovich",
+      "position": "Deputy Chief of Staff",
+      "positionZh": "办公室主任",
+      "photo": "https://www.gov.kz/uploads/2025/3/6/51b8e7de23ece30131504901fd0aa949_original.86638.jpeg"
+    },
+    {
+      "type": "person",
+      "id": 41632,
+      "name": "Gumarov Zhalgas Akhatovich",
+      "position": "Deputy chief of staff",
+      "positionZh": "办公室主任",
+      "photo": "https://www.gov.kz/uploads/2025/4/25/4d49e8644c0dcf364243ac7552785a1a_original.161294.jpeg"
+    },
+    {
+      "type": "person",
+      "id": 3470,
+      "name": "Khayrullina Ayman Rafikovna",
+      "position": "Ethics Commissioner",
+      "positionZh": "伦理专员",
+      "photo": "https://www.gov.kz/uploads/2020/1/10/d5de1198c5d707a0099b22b32f4c3de2_original.198270.jpeg"
+    },
+    {
+      "type": "person",
+      "id": 1177,
+      "name": "Ahmetov Nurlan Serikkalievich",
+      "position": "Head of department",
+      "positionZh": "部门负责人",
+      "photo": "https://www.gov.kz/uploads/2021/7/21/74ec500374f928d595b12607759260a2_original.76662.jpeg"
+    },
+    {
+      "type": "person",
+      "id": 1187,
+      "name": "Rakhmetova Gulzada Jardemovna",
+      "position": "Head of department",
+      "positionZh": "部门负责人",
+      "photo": "https://www.gov.kz/uploads/2024/10/10/1a4a752cf8d3556bca16542de4e4b1b8_original.82362.jpeg"
+    },
+    {
+      "type": "person",
+      "id": 1195,
+      "name": "Nurzhanova Zukhra Utegenovna",
+      "position": "Department head",
+      "positionZh": "部门负责人",
+      "photo": "https://www.gov.kz/uploads/2023/1/17/698a7151e67dcbdb9d11dd7b23d9841f_original.139730.jpeg"
+    },
+    {
+      "type": "person",
+      "id": 1196,
+      "name": "Kuanyshkalieva Aliya Kakharmanovna",
+      "position": "Head of department",
+      "positionZh": "部门负责人",
+      "photo": "https://www.gov.kz/uploads/2020/1/10/cbf0a3ad3a2df76e40510020d3596586_original.160618.jpeg"
+    },
+    {
+      "type": "person",
+      "id": 21159,
+      "name": "Ahmetov Nurlan Serikkalievich",
+      "position": "Head of Department",
+      "positionZh": "部门负责人",
+      "photo": "https://www.gov.kz/uploads/2021/7/21/74ec500374f928d595b12607759260a2_original.76662.jpeg"
+    },
+    {
+      "type": "person",
+      "id": 31543,
+      "name": "Вакансия .",
+      "position": "Руководитель отдела",
+      "positionZh": "部门负责人",
+      "photo": ""
+    },
+    {
+      "type": "person",
+      "id": 38012,
+      "name": "Yeszhanov Arman Makhsotkalievich",
+      "position": "Acting Head",
+      "positionZh": "代理负责人",
+      "photo": ""
+    },
+    {
+      "type": "person",
+      "id": 36388,
+      "name": "Ishangalieva Elmira Yerbolovna",
+      "position": "Head of Department",
+      "positionZh": "部门负责人",
+      "photo": "https://www.gov.kz/uploads/2023/7/31/9ceaca03cd2557052a75e236ba8a5cf6_original.266946.jpeg"
+    },
+    {
+      "type": "person",
+      "id": 21972,
+      "name": "Karmenov Azamat Gabdrashitovich",
+      "position": "Department head",
+      "positionZh": "部门负责人",
+      "photo": "https://www.gov.kz/uploads/2023/9/7/d955601f3c19dc83eae12e2fa681e20d_original.10243.jpeg"
+    },
+    {
+      "type": "person",
+      "id": 45128,
+      "name": "Isimov Kuanyshkali Sergeevich",
+      "position": "Department head",
+      "positionZh": "部门负责人",
+      "photo": ""
+    },
+    {
+      "type": "person",
+      "id": 36387,
+      "name": "Bakhishev Daniyar Muratuly",
+      "position": "Head of Department",
+      "positionZh": "部门负责人",
+      "photo": ""
+    },
+    {
+      "type": "person",
+      "id": 47216,
+      "name": "Togzhanov Altynbek Maksotovich",
+      "position": "Department head",
+      "positionZh": "部门负责人",
+      "photo": "https://www.gov.kz/uploads/2025/1/23/4f7da3740ccde0fb6a757ec546a98aff_original.565998.jpeg"
+    },
+    {
+      "type": "person",
+      "id": 50270,
+      "name": "Kadyrov Zhanat Zhaksylykovich",
+      "position": "Руководитель отдела",
+      "positionZh": "部门负责人",
+      "photo": ""
+    },
+    {
+      "type": "person",
+      "id": 52431,
+      "name": "Zhangerey Аlibi Almazuly",
+      "position": "Department head",
+      "positionZh": "部门负责人",
+      "photo": ""
+    },
+    {
+      "type": "person",
+      "id": 45626,
+      "name": "Darisov Altai Nurlanovich",
+      "position": "Head of Department",
+      "positionZh": "部门负责人",
+      "photo": ""
+    },
+    {
+      "type": "person",
+      "id": 52981,
+      "name": "Kinamayev Yernur Serikuly",
+      "position": "Press Secretary",
+      "positionZh": "新闻秘书",
+      "photo": "https://www.gov.kz/uploads/2026/1/30/9a030c33798045b852cffe19e34df396_original.166694.jpeg"
+    },
+    {
+      "type": "person",
+      "id": 1161,
+      "name": "Habieva Bibigul Seylhanova",
+      "position": "Head of department",
+      "positionZh": "部门负责人",
+      "photo": ""
+    },
+    {
+      "type": "person",
+      "id": 5372,
+      "name": "Dainov Yerbol Dainovich",
+      "position": "Head of department",
+      "positionZh": "部门负责人",
+      "photo": "https://www.gov.kz/uploads/2020/1/20/4854132d941084d779648f7f0be40f90_original.92410.JPG"
+    },
+    {
+      "type": "person",
+      "id": 38007,
+      "name": "Dzhumagaziev Rashid Gabdrakhimovich",
+      "position": "Director",
+      "positionZh": "主任",
+      "photo": ""
+    }
+  ],
+  "people": [
+    {
+      "id": 1038,
+      "name": "Turegaliev Nariman",
+      "nameZh": "Turegaliev Nariman",
+      "position": "Akim of the West-Kazakhstan region",
+      "positionZh": "西哈萨克斯坦州州长",
+      "responsibilities": "",
+      "workScopeZh": "官方页面未列出单独工作范围。",
+      "order": "1",
+      "levelPosition": "Akim",
+      "sourceIndex": 18,
+      "photo": "https://www.gov.kz/uploads/2022/12/15/f2c852090150354db378f951be71a156_original.113027.jpeg",
+      "phone": "8 (7112) 24-20-00, 8 (7112) 24-20-01",
+      "receptionPhone": "8 (7112) 24-20-00, 8 (7112) 24-20-01",
+      "email": "n.turegaliev@bko.gov.kz",
+      "biographyUrl": "https://www.gov.kz/memleket/entities/bko/about/structure/people/1038?lang=en",
+      "generalInfoHtml": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p>Nariman Turegaliev &ndash; born in 1964, higher education, graduated from Zhambyl Hydro-Reclamation and Construction Institute in 1990 with a degree in \"Engineer-economist\", in 2004 - &middot; Caspian Public University with a degree in \"Lawyer\".</p>\n<p>Date of appointment: 02.12.2022</p>\n<p>&nbsp;</p>\n</body>\n</html>",
+      "careerHistoryHtml": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p><strong>CAREER</strong></p>\n<ul>\n<li>Economist, Chief economist of the Agricultural Association named after the \"XVII Party Congress\" (1990-1995);</li>\n<li>Chief Accountant, Chief Economist, supplier of the Aitievo production complex (1997-1999);</li>\n<li>Head of the farm \"Akzhol\" (1999-2001);</li>\n<li>Head of the Department of Labor and Social Protection of the population of the Terektinsky district of the West Kazakhstan region (2001-2002);</li>\n<li>Director of a general type boarding school, Uralsk (2002-2003);</li>\n<li>Deputy Head of the Department of Employment and Social Protection of the Population of the West Kazakhstan region (2003-2005);</li>\n<li>Deputy Director of the Department of Coordination of Employment and Social Programs of the West Kazakhstan region (2005-2008);</li>\n<li>Director of the Department of the Agency of the Republic of Kazakhstan for Regulation of Natural Monopolies in the West Kazakhstan region (2008-2010);</li>\n<li>Head of the Department of Employment and Social Programs of the West Kazakhstan region (2010-2012);</li>\n<li>Akim of Akzhaiksky district of West Kazakhstan region (2012-2015);</li>\n<li>Deputy Akim of West Kazakhstan region (2015-2016);</li>\n<li>Akim of the city of Uralsk (2016-2017);</li>\n</ul>\n<p><strong>Elected positions, deputations:</strong></p>\n<ul>\n<li>Deputy of the Senate of the Parliament of the Republic of Kazakhstan (since 06.2017);</li>\n<li>Secretary of the Committee on Socio-Cultural Development and Science (09.2020-06.2022);</li>\n<li>Chairman of the Committee on Socio-Cultural Development and Science (06.2022-12.2022).</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>State and international awards, prizes, honorary titles:</strong></p>\n<p>Order of \"Kurmet\" (2016)</p>\n</body>\n</html>",
+      "generalInfoBlocks": [
+        {
+          "type": "paragraph",
+          "text": "Nariman Turegaliev – born in 1964, higher education, graduated from Zhambyl Hydro-Reclamation and Construction Institute in 1990 with a degree in \"Engineer-economist\", in 2004 - &middot; Caspian Public University with a degree in \"Lawyer\"."
+        },
+        {
+          "type": "paragraph",
+          "text": "Date of appointment: 02.12.2022"
+        }
+      ],
+      "careerHistoryBlocks": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "type": "listItem",
+              "text": "Economist, Chief economist of the Agricultural Association named after the \"XVII Party Congress\" (1990-1995);"
+            },
+            {
+              "type": "listItem",
+              "text": "Chief Accountant, Chief Economist, supplier of the Aitievo production complex (1997-1999);"
+            },
+            {
+              "type": "listItem",
+              "text": "Head of the farm \"Akzhol\" (1999-2001);"
+            },
+            {
+              "type": "listItem",
+              "text": "Head of the Department of Labor and Social Protection of the population of the Terektinsky district of the West Kazakhstan region (2001-2002);"
+            },
+            {
+              "type": "listItem",
+              "text": "Director of a general type boarding school, Uralsk (2002-2003);"
+            },
+            {
+              "type": "listItem",
+              "text": "Deputy Head of the Department of Employment and Social Protection of the Population of the West Kazakhstan region (2003-2005);"
+            },
+            {
+              "type": "listItem",
+              "text": "Deputy Director of the Department of Coordination of Employment and Social Programs of the West Kazakhstan region (2005-2008);"
+            },
+            {
+              "type": "listItem",
+              "text": "Director of the Department of the Agency of the Republic of Kazakhstan for Regulation of Natural Monopolies in the West Kazakhstan region (2008-2010);"
+            },
+            {
+              "type": "listItem",
+              "text": "Head of the Department of Employment and Social Programs of the West Kazakhstan region (2010-2012);"
+            },
+            {
+              "type": "listItem",
+              "text": "Akim of Akzhaiksky district of West Kazakhstan region (2012-2015);"
+            },
+            {
+              "type": "listItem",
+              "text": "Deputy Akim of West Kazakhstan region (2015-2016);"
+            },
+            {
+              "type": "listItem",
+              "text": "Akim of the city of Uralsk (2016-2017);"
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "type": "listItem",
+              "text": "Deputy of the Senate of the Parliament of the Republic of Kazakhstan (since 06.2017);"
+            },
+            {
+              "type": "listItem",
+              "text": "Secretary of the Committee on Socio-Cultural Development and Science (09.2020-06.2022);"
+            },
+            {
+              "type": "listItem",
+              "text": "Chairman of the Committee on Socio-Cultural Development and Science (06.2022-12.2022)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "CAREER"
+        },
+        {
+          "type": "paragraph",
+          "text": "Elected positions, deputations:"
+        },
+        {
+          "type": "paragraph",
+          "text": "State and international awards, prizes, honorary titles:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Order of \"Kurmet\" (2016)"
+        }
+      ],
+      "generalInfo": "Nariman Turegaliev – born in 1964, higher education, graduated from Zhambyl Hydro-Reclamation and Construction Institute in 1990 with a degree in \"Engineer-economist\", in 2004 - &middot; Caspian Public University with a degree in \"Lawyer\".\nDate of appointment: 02.12.2022",
+      "careerHistory": "Economist, Chief economist of the Agricultural Association named after the \"XVII Party Congress\" (1990-1995);\nChief Accountant, Chief Economist, supplier of the Aitievo production complex (1997-1999);\nHead of the farm \"Akzhol\" (1999-2001);\nHead of the Department of Labor and Social Protection of the population of the Terektinsky district of the West Kazakhstan region (2001-2002);\nDirector of a general type boarding school, Uralsk (2002-2003);\nDeputy Head of the Department of Employment and Social Protection of the Population of the West Kazakhstan region (2003-2005);\nDeputy Director of the Department of Coordination of Employment and Social Programs of the West Kazakhstan region (2005-2008);\nDirector of the Department of the Agency of the Republic of Kazakhstan for Regulation of Natural Monopolies in the West Kazakhstan region (2008-2010);\nHead of the Department of Employment and Social Programs of the West Kazakhstan region (2010-2012);\nAkim of Akzhaiksky district of West Kazakhstan region (2012-2015);\nDeputy Akim of West Kazakhstan region (2015-2016);\nAkim of the city of Uralsk (2016-2017);\nDeputy of the Senate of the Parliament of the Republic of Kazakhstan (since 06.2017);\nSecretary of the Committee on Socio-Cultural Development and Science (09.2020-06.2022);\nChairman of the Committee on Socio-Cultural Development and Science (06.2022-12.2022).\nCAREER\nElected positions, deputations:\nState and international awards, prizes, honorary titles:\nOrder of \"Kurmet\" (2016)",
+      "translationSourceLanguage": "en",
+      "translationNote": "本页面内容翻译自原网站，中文翻译仅供参考。",
+      "generalInfoBlocksZh": [
+        {
+          "type": "paragraph",
+          "text": "Nariman Turegaliev – 出生于 1964 年，受过高等教育，1990 年毕业于江布尔水利水电填海与建筑学院，获得“工程师-经济学家”学位，2004 年毕业于里海公立大学，获得“律师”学位。",
+          "sourceText": "Nariman Turegaliev – born in 1964, higher education, graduated from Zhambyl Hydro-Reclamation and Construction Institute in 1990 with a degree in \"Engineer-economist\", in 2004 - &middot; Caspian Public University with a degree in \"Lawyer\"."
+        },
+        {
+          "type": "paragraph",
+          "text": "预约日期：2022年12月2日",
+          "sourceText": "Date of appointment: 02.12.2022"
+        }
+      ],
+      "careerHistoryBlocksZh": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "type": "listItem",
+              "text": "经济师，“十七大”命名的农协总经济师（1990-1995年）；",
+              "sourceText": "Economist, Chief economist of the Agricultural Association named after the \"XVII Party Congress\" (1990-1995);"
+            },
+            {
+              "type": "listItem",
+              "text": "Aitievo 生产基地总会计师、总经济师、供应商（1997-1999 年）；",
+              "sourceText": "Chief Accountant, Chief Economist, supplier of the Aitievo production complex (1997-1999);"
+            },
+            {
+              "type": "listItem",
+              "text": "“Akzhol”农场负责人（1999-2001）；",
+              "sourceText": "Head of the farm \"Akzhol\" (1999-2001);"
+            },
+            {
+              "type": "listItem",
+              "text": "西哈萨克斯坦地区捷列克京斯基区劳动和社会保障部部长（2001-2002年）；",
+              "sourceText": "Head of the Department of Labor and Social Protection of the population of the Terektinsky district of the West Kazakhstan region (2001-2002);"
+            },
+            {
+              "type": "listItem",
+              "text": "乌拉尔斯克普通寄宿学校校长（2002-2003）；",
+              "sourceText": "Director of a general type boarding school, Uralsk (2002-2003);"
+            },
+            {
+              "type": "listItem",
+              "text": "西哈萨克斯坦地区就业和人口社会保障部副部长（2003-2005年）；",
+              "sourceText": "Deputy Head of the Department of Employment and Social Protection of the Population of the West Kazakhstan region (2003-2005);"
+            },
+            {
+              "type": "listItem",
+              "text": "西哈萨克斯坦地区就业和社会项目协调司副司长（2005-2008年）；",
+              "sourceText": "Deputy Director of the Department of Coordination of Employment and Social Programs of the West Kazakhstan region (2005-2008);"
+            },
+            {
+              "type": "listItem",
+              "text": "哈萨克斯坦共和国西哈萨克斯坦地区自然垄断监管局局长（2008年至2010年）；",
+              "sourceText": "Director of the Department of the Agency of the Republic of Kazakhstan for Regulation of Natural Monopolies in the West Kazakhstan region (2008-2010);"
+            },
+            {
+              "type": "listItem",
+              "text": "西哈萨克斯坦地区就业和社会计划部部长（2010-2012 年）；",
+              "sourceText": "Head of the Department of Employment and Social Programs of the West Kazakhstan region (2010-2012);"
+            },
+            {
+              "type": "listItem",
+              "text": "西哈萨克斯坦州阿克扎伊克斯区的阿基姆（2012-2015）；",
+              "sourceText": "Akim of Akzhaiksky district of West Kazakhstan region (2012-2015);"
+            },
+            {
+              "type": "listItem",
+              "text": "西哈萨克斯坦州副阿基姆（2015-2016）；",
+              "sourceText": "Deputy Akim of West Kazakhstan region (2015-2016);"
+            },
+            {
+              "type": "listItem",
+              "text": "乌拉尔斯克市的阿基姆（2016-2017）；",
+              "sourceText": "Akim of the city of Uralsk (2016-2017);"
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "type": "listItem",
+              "text": "哈萨克斯坦共和国议会参议院议员（自2017年6月起）；",
+              "sourceText": "Deputy of the Senate of the Parliament of the Republic of Kazakhstan (since 06.2017);"
+            },
+            {
+              "type": "listItem",
+              "text": "社会文化发展与科学委员会秘书（09.2020-06.2022）；",
+              "sourceText": "Secretary of the Committee on Socio-Cultural Development and Science (09.2020-06.2022);"
+            },
+            {
+              "type": "listItem",
+              "text": "社会文化发展与科学委员会主席（06.2022-12.2022）。",
+              "sourceText": "Chairman of the Committee on Socio-Cultural Development and Science (06.2022-12.2022)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "职业生涯",
+          "sourceText": "CAREER"
+        },
+        {
+          "type": "paragraph",
+          "text": "当选职位、代表：",
+          "sourceText": "Elected positions, deputations:"
+        },
+        {
+          "type": "paragraph",
+          "text": "国家和国际奖项、奖品、荣誉称号：",
+          "sourceText": "State and international awards, prizes, honorary titles:"
+        },
+        {
+          "type": "paragraph",
+          "text": "“库尔梅特”勋章 (2016)",
+          "sourceText": "Order of \"Kurmet\" (2016)"
+        }
+      ],
+      "generalInfoZh": "Nariman Turegaliev – 出生于 1964 年，受过高等教育，1990 年毕业于江布尔水利水电填海与建筑学院，获得“工程师-经济学家”学位，2004 年毕业于里海公立大学，获得“律师”学位。\n预约日期：2022年12月2日",
+      "careerHistoryZh": "经济师，“十七大”命名的农协总经济师（1990-1995年）；\nAitievo 生产基地总会计师、总经济师、供应商（1997-1999 年）；\n“Akzhol”农场负责人（1999-2001）；\n西哈萨克斯坦地区捷列克京斯基区劳动和社会保障部部长（2001-2002年）；\n乌拉尔斯克普通寄宿学校校长（2002-2003）；\n西哈萨克斯坦地区就业和人口社会保障部副部长（2003-2005年）；\n西哈萨克斯坦地区就业和社会项目协调司副司长（2005-2008年）；\n哈萨克斯坦共和国西哈萨克斯坦地区自然垄断监管局局长（2008年至2010年）；\n西哈萨克斯坦地区就业和社会计划部部长（2010-2012 年）；\n西哈萨克斯坦州阿克扎伊克斯区的阿基姆（2012-2015）；\n西哈萨克斯坦州副阿基姆（2015-2016）；\n乌拉尔斯克市的阿基姆（2016-2017）；\n哈萨克斯坦共和国议会参议院议员（自2017年6月起）；\n社会文化发展与科学委员会秘书（09.2020-06.2022）；\n社会文化发展与科学委员会主席（06.2022-12.2022）。\n职业生涯\n当选职位、代表：\n国家和国际奖项、奖品、荣誉称号：\n“库尔梅特”勋章 (2016)",
+      "detailZh": "Nariman Turegaliev – 出生于 1964 年，受过高等教育，1990 年毕业于江布尔水利水电填海与建筑学院，获得“工程师-经济学家”学位，2004 年毕业于里海公立大学，获得“律师”学位。\n预约日期：2022年12月2日\n经济师，“十七大”命名的农协总经济师（1990-1995年）；\nAitievo 生产基地总会计师、总经济师、供应商（1997-1999 年）；\n“Akzhol”农场负责人（1999-2001）；\n西哈萨克斯坦地区捷列克京斯基区劳动和社会保障部部长（2001-2002年）；\n乌拉尔斯克普通寄宿学校校长（2002-2003）；\n西哈萨克斯坦地区就业和人口社会保障部副部长（2003-2005年）；\n西哈萨克斯坦地区就业和社会项目协调司副司长（2005-2008年）；\n哈萨克斯坦共和国西哈萨克斯坦地区自然垄断监管局局长（2008年至2010年）；\n西哈萨克斯坦地区就业和社会计划部部长（2010-2012 年）；\n西哈萨克斯坦州阿克扎伊克斯区的阿基姆（2012-2015）；\n西哈萨克斯坦州副阿基姆（2015-2016）；\n乌拉尔斯克市的阿基姆（2016-2017）；\n哈萨克斯坦共和国议会参议院议员（自2017年6月起）；\n社会文化发展与科学委员会秘书（09.2020-06.2022）；\n社会文化发展与科学委员会主席（06.2022-12.2022）。\n职业生涯\n当选职位、代表：\n国家和国际奖项、奖品、荣誉称号：\n“库尔梅特”勋章 (2016)"
+    },
+    {
+      "id": 36839,
+      "name": "Aitmukhambetov Kaliar Shadiyarovich",
+      "nameZh": "Aitmukhambetov Kaliar Shadiyarovich",
+      "position": "Deputy Akim of the West Kazakhstan region",
+      "positionZh": "西哈萨克斯坦州副州长",
+      "responsibilities": "Agriculture\nVeterinary medicine\nNatural resources\nLand relations",
+      "workScopeZh": "土地关系",
+      "order": "2",
+      "levelPosition": "Deputy Akim",
+      "sourceIndex": 19,
+      "photo": "https://www.gov.kz/uploads/2023/9/1/befbe7145ad2ee0cb21805792a01e1e9_original.42603.jpeg",
+      "phone": "8 (7112) 24-10-60",
+      "receptionPhone": "8 (7112) 24-10-60",
+      "email": "ka.aitmukhambetov@bko.gov.kz",
+      "biographyUrl": "https://www.gov.kz/memleket/entities/bko/about/structure/people/36839?lang=en",
+      "generalInfoHtml": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p>Aitmukhambetov Kaliyar Shadiyarovich - born in 1969. Education &ndash; higher. <span>He </span><span class=\"EzKURWReUAB5oZgtQNkl\" data-src-align=\"0:7\">graduated</span><span> from the </span><span class=\"EzKURWReUAB5oZgtQNkl\" data-src-align=\"8:7\">West</span><span> </span><span class=\"EzKURWReUAB5oZgtQNkl\" data-src-align=\"16:13\">Kazakhstan</span><span> </span><span class=\"EzKURWReUAB5oZgtQNkl\" data-src-align=\"30:20\">Agricultural</span><span> </span><span class=\"EzKURWReUAB5oZgtQNkl\" data-src-align=\"51:11\">University</span><span> </span><span class=\"EzKURWReUAB5oZgtQNkl\" data-src-align=\"63:1\">and</span><span> the </span><span class=\"EzKURWReUAB5oZgtQNkl\" data-src-align=\"65:7\">West</span><span> </span><span class=\"EzKURWReUAB5oZgtQNkl\" data-src-align=\"73:13\">Kazakhstan</span><span> </span><span class=\"EzKURWReUAB5oZgtQNkl\" data-src-align=\"87:9\">Engineering</span><span> and </span><span class=\"EzKURWReUAB5oZgtQNkl\" data-src-align=\"97:12\">Humanities</span><span> </span><span class=\"EzKURWReUAB5oZgtQNkl\" data-src-align=\"110:11\">University</span><span> with </span><span class=\"EzKURWReUAB5oZgtQNkl\" data-src-align=\"122:2\">a</span><span> </span><span class=\"EzKURWReUAB5oZgtQNkl\" data-src-align=\"125:14\">degree</span><span> in </span><span class=\"EzKURWReUAB5oZgtQNkl\" data-src-align=\"141:9\">agronomy</span><span> and </span><span class=\"EzKURWReUAB5oZgtQNkl\" data-src-align=\"154:13\">law</span><span class=\"EzKURWReUAB5oZgtQNkl\" data-src-align=\"168:1\">.</span></p>\n</body>\n</html>",
+      "careerHistoryHtml": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p>He began his career in 1986 as a worker of the state farm \"Kyzylkulsky\" of the Chingirlau district.</p>\n<p>In different years he worked:<br />- Deputy director for youth work of the state farm \"Kyzylkulsky\", agronomist of department No. 2 Shoktybai Chingirlau district;<br />- Chief specialist of the Department of Internal Policy and Social Sphere of the akim's office of Chingirlau district;<br />- Head of the Department of Employment and Social protection of the population of Chingirlau district;<br />- head of the akim's office, deputy akim of Chingirlau district;<br />- Head of the Department of Coordination of employment and social programs of the West Kazakhstan region.</p>\n<p>Until today, he worked as the akim of the Akzhaiksky district of the West Kazakhstan region.</p>\n<p>Aitmukhambetov Kaliar Shaidiyarovich will oversee issues of energy and housing and communal services, entrepreneurship and industrial and innovative development, agriculture, land relations, natural resources and environmental management regulation, veterinary medicine.</p>\n</body>\n</html>",
+      "generalInfoBlocks": [
+        {
+          "type": "paragraph",
+          "text": "Aitmukhambetov Kaliyar Shadiyarovich - born in 1969. Education – higher. He graduated from the West Kazakhstan Agricultural University and the West Kazakhstan Engineering and Humanities University with a degree in agronomy and law ."
+        }
+      ],
+      "careerHistoryBlocks": [
+        {
+          "type": "paragraph",
+          "text": "He began his career in 1986 as a worker of the state farm \"Kyzylkulsky\" of the Chingirlau district."
+        },
+        {
+          "type": "paragraph",
+          "text": "In different years he worked:"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Deputy director for youth work of the state farm \"Kyzylkulsky\", agronomist of department No. 2 Shoktybai Chingirlau district;"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Chief specialist of the Department of Internal Policy and Social Sphere of the akim's office of Chingirlau district;"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Head of the Department of Employment and Social protection of the population of Chingirlau district;"
+        },
+        {
+          "type": "paragraph",
+          "text": "- head of the akim's office, deputy akim of Chingirlau district;"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Head of the Department of Coordination of employment and social programs of the West Kazakhstan region."
+        },
+        {
+          "type": "paragraph",
+          "text": "Until today, he worked as the akim of the Akzhaiksky district of the West Kazakhstan region."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aitmukhambetov Kaliar Shaidiyarovich will oversee issues of energy and housing and communal services, entrepreneurship and industrial and innovative development, agriculture, land relations, natural resources and environmental management regulation, veterinary medicine."
+        }
+      ],
+      "generalInfo": "Aitmukhambetov Kaliyar Shadiyarovich - born in 1969. Education – higher. He graduated from the West Kazakhstan Agricultural University and the West Kazakhstan Engineering and Humanities University with a degree in agronomy and law .",
+      "careerHistory": "He began his career in 1986 as a worker of the state farm \"Kyzylkulsky\" of the Chingirlau district.\nIn different years he worked:\n- Deputy director for youth work of the state farm \"Kyzylkulsky\", agronomist of department No. 2 Shoktybai Chingirlau district;\n- Chief specialist of the Department of Internal Policy and Social Sphere of the akim's office of Chingirlau district;\n- Head of the Department of Employment and Social protection of the population of Chingirlau district;\n- head of the akim's office, deputy akim of Chingirlau district;\n- Head of the Department of Coordination of employment and social programs of the West Kazakhstan region.\nUntil today, he worked as the akim of the Akzhaiksky district of the West Kazakhstan region.\nAitmukhambetov Kaliar Shaidiyarovich will oversee issues of energy and housing and communal services, entrepreneurship and industrial and innovative development, agriculture, land relations, natural resources and environmental management regulation, veterinary medicine.",
+      "translationSourceLanguage": "en",
+      "translationNote": "本页面内容翻译自原网站，中文翻译仅供参考。",
+      "generalInfoBlocksZh": [
+        {
+          "type": "paragraph",
+          "text": "Aitmukhambetov Kaliyar Shadiyarovich - 出生于 1969 年。教育程度 – 较高。毕业于西哈萨克斯坦农业大学和西哈萨克斯坦工程人文大学，获农学和法学学位。",
+          "sourceText": "Aitmukhambetov Kaliyar Shadiyarovich - born in 1969. Education – higher. He graduated from the West Kazakhstan Agricultural University and the West Kazakhstan Engineering and Humanities University with a degree in agronomy and law ."
+        }
+      ],
+      "careerHistoryBlocksZh": [
+        {
+          "type": "paragraph",
+          "text": "1986 年，他作为 Chingirlau 区国营农场“Kyzylkulsky”的一名工人开始了自己的职业生涯。",
+          "sourceText": "He began his career in 1986 as a worker of the state farm \"Kyzylkulsky\" of the Chingirlau district."
+        },
+        {
+          "type": "paragraph",
+          "text": "在不同年份，他工作过：",
+          "sourceText": "In different years he worked:"
+        },
+        {
+          "type": "paragraph",
+          "text": "中文译文待同步，请以页面底部来源链接为准。",
+          "sourceText": "- Deputy director for youth work of the state farm \"Kyzylkulsky\", agronomist of department No. 2 Shoktybai Chingirlau district;"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Chingirlau区政府办公室内部政策和社会领域部首席专家；",
+          "sourceText": "- Chief specialist of the Department of Internal Policy and Social Sphere of the akim's office of Chingirlau district;"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Chingirlau区就业和社会保障部部长；",
+          "sourceText": "- Head of the Department of Employment and Social protection of the population of Chingirlau district;"
+        },
+        {
+          "type": "paragraph",
+          "text": "- 钦吉尔劳区县长办公室主任、副县长；",
+          "sourceText": "- head of the akim's office, deputy akim of Chingirlau district;"
+        },
+        {
+          "type": "paragraph",
+          "text": "- 西哈萨克斯坦地区就业和社会计划协调部负责人。",
+          "sourceText": "- Head of the Department of Coordination of employment and social programs of the West Kazakhstan region."
+        },
+        {
+          "type": "paragraph",
+          "text": "直到今天，他一直担任西哈萨克斯坦地区阿克扎伊克斯区的州长。",
+          "sourceText": "Until today, he worked as the akim of the Akzhaiksky district of the West Kazakhstan region."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aitmukhambetov Kaliar Shaidiyarovich 将监督能源、住房和公共服务、创业和工业和创新发展、农业、土地关系、自然资源和环境管理监管、兽医等问题。",
+          "sourceText": "Aitmukhambetov Kaliar Shaidiyarovich will oversee issues of energy and housing and communal services, entrepreneurship and industrial and innovative development, agriculture, land relations, natural resources and environmental management regulation, veterinary medicine."
+        }
+      ],
+      "generalInfoZh": "Aitmukhambetov Kaliyar Shadiyarovich - 出生于 1969 年。教育程度 – 较高。毕业于西哈萨克斯坦农业大学和西哈萨克斯坦工程人文大学，获农学和法学学位。",
+      "careerHistoryZh": "1986 年，他作为 Chingirlau 区国营农场“Kyzylkulsky”的一名工人开始了自己的职业生涯。\n在不同年份，他工作过：\n中文译文待同步，请以页面底部来源链接为准。\n- Chingirlau区政府办公室内部政策和社会领域部首席专家；\n- Chingirlau区就业和社会保障部部长；\n- 钦吉尔劳区县长办公室主任、副县长；\n- 西哈萨克斯坦地区就业和社会计划协调部负责人。\n直到今天，他一直担任西哈萨克斯坦地区阿克扎伊克斯区的州长。\nAitmukhambetov Kaliar Shaidiyarovich 将监督能源、住房和公共服务、创业和工业和创新发展、农业、土地关系、自然资源和环境管理监管、兽医等问题。",
+      "detailZh": "Aitmukhambetov Kaliyar Shadiyarovich - 出生于 1969 年。教育程度 – 较高。毕业于西哈萨克斯坦农业大学和西哈萨克斯坦工程人文大学，获农学和法学学位。\n1986 年，他作为 Chingirlau 区国营农场“Kyzylkulsky”的一名工人开始了自己的职业生涯。\n在不同年份，他工作过：\n中文译文待同步，请以页面底部来源链接为准。\n- Chingirlau区政府办公室内部政策和社会领域部首席专家；\n- Chingirlau区就业和社会保障部部长；\n- 钦吉尔劳区县长办公室主任、副县长；\n- 西哈萨克斯坦地区就业和社会计划协调部负责人。\n直到今天，他一直担任西哈萨克斯坦地区阿克扎伊克斯区的州长。\nAitmukhambetov Kaliar Shaidiyarovich 将监督能源、住房和公共服务、创业和工业和创新发展、农业、土地关系、自然资源和环境管理监管、兽医等问题。"
+    },
+    {
+      "id": 22792,
+      "name": "Kayupov Tlepbergen Ersaevich",
+      "nameZh": "Kayupov Tlepbergen Ersaevich",
+      "position": "Deputy Akim of the West Kazakhstan region",
+      "positionZh": "西哈萨克斯坦州副州长",
+      "responsibilities": "Entrepreneurship\nHealthcare\nSocial protection\nBudget\nPublic procurement",
+      "workScopeZh": "创业与企业事务",
+      "order": "3",
+      "levelPosition": "Deputy Akim",
+      "sourceIndex": 20,
+      "photo": "https://www.gov.kz/uploads/2023/2/17/38d30e7f1d44ee53db9f375e2eb97873_original.35649.jpg",
+      "phone": "8 (7112) 24-10-90",
+      "receptionPhone": "8 (7112) 24-10-90",
+      "email": "tl.kayupov@bko.gov.kz",
+      "biographyUrl": "https://www.gov.kz/memleket/entities/bko/about/structure/people/22792?lang=en",
+      "generalInfoHtml": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p>In coordination with the Administration of the President of the Republic of Kazakhstan and the order of the Akim of the West Kazakhstan region, Kayupov Tlepbergen Ersaevich was appointed deputy akim of the region.<br />Kayupov Tlepbergen Ersaevich - born in 1976. Education &ndash; higher. He graduated from the West Kazakhstan Agricultural University with a degree in accountant-financier.</p>\n<p>&nbsp;</p>\n</body>\n</html>",
+      "careerHistoryHtml": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p>In different years he worked:<br />-Tax inspector of the Tax Committee for Kaztalovsky district, head of the Department of Economics and Finance of Kaztalovsky district;<br />- Head of the Department, Deputy Head of the Finance Department of the West Kazakhstan region;<br />- Deputy Akim of Chingirlau district;<br />- Deputy Head of the Construction Department of the West Kazakhstan region;<br />- Head of the Department of Economics and Budget Planning of the West Kazakhstan region;<br />- Deputy Akim of the West Kazakhstan region;<br />Until today, he worked as the head of the Finance Department of the West Kazakhstan region.<br />Tlepbergen Kayupov will oversee issues of strategy and economic development, finance, public procurement and communal property, coordination of employment and social programs, labor inspection, construction, state architectural and construction control and passenger transport, and highways.</p>\n</body>\n</html>",
+      "generalInfoBlocks": [
+        {
+          "type": "paragraph",
+          "text": "In coordination with the Administration of the President of the Republic of Kazakhstan and the order of the Akim of the West Kazakhstan region, Kayupov Tlepbergen Ersaevich was appointed deputy akim of the region."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kayupov Tlepbergen Ersaevich - born in 1976. Education – higher. He graduated from the West Kazakhstan Agricultural University with a degree in accountant-financier."
+        }
+      ],
+      "careerHistoryBlocks": [
+        {
+          "type": "paragraph",
+          "text": "In different years he worked:"
+        },
+        {
+          "type": "paragraph",
+          "text": "-Tax inspector of the Tax Committee for Kaztalovsky district, head of the Department of Economics and Finance of Kaztalovsky district;"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Head of the Department, Deputy Head of the Finance Department of the West Kazakhstan region;"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Deputy Akim of Chingirlau district;"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Deputy Head of the Construction Department of the West Kazakhstan region;"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Head of the Department of Economics and Budget Planning of the West Kazakhstan region;"
+        },
+        {
+          "type": "paragraph",
+          "text": "- Deputy Akim of the West Kazakhstan region;"
+        },
+        {
+          "type": "paragraph",
+          "text": "Until today, he worked as the head of the Finance Department of the West Kazakhstan region."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tlepbergen Kayupov will oversee issues of strategy and economic development, finance, public procurement and communal property, coordination of employment and social programs, labor inspection, construction, state architectural and construction control and passenger transport, and highways."
+        }
+      ],
+      "generalInfo": "In coordination with the Administration of the President of the Republic of Kazakhstan and the order of the Akim of the West Kazakhstan region, Kayupov Tlepbergen Ersaevich was appointed deputy akim of the region.\nKayupov Tlepbergen Ersaevich - born in 1976. Education – higher. He graduated from the West Kazakhstan Agricultural University with a degree in accountant-financier.",
+      "careerHistory": "In different years he worked:\n-Tax inspector of the Tax Committee for Kaztalovsky district, head of the Department of Economics and Finance of Kaztalovsky district;\n- Head of the Department, Deputy Head of the Finance Department of the West Kazakhstan region;\n- Deputy Akim of Chingirlau district;\n- Deputy Head of the Construction Department of the West Kazakhstan region;\n- Head of the Department of Economics and Budget Planning of the West Kazakhstan region;\n- Deputy Akim of the West Kazakhstan region;\nUntil today, he worked as the head of the Finance Department of the West Kazakhstan region.\nTlepbergen Kayupov will oversee issues of strategy and economic development, finance, public procurement and communal property, coordination of employment and social programs, labor inspection, construction, state architectural and construction control and passenger transport, and highways.",
+      "translationSourceLanguage": "en",
+      "translationNote": "本页面内容翻译自原网站，中文翻译仅供参考。",
+      "generalInfoBlocksZh": [
+        {
+          "type": "paragraph",
+          "text": "根据哈萨克斯坦共和国总统政府的协调和西哈萨克斯坦地区州长的命令，卡尤波夫·特列普贝尔根·埃尔萨耶维奇被任命为该地区副州长。",
+          "sourceText": "In coordination with the Administration of the President of the Republic of Kazakhstan and the order of the Akim of the West Kazakhstan region, Kayupov Tlepbergen Ersaevich was appointed deputy akim of the region."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kayupov Tlepbergen Ersaevich - 出生于 1976 年。教育程度 – 较高。他毕业于西哈萨克斯坦农业大学，获得会计金融家学位。",
+          "sourceText": "Kayupov Tlepbergen Ersaevich - born in 1976. Education – higher. He graduated from the West Kazakhstan Agricultural University with a degree in accountant-financier."
+        }
+      ],
+      "careerHistoryBlocksZh": [
+        {
+          "type": "paragraph",
+          "text": "在不同年份，他工作过：",
+          "sourceText": "In different years he worked:"
+        },
+        {
+          "type": "paragraph",
+          "text": "-卡兹塔洛夫斯基区税务委员会税务监察员、卡兹塔洛夫斯基区经济和金融部部长；",
+          "sourceText": "-Tax inspector of the Tax Committee for Kaztalovsky district, head of the Department of Economics and Finance of Kaztalovsky district;"
+        },
+        {
+          "type": "paragraph",
+          "text": "- 西哈萨克斯坦地区财政司司长、副司长；",
+          "sourceText": "- Head of the Department, Deputy Head of the Finance Department of the West Kazakhstan region;"
+        },
+        {
+          "type": "paragraph",
+          "text": "中文译文待同步，请以页面底部来源链接为准。",
+          "sourceText": "- Deputy Akim of Chingirlau district;"
+        },
+        {
+          "type": "paragraph",
+          "text": "- 西哈萨克斯坦地区建设部副部长；",
+          "sourceText": "- Deputy Head of the Construction Department of the West Kazakhstan region;"
+        },
+        {
+          "type": "paragraph",
+          "text": "- 西哈萨克斯坦地区经济和预算规划部部长；",
+          "sourceText": "- Head of the Department of Economics and Budget Planning of the West Kazakhstan region;"
+        },
+        {
+          "type": "paragraph",
+          "text": "- 西哈萨克斯坦州副部长阿基姆；",
+          "sourceText": "- Deputy Akim of the West Kazakhstan region;"
+        },
+        {
+          "type": "paragraph",
+          "text": "直到今天，他一直担任西哈萨克斯坦地区财政部长。",
+          "sourceText": "Until today, he worked as the head of the Finance Department of the West Kazakhstan region."
+        },
+        {
+          "type": "paragraph",
+          "text": "特列普贝亨·卡尤波夫将监督战略和经济发展、金融、公共采购和公共财产、就业和社会计划协调、劳动监察、建筑、国家建筑和施工控制以及客运和高速公路等问题。",
+          "sourceText": "Tlepbergen Kayupov will oversee issues of strategy and economic development, finance, public procurement and communal property, coordination of employment and social programs, labor inspection, construction, state architectural and construction control and passenger transport, and highways."
+        }
+      ],
+      "generalInfoZh": "根据哈萨克斯坦共和国总统政府的协调和西哈萨克斯坦地区州长的命令，卡尤波夫·特列普贝尔根·埃尔萨耶维奇被任命为该地区副州长。\nKayupov Tlepbergen Ersaevich - 出生于 1976 年。教育程度 – 较高。他毕业于西哈萨克斯坦农业大学，获得会计金融家学位。",
+      "careerHistoryZh": "在不同年份，他工作过：\n-卡兹塔洛夫斯基区税务委员会税务监察员、卡兹塔洛夫斯基区经济和金融部部长；\n- 西哈萨克斯坦地区财政司司长、副司长；\n中文译文待同步，请以页面底部来源链接为准。\n- 西哈萨克斯坦地区建设部副部长；\n- 西哈萨克斯坦地区经济和预算规划部部长；\n- 西哈萨克斯坦州副部长阿基姆；\n直到今天，他一直担任西哈萨克斯坦地区财政部长。\n特列普贝亨·卡尤波夫将监督战略和经济发展、金融、公共采购和公共财产、就业和社会计划协调、劳动监察、建筑、国家建筑和施工控制以及客运和高速公路等问题。",
+      "detailZh": "根据哈萨克斯坦共和国总统政府的协调和西哈萨克斯坦地区州长的命令，卡尤波夫·特列普贝尔根·埃尔萨耶维奇被任命为该地区副州长。\nKayupov Tlepbergen Ersaevich - 出生于 1976 年。教育程度 – 较高。他毕业于西哈萨克斯坦农业大学，获得会计金融家学位。\n在不同年份，他工作过：\n-卡兹塔洛夫斯基区税务委员会税务监察员、卡兹塔洛夫斯基区经济和金融部部长；\n- 西哈萨克斯坦地区财政司司长、副司长；\n中文译文待同步，请以页面底部来源链接为准。\n- 西哈萨克斯坦地区建设部副部长；\n- 西哈萨克斯坦地区经济和预算规划部部长；\n- 西哈萨克斯坦州副部长阿基姆；\n直到今天，他一直担任西哈萨克斯坦地区财政部长。\n特列普贝亨·卡尤波夫将监督战略和经济发展、金融、公共采购和公共财产、就业和社会计划协调、劳动监察、建筑、国家建筑和施工控制以及客运和高速公路等问题。"
+    },
+    {
+      "id": 19590,
+      "name": "Mulkai Miras Rustemuly",
+      "nameZh": "Mulkai Miras Rustemuly",
+      "position": "Deputy Akim of the West Kazakhstan region",
+      "positionZh": "西哈萨克斯坦州副州长",
+      "responsibilities": "Building\nAutomobile road\nTransport infrastructure\nEnergy and housing and communal services",
+      "workScopeZh": "交通",
+      "order": "4",
+      "levelPosition": "Deputy Akim",
+      "sourceIndex": 21,
+      "photo": "https://www.gov.kz/uploads/2025/7/16/8b21c2e5eaea113c379b668b190b046a_original.519756.jpeg",
+      "phone": "8 (7112) 24-20-16",
+      "receptionPhone": "8 (7112) 24-20-16",
+      "email": "m.mulkai@bko.gov.kz",
+      "biographyUrl": "https://www.gov.kz/memleket/entities/bko/about/structure/people/19590?lang=en",
+      "generalInfoHtml": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p align=\"justify\">&nbsp;</p>\n<p align=\"justify\"><span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"0:5\">Miras</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"6:6\">Mulkai</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"13:7\">graduated</span> from <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"71:15\">Makhambet</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"87:9\">Utemisov</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"21:7\">West</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"29:13\">Kazakhstan</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"43:15\">State</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"59:11\">University</span> with a <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"100:13\">degree</span> in <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"115:7\">Finance</span><span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"123:1\">,</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"125:1\">as</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"127:5\">well</span> as <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"187:12\">Zhangir</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"200:4\">Khan</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"133:7\">West</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"141:13\">Kazakhstan</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"155:7\">Agrarian</span> and <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"163:11\">Technical</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"175:11\">University</span> with a <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"208:13\">degree</span> in <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"223:13\">Construction</span><span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"237:1\">.</span></p>\n</body>\n</html>",
+      "careerHistoryHtml": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p align=\"justify\"><span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"0:5\">Previously</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"6:7\">held</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"14:9\">positions</span></p>\n<p align=\"justify\"><span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"25:1\">*</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"27:7\">Chief</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"35:10\">Specialist</span> of the <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"54:15\">improvement</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"46:7\">sector</span> of the <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"70:6\">Department</span> of <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"77:7\">Housing</span> and <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"85:23\">Communal</span> Services<span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"108:1\">,</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"110:13\">Passenger</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"124:10\">Transport</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"135:1\">and</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"137:19\">Highways</span> of the <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"157:6\">city</span> of <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"164:7\">Uralsk</span>,</p>\n<p align=\"justify\"><span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"173:1\">*</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"175:10\">Head</span> of the <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"195:15\">Improvement</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"186:8\">Sector</span> of the <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"211:6\">Department</span> of <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"218:7\">Housing</span> and <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"226:23\">Communal</span> Services<span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"249:1\">,</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"251:13\">Passenger</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"265:10\">Transport</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"276:1\">and</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"278:19\">Highways</span> of the <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"298:6\">city</span> of <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"305:7\">Uralsk</span>,</p>\n<p align=\"justify\"><span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"315:1\">*</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"317:11\">Deputy</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"329:12\">Head</span> of the <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"342:6\">Department</span> of <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"349:7\">Housing</span> and <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"357:23\">Communal</span> Services <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"381:1\">and</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"383:8\">Housing</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"392:9\">Inspection</span> of the <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"402:6\">city</span> of <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"409:7\">Uralsk</span>,</p>\n<p align=\"justify\"><span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"419:1\">*</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"421:12\">Head</span> of the <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"441:13\">Construction</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"434:6\">Department</span> of the <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"455:6\">city</span> of <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"462:7\">Uralsk</span><span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"469:1\">,</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"471:11\">Deputy</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"483:5\">Akim</span> of the <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"489:6\">city</span> of <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"496:7\">Uralsk</span><span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"503:1\">.</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"507:2\">Prior</span> to his <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"510:10:524:9\">appointment</span> as <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"534:11\">Deputy</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"546:5\">Akim</span> of the West <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"552:3\">Kazakhstan</span> Region, he <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"556:7\">worked</span> as the <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"564:13\">head</span> of the <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"578:10\">Department</span> of <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"589:10\">Energy</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"600:1\">and</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"602:7\">Housing</span> and <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"610:23\">Communal</span> Services of the West <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"634:3\">Kazakhstan</span> Region<span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"637:1\">.</span></p>\n<p align=\"justify\">The <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"641:5\">newly</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"647:11\">appointed</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"659:11\">deputy</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"671:5\">akim</span> of the <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"677:7\">region</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"685:5\">will</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"691:10\">oversee</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"710:13\">construction</span><span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"723:1\">,</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"725:15\">landscaping</span><span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"740:1\">,</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"742:10\">energy</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"753:1\">and</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"755:7\">housing</span> and <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"763:23\">communal</span> services<span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"786:1\">,</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"788:13\">passenger</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"802:10\">transport</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"813:1\">and</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"815:19\">highways</span><span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"834:1\">,</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"836:16\">state</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"853:12\">architectural</span> and <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"866:13\">construction</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"880:8\">control</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"889:1\">and</span> <span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"891:7\">supervision</span><span class=\"aNeGP0gI0B9AV8JaHPyH\" data-src-align=\"898:1\">.</span></p>\n</body>\n</html>",
+      "generalInfoBlocks": [
+        {
+          "type": "paragraph",
+          "text": "Miras Mulkai graduated from Makhambet Utemisov West Kazakhstan State University with a degree in Finance , as well as Zhangir Khan West Kazakhstan Agrarian and Technical University with a degree in Construction ."
+        }
+      ],
+      "careerHistoryBlocks": [
+        {
+          "type": "paragraph",
+          "text": "Previously held positions"
+        },
+        {
+          "type": "paragraph",
+          "text": "* Chief Specialist of the improvement sector of the Department of Housing and Communal Services , Passenger Transport and Highways of the city of Uralsk ,"
+        },
+        {
+          "type": "paragraph",
+          "text": "* Head of the Improvement Sector of the Department of Housing and Communal Services , Passenger Transport and Highways of the city of Uralsk ,"
+        },
+        {
+          "type": "paragraph",
+          "text": "* Deputy Head of the Department of Housing and Communal Services and Housing Inspection of the city of Uralsk ,"
+        },
+        {
+          "type": "paragraph",
+          "text": "* Head of the Construction Department of the city of Uralsk , Deputy Akim of the city of Uralsk . Prior to his appointment as Deputy Akim of the West Kazakhstan Region, he worked as the head of the Department of Energy and Housing and Communal Services of the West Kazakhstan Region ."
+        },
+        {
+          "type": "paragraph",
+          "text": "The newly appointed deputy akim of the region will oversee construction , landscaping , energy and housing and communal services , passenger transport and highways , state architectural and construction control and supervision ."
+        }
+      ],
+      "generalInfo": "Miras Mulkai graduated from Makhambet Utemisov West Kazakhstan State University with a degree in Finance , as well as Zhangir Khan West Kazakhstan Agrarian and Technical University with a degree in Construction .",
+      "careerHistory": "Previously held positions\n* Chief Specialist of the improvement sector of the Department of Housing and Communal Services , Passenger Transport and Highways of the city of Uralsk ,\n* Head of the Improvement Sector of the Department of Housing and Communal Services , Passenger Transport and Highways of the city of Uralsk ,\n* Deputy Head of the Department of Housing and Communal Services and Housing Inspection of the city of Uralsk ,\n* Head of the Construction Department of the city of Uralsk , Deputy Akim of the city of Uralsk . Prior to his appointment as Deputy Akim of the West Kazakhstan Region, he worked as the head of the Department of Energy and Housing and Communal Services of the West Kazakhstan Region .\nThe newly appointed deputy akim of the region will oversee construction , landscaping , energy and housing and communal services , passenger transport and highways , state architectural and construction control and supervision .",
+      "translationSourceLanguage": "en",
+      "translationNote": "本页面内容翻译自原网站，中文翻译仅供参考。",
+      "generalInfoBlocksZh": [
+        {
+          "type": "paragraph",
+          "text": "Miras Mulkai 毕业于 Makhambet Utemisov 西哈萨克斯坦国立大学，获得金融学位，以及 Zhangir Khan 西哈萨克斯坦农业技术大学，获得建筑学位。",
+          "sourceText": "Miras Mulkai graduated from Makhambet Utemisov West Kazakhstan State University with a degree in Finance , as well as Zhangir Khan West Kazakhstan Agrarian and Technical University with a degree in Construction ."
+        }
+      ],
+      "careerHistoryBlocksZh": [
+        {
+          "type": "paragraph",
+          "text": "曾任职务",
+          "sourceText": "Previously held positions"
+        },
+        {
+          "type": "paragraph",
+          "text": "*乌拉尔斯克市住房和公共服务、客运和公路部改善部门首席专家，",
+          "sourceText": "* Chief Specialist of the improvement sector of the Department of Housing and Communal Services , Passenger Transport and Highways of the city of Uralsk ,"
+        },
+        {
+          "type": "paragraph",
+          "text": "* 乌拉尔斯克市住房和公共服务、客运和公路部改善部门负责人，",
+          "sourceText": "* Head of the Improvement Sector of the Department of Housing and Communal Services , Passenger Transport and Highways of the city of Uralsk ,"
+        },
+        {
+          "type": "paragraph",
+          "text": "* 乌拉尔斯克市住房和公共服务及住房检查部副部长，",
+          "sourceText": "* Deputy Head of the Department of Housing and Communal Services and Housing Inspection of the city of Uralsk ,"
+        },
+        {
+          "type": "paragraph",
+          "text": "* 乌拉尔斯克市建设局局长，乌拉尔斯克市副市长。在被任命为西哈萨克斯坦地区副阿基姆之前，他曾担任西哈萨克斯坦地区能源、住房和公共服务部负责人。",
+          "sourceText": "* Head of the Construction Department of the city of Uralsk , Deputy Akim of the city of Uralsk . Prior to his appointment as Deputy Akim of the West Kazakhstan Region, he worked as the head of the Department of Energy and Housing and Communal Services of the West Kazakhstan Region ."
+        },
+        {
+          "type": "paragraph",
+          "text": "新任命的该地区副市长将负责监督建筑、景观美化、能源、住房和公共服务、客运和高速公路、国家建筑和施工控制和监督。",
+          "sourceText": "The newly appointed deputy akim of the region will oversee construction , landscaping , energy and housing and communal services , passenger transport and highways , state architectural and construction control and supervision ."
+        }
+      ],
+      "generalInfoZh": "Miras Mulkai 毕业于 Makhambet Utemisov 西哈萨克斯坦国立大学，获得金融学位，以及 Zhangir Khan 西哈萨克斯坦农业技术大学，获得建筑学位。",
+      "careerHistoryZh": "曾任职务\n*乌拉尔斯克市住房和公共服务、客运和公路部改善部门首席专家，\n* 乌拉尔斯克市住房和公共服务、客运和公路部改善部门负责人，\n* 乌拉尔斯克市住房和公共服务及住房检查部副部长，\n* 乌拉尔斯克市建设局局长，乌拉尔斯克市副市长。在被任命为西哈萨克斯坦地区副阿基姆之前，他曾担任西哈萨克斯坦地区能源、住房和公共服务部负责人。\n新任命的该地区副市长将负责监督建筑、景观美化、能源、住房和公共服务、客运和高速公路、国家建筑和施工控制和监督。",
+      "detailZh": "Miras Mulkai 毕业于 Makhambet Utemisov 西哈萨克斯坦国立大学，获得金融学位，以及 Zhangir Khan 西哈萨克斯坦农业技术大学，获得建筑学位。\n曾任职务\n*乌拉尔斯克市住房和公共服务、客运和公路部改善部门首席专家，\n* 乌拉尔斯克市住房和公共服务、客运和公路部改善部门负责人，\n* 乌拉尔斯克市住房和公共服务及住房检查部副部长，\n* 乌拉尔斯克市建设局局长，乌拉尔斯克市副市长。在被任命为西哈萨克斯坦地区副阿基姆之前，他曾担任西哈萨克斯坦地区能源、住房和公共服务部负责人。\n新任命的该地区副市长将负责监督建筑、景观美化、能源、住房和公共服务、客运和高速公路、国家建筑和施工控制和监督。"
+    },
+    {
+      "id": 46598,
+      "name": "Mendigaliyev Kairzhan Yermekuly",
+      "nameZh": "Mendigaliyev Kairzhan Yermekuly",
+      "position": "Deputy Akim of the West Kazakhstan region",
+      "positionZh": "西哈萨克斯坦州副州长",
+      "responsibilities": "Education\nCulture\nSport\nReligion\nSocial development\nlanguage development",
+      "workScopeZh": "教育",
+      "order": "5",
+      "levelPosition": "Deputy Akim",
+      "sourceIndex": 22,
+      "photo": "https://www.gov.kz/uploads/2024/7/5/aeb785817a54edd98a27c83686272338_original.18686.JPG",
+      "phone": "8 (7112) 24-10-70",
+      "receptionPhone": "8 (7112) 24-10-70",
+      "email": "k.mendigaliev@bko.gov.kz",
+      "biographyUrl": "https://www.gov.kz/memleket/entities/bko/about/structure/people/46598?lang=en",
+      "generalInfoHtml": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p><br /><span>Батыс Қазақстан облысының әкімі Нариман Төреғалиевтің өкімімен Қазақстан Республикасы Президентінің Әкімшілігімен келісе отырып, Батыс Қазақстан облысы әкімінің орынбасары лауазымына Қайыржан Меңдіғалиев тағайындалды.</span><br /><br /><span>Өңір басшысы өзінің жаңа орынбасарын таныстырып, Қайыржан Ермекұлына жұмысына табыс пен сәттілік тілеп, оның алдында тұрған бірқатар міндеттерді де тілге тиек етті.</span><br /><br /><br /></p>\n</body>\n</html>",
+      "careerHistoryHtml": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p><span>БҚО әкімінің орынбасары лауазымына тағайындалғанға дейін Алматы қаласы жастар саясаты басқармасының басшысы қызметін атқарған.</span><br /><br /><span>Бұған дейін Халықаралық білім беру корпорациясының (ҚазБСҚА) бірінші проректоры, М.Тынышпаев атындағы Қазақ көлік және коммуникациялар академиясының тәрбие жұмысы және маркетинг жөніндегі проректоры лауазымдарын атқарған, оқытушы, кейін Халықаралық бизнес университетінде (UIB) проректор болып жұмыс істеген.</span><br /><br /><span>Әл-Фараби атындағы Қазақ ұлттық университетінің &ldquo;Инновациялық менеджмент&rdquo; мамандығы бойынша бакалавриат және магистратураны бітірген.</span><br /><span>Үйленген, үш баласы бар.</span></p>\n</body>\n</html>",
+      "generalInfoBlocks": [
+        {
+          "type": "paragraph",
+          "text": "Батыс Қазақстан облысының әкімі Нариман Төреғалиевтің өкімімен Қазақстан Республикасы Президентінің Әкімшілігімен келісе отырып, Батыс Қазақстан облысы әкімінің орынбасары лауазымына Қайыржан Меңдіғалиев тағайындалды."
+        },
+        {
+          "type": "paragraph",
+          "text": "Өңір басшысы өзінің жаңа орынбасарын таныстырып, Қайыржан Ермекұлына жұмысына табыс пен сәттілік тілеп, оның алдында тұрған бірқатар міндеттерді де тілге тиек етті."
+        }
+      ],
+      "careerHistoryBlocks": [
+        {
+          "type": "paragraph",
+          "text": "БҚО әкімінің орынбасары лауазымына тағайындалғанға дейін Алматы қаласы жастар саясаты басқармасының басшысы қызметін атқарған."
+        },
+        {
+          "type": "paragraph",
+          "text": "Бұған дейін Халықаралық білім беру корпорациясының (ҚазБСҚА) бірінші проректоры, М.Тынышпаев атындағы Қазақ көлік және коммуникациялар академиясының тәрбие жұмысы және маркетинг жөніндегі проректоры лауазымдарын атқарған, оқытушы, кейін Халықаралық бизнес университетінде (UIB) проректор болып жұмыс істеген."
+        },
+        {
+          "type": "paragraph",
+          "text": "Әл-Фараби атындағы Қазақ ұлттық университетінің “Инновациялық менеджмент” мамандығы бойынша бакалавриат және магистратураны бітірген."
+        },
+        {
+          "type": "paragraph",
+          "text": "Үйленген, үш баласы бар."
+        }
+      ],
+      "generalInfo": "Батыс Қазақстан облысының әкімі Нариман Төреғалиевтің өкімімен Қазақстан Республикасы Президентінің Әкімшілігімен келісе отырып, Батыс Қазақстан облысы әкімінің орынбасары лауазымына Қайыржан Меңдіғалиев тағайындалды.\nӨңір басшысы өзінің жаңа орынбасарын таныстырып, Қайыржан Ермекұлына жұмысына табыс пен сәттілік тілеп, оның алдында тұрған бірқатар міндеттерді де тілге тиек етті.",
+      "careerHistory": "БҚО әкімінің орынбасары лауазымына тағайындалғанға дейін Алматы қаласы жастар саясаты басқармасының басшысы қызметін атқарған.\nБұған дейін Халықаралық білім беру корпорациясының (ҚазБСҚА) бірінші проректоры, М.Тынышпаев атындағы Қазақ көлік және коммуникациялар академиясының тәрбие жұмысы және маркетинг жөніндегі проректоры лауазымдарын атқарған, оқытушы, кейін Халықаралық бизнес университетінде (UIB) проректор болып жұмыс істеген.\nӘл-Фараби атындағы Қазақ ұлттық университетінің “Инновациялық менеджмент” мамандығы бойынша бакалавриат және магистратураны бітірген.\nҮйленген, үш баласы бар.",
+      "translationSourceLanguage": "en",
+      "translationNote": "本页面内容翻译自原网站，中文翻译仅供参考。",
+      "generalInfoBlocksZh": [
+        {
+          "type": "paragraph",
+          "text": "中文译文待同步，请以页面底部来源链接为准。",
+          "sourceText": "Батыс Қазақстан облысының әкімі Нариман Төреғалиевтің өкімімен Қазақстан Республикасы Президентінің Әкімшілігімен келісе отырып, Батыс Қазақстан облысы әкімінің орынбасары лауазымына Қайыржан Меңдіғалиев тағайындалды."
+        },
+        {
+          "type": "paragraph",
+          "text": "中文译文待同步，请以页面底部来源链接为准。",
+          "sourceText": "Өңір басшысы өзінің жаңа орынбасарын таныстырып, Қайыржан Ермекұлына жұмысына табыс пен сәттілік тілеп, оның алдында тұрған бірқатар міндеттерді де тілге тиек етті."
+        }
+      ],
+      "careerHistoryBlocksZh": [
+        {
+          "type": "paragraph",
+          "text": "中文译文待同步，请以页面底部来源链接为准。",
+          "sourceText": "БҚО әкімінің орынбасары лауазымына тағайындалғанға дейін Алматы қаласы жастар саясаты басқармасының басшысы қызметін атқарған."
+        },
+        {
+          "type": "paragraph",
+          "text": "中文译文待同步，请以页面底部来源链接为准。",
+          "sourceText": "Бұған дейін Халықаралық білім беру корпорациясының (ҚазБСҚА) бірінші проректоры, М.Тынышпаев атындағы Қазақ көлік және коммуникациялар академиясының тәрбие жұмысы және маркетинг жөніндегі проректоры лауазымдарын атқарған, оқытушы, кейін Халықаралық бизнес университетінде (UIB) проректор болып жұмыс істеген."
+        },
+        {
+          "type": "paragraph",
+          "text": "中文译文待同步，请以页面底部来源链接为准。",
+          "sourceText": "Әл-Фараби атындағы Қазақ ұлттық университетінің “Инновациялық менеджмент” мамандығы бойынша бакалавриат және магистратураны бітірген."
+        },
+        {
+          "type": "paragraph",
+          "text": "中文译文待同步，请以页面底部来源链接为准。",
+          "sourceText": "Үйленген, үш баласы бар."
+        }
+      ],
+      "generalInfoZh": "中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。",
+      "careerHistoryZh": "中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。",
+      "detailZh": "中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。"
+    },
+    {
+      "id": 11426,
+      "name": "Oraz Nurdilda Serikuly",
+      "nameZh": "Oraz Nurdilda Serikuly",
+      "position": "Head of staff",
+      "positionZh": "部门负责人",
+      "responsibilities": "Digitalization",
+      "workScopeZh": "数字化",
+      "order": "7",
+      "levelPosition": "Head of apparatus",
+      "sourceIndex": 23,
+      "photo": "https://www.gov.kz/uploads/2023/7/19/cdd0e319c0818bd33e949bf0017b4b0a_original.432848.jpeg",
+      "phone": "8 (7112) 24-10 07",
+      "receptionPhone": "8 (7112) 24-10 07",
+      "email": "n.oraz@bko.gov.kz",
+      "biographyUrl": "https://www.gov.kz/memleket/entities/bko/about/structure/people/11426?lang=en",
+      "generalInfoHtml": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p>Oraz Nurdilda Serikuly was appointed the head of the office of the Akim of the West Kazakhstan region in coordination with the Administration of the President of the Republic of Kazakhstan.</p>\n<p>Oraz Nurdilda Serikuly was born in 1981.Higher education. He graduated from Al-Farabi Kazakh National University with a degree in Journalism and the Karaganda Academy of the Ministry of Internal Affairs of the Republic of Kazakhstan named after Barimbek Beisenov with a degree in Law Enforcement.</p>\n<p><span class=\"\" title=\"Отредактировано\">&nbsp;</span></p>\n</body>\n</html>",
+      "careerHistoryHtml": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p>He started his career in 2003 as a correspondent-presenter of the Kazakh edition of the news program \"Informburo\" of \"Channel 31\" LLP.</p>\n<p>In different years he worked in a number of republican TV channels. In 2009, he joined the internal affairs bodies, worked as the head of the Department of Language Policy and Information of the Department of Internal Affairs of Astana, Director of the Department of State Language and Information of the Ministry of Internal Affairs of the Republic of Kazakhstan - the press secretary of the Minister, and then the official representative of the Ministry. In 2016, he worked as Deputy Head of the Office of the Prosecutor General of the Republic of Kazakhstan. 2019-2022. he was an adviser to the Minister of Internal Affairs of the Republic of Kazakhstan.</p>\n<p>Prior to his appointment, he held the position of Head of the Public Development Department of the West Kazakhstan region.</p>\n</body>\n</html>",
+      "generalInfoBlocks": [
+        {
+          "type": "paragraph",
+          "text": "Oraz Nurdilda Serikuly was appointed the head of the office of the Akim of the West Kazakhstan region in coordination with the Administration of the President of the Republic of Kazakhstan."
+        },
+        {
+          "type": "paragraph",
+          "text": "Oraz Nurdilda Serikuly was born in 1981.Higher education. He graduated from Al-Farabi Kazakh National University with a degree in Journalism and the Karaganda Academy of the Ministry of Internal Affairs of the Republic of Kazakhstan named after Barimbek Beisenov with a degree in Law Enforcement."
+        }
+      ],
+      "careerHistoryBlocks": [
+        {
+          "type": "paragraph",
+          "text": "He started his career in 2003 as a correspondent-presenter of the Kazakh edition of the news program \"Informburo\" of \"Channel 31\" LLP."
+        },
+        {
+          "type": "paragraph",
+          "text": "In different years he worked in a number of republican TV channels. In 2009, he joined the internal affairs bodies, worked as the head of the Department of Language Policy and Information of the Department of Internal Affairs of Astana, Director of the Department of State Language and Information of the Ministry of Internal Affairs of the Republic of Kazakhstan - the press secretary of the Minister, and then the official representative of the Ministry. In 2016, he worked as Deputy Head of the Office of the Prosecutor General of the Republic of Kazakhstan. 2019-2022. he was an adviser to the Minister of Internal Affairs of the Republic of Kazakhstan."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prior to his appointment, he held the position of Head of the Public Development Department of the West Kazakhstan region."
+        }
+      ],
+      "generalInfo": "Oraz Nurdilda Serikuly was appointed the head of the office of the Akim of the West Kazakhstan region in coordination with the Administration of the President of the Republic of Kazakhstan.\nOraz Nurdilda Serikuly was born in 1981.Higher education. He graduated from Al-Farabi Kazakh National University with a degree in Journalism and the Karaganda Academy of the Ministry of Internal Affairs of the Republic of Kazakhstan named after Barimbek Beisenov with a degree in Law Enforcement.",
+      "careerHistory": "He started his career in 2003 as a correspondent-presenter of the Kazakh edition of the news program \"Informburo\" of \"Channel 31\" LLP.\nIn different years he worked in a number of republican TV channels. In 2009, he joined the internal affairs bodies, worked as the head of the Department of Language Policy and Information of the Department of Internal Affairs of Astana, Director of the Department of State Language and Information of the Ministry of Internal Affairs of the Republic of Kazakhstan - the press secretary of the Minister, and then the official representative of the Ministry. In 2016, he worked as Deputy Head of the Office of the Prosecutor General of the Republic of Kazakhstan. 2019-2022. he was an adviser to the Minister of Internal Affairs of the Republic of Kazakhstan.\nPrior to his appointment, he held the position of Head of the Public Development Department of the West Kazakhstan region.",
+      "translationSourceLanguage": "en",
+      "translationNote": "本页面内容翻译自原网站，中文翻译仅供参考。",
+      "generalInfoBlocksZh": [
+        {
+          "type": "paragraph",
+          "text": "奥拉兹·努尔迪尔达·塞里库利（Oraz Nurdilda Serikuly）被任命为西哈萨克斯坦地区阿基姆办公室主任，与哈萨克斯坦共和国总统办公厅协调。",
+          "sourceText": "Oraz Nurdilda Serikuly was appointed the head of the office of the Akim of the West Kazakhstan region in coordination with the Administration of the President of the Republic of Kazakhstan."
+        },
+        {
+          "type": "paragraph",
+          "text": "Oraz Nurdilda Serikuly 出生于 1981 年。接受过高等教育。他毕业于哈萨克斯坦国立法拉比大学，获得新闻学学位，毕业于哈萨克斯坦共和国内务部卡拉干达学院，获得执法学位。",
+          "sourceText": "Oraz Nurdilda Serikuly was born in 1981.Higher education. He graduated from Al-Farabi Kazakh National University with a degree in Journalism and the Karaganda Academy of the Ministry of Internal Affairs of the Republic of Kazakhstan named after Barimbek Beisenov with a degree in Law Enforcement."
+        }
+      ],
+      "careerHistoryBlocksZh": [
+        {
+          "type": "paragraph",
+          "text": "2003 年，他开始了自己的职业生涯，担任“Channel 31” LLP 新闻节目“Informburo”哈萨克斯坦版的通讯主持人。",
+          "sourceText": "He started his career in 2003 as a correspondent-presenter of the Kazakh edition of the news program \"Informburo\" of \"Channel 31\" LLP."
+        },
+        {
+          "type": "paragraph",
+          "text": "在不同的年份里，他在一些共和党电视频道工作。 2009年加入内政机构，历任阿斯塔纳内政部语言政策和信息司司长、哈萨克斯坦共和国内政部国家语言和信息司司长、部长新闻秘书、该部官方代表。 2016年任哈萨克斯坦共和国总检察长办公室副主任。 2019-2022。他曾担任哈萨克斯坦共和国内务部长顾问。",
+          "sourceText": "In different years he worked in a number of republican TV channels. In 2009, he joined the internal affairs bodies, worked as the head of the Department of Language Policy and Information of the Department of Internal Affairs of Astana, Director of the Department of State Language and Information of the Ministry of Internal Affairs of the Republic of Kazakhstan - the press secretary of the Minister, and then the official representative of the Ministry. In 2016, he worked as Deputy Head of the Office of the Prosecutor General of the Republic of Kazakhstan. 2019-2022. he was an adviser to the Minister of Internal Affairs of the Republic of Kazakhstan."
+        },
+        {
+          "type": "paragraph",
+          "text": "在任命之前，他曾担任西哈萨克斯坦地区公共发展部部长。",
+          "sourceText": "Prior to his appointment, he held the position of Head of the Public Development Department of the West Kazakhstan region."
+        }
+      ],
+      "generalInfoZh": "奥拉兹·努尔迪尔达·塞里库利（Oraz Nurdilda Serikuly）被任命为西哈萨克斯坦地区阿基姆办公室主任，与哈萨克斯坦共和国总统办公厅协调。\nOraz Nurdilda Serikuly 出生于 1981 年。接受过高等教育。他毕业于哈萨克斯坦国立法拉比大学，获得新闻学学位，毕业于哈萨克斯坦共和国内务部卡拉干达学院，获得执法学位。",
+      "careerHistoryZh": "2003 年，他开始了自己的职业生涯，担任“Channel 31” LLP 新闻节目“Informburo”哈萨克斯坦版的通讯主持人。\n在不同的年份里，他在一些共和党电视频道工作。 2009年加入内政机构，历任阿斯塔纳内政部语言政策和信息司司长、哈萨克斯坦共和国内政部国家语言和信息司司长、部长新闻秘书、该部官方代表。 2016年任哈萨克斯坦共和国总检察长办公室副主任。 2019-2022。他曾担任哈萨克斯坦共和国内务部长顾问。\n在任命之前，他曾担任西哈萨克斯坦地区公共发展部部长。",
+      "detailZh": "奥拉兹·努尔迪尔达·塞里库利（Oraz Nurdilda Serikuly）被任命为西哈萨克斯坦地区阿基姆办公室主任，与哈萨克斯坦共和国总统办公厅协调。\nOraz Nurdilda Serikuly 出生于 1981 年。接受过高等教育。他毕业于哈萨克斯坦国立法拉比大学，获得新闻学学位，毕业于哈萨克斯坦共和国内务部卡拉干达学院，获得执法学位。\n2003 年，他开始了自己的职业生涯，担任“Channel 31” LLP 新闻节目“Informburo”哈萨克斯坦版的通讯主持人。\n在不同的年份里，他在一些共和党电视频道工作。 2009年加入内政机构，历任阿斯塔纳内政部语言政策和信息司司长、哈萨克斯坦共和国内政部国家语言和信息司司长、部长新闻秘书、该部官方代表。 2016年任哈萨克斯坦共和国总检察长办公室副主任。 2019-2022。他曾担任哈萨克斯坦共和国内务部长顾问。\n在任命之前，他曾担任西哈萨克斯坦地区公共发展部部长。"
+    },
+    {
+      "id": 29629,
+      "name": "Mukambetzhanov Askar Zhumartovich",
+      "nameZh": "Mukambetzhanov Askar Zhumartovich",
+      "position": "Deputy Chief of Staff",
+      "positionZh": "办公室主任",
+      "responsibilities": "",
+      "workScopeZh": "官方页面未列出单独工作范围。",
+      "order": "14",
+      "levelPosition": "Deputy Chief of Staff",
+      "sourceIndex": 16,
+      "photo": "https://www.gov.kz/uploads/2025/3/6/51b8e7de23ece30131504901fd0aa949_original.86638.jpeg",
+      "phone": "8 (7112) 24-20-77",
+      "receptionPhone": "8 (7112) 24-20-77",
+      "email": "a.mukambetzhanov@bko.gov.kz",
+      "biographyUrl": "https://www.gov.kz/memleket/entities/bko/about/structure/people/29629?lang=en",
+      "generalInfoHtml": "",
+      "careerHistoryHtml": "",
+      "generalInfoBlocks": [],
+      "careerHistoryBlocks": [],
+      "generalInfo": "",
+      "careerHistory": "",
+      "translationSourceLanguage": "en",
+      "translationNote": "本页面内容翻译自原网站，中文翻译仅供参考。",
+      "generalInfoBlocksZh": [],
+      "careerHistoryBlocksZh": [],
+      "generalInfoZh": "",
+      "careerHistoryZh": "",
+      "detailZh": ""
+    },
+    {
+      "id": 41632,
+      "name": "Gumarov Zhalgas Akhatovich",
+      "nameZh": "Gumarov Zhalgas Akhatovich",
+      "position": "Deputy chief of staff",
+      "positionZh": "办公室主任",
+      "responsibilities": "",
+      "workScopeZh": "官方页面未列出单独工作范围。",
+      "order": "15",
+      "levelPosition": "Deputy Chief of Staff",
+      "sourceIndex": 17,
+      "photo": "https://www.gov.kz/uploads/2025/4/25/4d49e8644c0dcf364243ac7552785a1a_original.161294.jpeg",
+      "phone": "8 (7112) 24-20-88",
+      "receptionPhone": "8 (7112) 24-20-88",
+      "email": "zh.gumarov@bko.gov.kz",
+      "biographyUrl": "https://www.gov.kz/memleket/entities/bko/about/structure/people/41632?lang=en",
+      "generalInfoHtml": "",
+      "careerHistoryHtml": "",
+      "generalInfoBlocks": [],
+      "careerHistoryBlocks": [],
+      "generalInfo": "",
+      "careerHistory": "",
+      "translationSourceLanguage": "en",
+      "translationNote": "本页面内容翻译自原网站，中文翻译仅供参考。",
+      "generalInfoBlocksZh": [],
+      "careerHistoryBlocksZh": [],
+      "generalInfoZh": "",
+      "careerHistoryZh": "",
+      "detailZh": ""
+    },
+    {
+      "id": 3470,
+      "name": "Khayrullina Ayman Rafikovna",
+      "nameZh": "Khayrullina Ayman Rafikovna",
+      "position": "Ethics Commissioner",
+      "positionZh": "伦理专员",
+      "responsibilities": "",
+      "workScopeZh": "官方页面未列出单独工作范围。",
+      "order": "",
+      "levelPosition": "Ethics Commissioner",
+      "sourceIndex": 15,
+      "photo": "https://www.gov.kz/uploads/2020/1/10/d5de1198c5d707a0099b22b32f4c3de2_original.198270.jpeg",
+      "phone": "8 (7112) 24-10-37",
+      "receptionPhone": "8 (7112) 24-10-37",
+      "email": "a.khairullina@bko.gov.kz",
+      "biographyUrl": "https://www.gov.kz/memleket/entities/bko/about/structure/people/3470?lang=en",
+      "generalInfoHtml": "",
+      "careerHistoryHtml": "",
+      "generalInfoBlocks": [],
+      "careerHistoryBlocks": [],
+      "generalInfo": "",
+      "careerHistory": "",
+      "translationSourceLanguage": "en",
+      "translationNote": "本页面内容翻译自原网站，中文翻译仅供参考。",
+      "generalInfoBlocksZh": [],
+      "careerHistoryBlocksZh": [],
+      "generalInfoZh": "",
+      "careerHistoryZh": "",
+      "detailZh": ""
+    },
+    {
+      "id": 1177,
+      "name": "Ahmetov Nurlan Serikkalievich",
+      "nameZh": "Ahmetov Nurlan Serikkalievich",
+      "position": "Head of department",
+      "positionZh": "部门负责人",
+      "responsibilities": "",
+      "workScopeZh": "官方页面未列出单独工作范围。",
+      "order": "9",
+      "levelPosition": "Department head",
+      "sourceIndex": 11,
+      "photo": "https://www.gov.kz/uploads/2021/7/21/74ec500374f928d595b12607759260a2_original.76662.jpeg",
+      "phone": "8 (7112) 24-11-20",
+      "receptionPhone": "8 (7112) 24-11-20",
+      "email": "n.ahmetov@bko.gov.kz",
+      "biographyUrl": "https://www.gov.kz/memleket/entities/bko/about/structure/people/1177?lang=en",
+      "generalInfoHtml": "",
+      "careerHistoryHtml": "",
+      "generalInfoBlocks": [],
+      "careerHistoryBlocks": [],
+      "generalInfo": "",
+      "careerHistory": "",
+      "translationSourceLanguage": "en",
+      "translationNote": "本页面内容翻译自原网站，中文翻译仅供参考。",
+      "generalInfoBlocksZh": [],
+      "careerHistoryBlocksZh": [],
+      "generalInfoZh": "",
+      "careerHistoryZh": "",
+      "detailZh": ""
+    },
+    {
+      "id": 1187,
+      "name": "Rakhmetova Gulzada Jardemovna",
+      "nameZh": "Rakhmetova Gulzada Jardemovna",
+      "position": "Head of department",
+      "positionZh": "部门负责人",
+      "responsibilities": "",
+      "workScopeZh": "官方页面未列出单独工作范围。",
+      "order": "9",
+      "levelPosition": "Department head",
+      "sourceIndex": 12,
+      "photo": "https://www.gov.kz/uploads/2024/10/10/1a4a752cf8d3556bca16542de4e4b1b8_original.82362.jpeg",
+      "phone": "8 (7112) 24-11-23",
+      "receptionPhone": "8 (7112) 24-11-23",
+      "email": "g.rakhmetova@bko.gov.kz",
+      "biographyUrl": "https://www.gov.kz/memleket/entities/bko/about/structure/people/1187?lang=en",
+      "generalInfoHtml": "",
+      "careerHistoryHtml": "",
+      "generalInfoBlocks": [],
+      "careerHistoryBlocks": [],
+      "generalInfo": "",
+      "careerHistory": "",
+      "translationSourceLanguage": "en",
+      "translationNote": "本页面内容翻译自原网站，中文翻译仅供参考。",
+      "generalInfoBlocksZh": [],
+      "careerHistoryBlocksZh": [],
+      "generalInfoZh": "",
+      "careerHistoryZh": "",
+      "detailZh": ""
+    },
+    {
+      "id": 1195,
+      "name": "Nurzhanova Zukhra Utegenovna",
+      "nameZh": "Nurzhanova Zukhra Utegenovna",
+      "position": "Department head",
+      "positionZh": "部门负责人",
+      "responsibilities": "",
+      "workScopeZh": "官方页面未列出单独工作范围。",
+      "order": "11",
+      "levelPosition": "Department head",
+      "sourceIndex": 13,
+      "photo": "https://www.gov.kz/uploads/2023/1/17/698a7151e67dcbdb9d11dd7b23d9841f_original.139730.jpeg",
+      "phone": "8 (7112) 24-20-36, 24-20-57",
+      "receptionPhone": "8 (7112) 24-20-36, 24-20-57",
+      "email": "zu.nurzhanova@bko.gov.kz",
+      "biographyUrl": "https://www.gov.kz/memleket/entities/bko/about/structure/people/1195?lang=en",
+      "generalInfoHtml": "",
+      "careerHistoryHtml": "",
+      "generalInfoBlocks": [],
+      "careerHistoryBlocks": [],
+      "generalInfo": "",
+      "careerHistory": "",
+      "translationSourceLanguage": "en",
+      "translationNote": "本页面内容翻译自原网站，中文翻译仅供参考。",
+      "generalInfoBlocksZh": [],
+      "careerHistoryBlocksZh": [],
+      "generalInfoZh": "",
+      "careerHistoryZh": "",
+      "detailZh": ""
+    },
+    {
+      "id": 1196,
+      "name": "Kuanyshkalieva Aliya Kakharmanovna",
+      "nameZh": "Kuanyshkalieva Aliya Kakharmanovna",
+      "position": "Head of department",
+      "positionZh": "部门负责人",
+      "responsibilities": "",
+      "workScopeZh": "官方页面未列出单独工作范围。",
+      "order": "12",
+      "levelPosition": "Department head",
+      "sourceIndex": 14,
+      "photo": "https://www.gov.kz/uploads/2020/1/10/cbf0a3ad3a2df76e40510020d3596586_original.160618.jpeg",
+      "phone": "8 (7112) 24-20-67",
+      "receptionPhone": "8 (7112) 24-20-67",
+      "email": "a.kuanyshkalieva@bko.gov.kz",
+      "biographyUrl": "https://www.gov.kz/memleket/entities/bko/about/structure/people/1196?lang=en",
+      "generalInfoHtml": "",
+      "careerHistoryHtml": "",
+      "generalInfoBlocks": [],
+      "careerHistoryBlocks": [],
+      "generalInfo": "",
+      "careerHistory": "",
+      "translationSourceLanguage": "en",
+      "translationNote": "本页面内容翻译自原网站，中文翻译仅供参考。",
+      "generalInfoBlocksZh": [],
+      "careerHistoryBlocksZh": [],
+      "generalInfoZh": "",
+      "careerHistoryZh": "",
+      "detailZh": ""
+    },
+    {
+      "id": 21159,
+      "name": "Ahmetov Nurlan Serikkalievich",
+      "nameZh": "Ahmetov Nurlan Serikkalievich",
+      "position": "Head of Department",
+      "positionZh": "部门负责人",
+      "responsibilities": "",
+      "workScopeZh": "官方页面未列出单独工作范围。",
+      "order": "14",
+      "levelPosition": "Department head",
+      "sourceIndex": 1,
+      "photo": "https://www.gov.kz/uploads/2021/7/21/74ec500374f928d595b12607759260a2_original.76662.jpeg",
+      "phone": "8 (7112) 24-20-56",
+      "receptionPhone": "8 (7112) 24-20-56",
+      "email": "",
+      "biographyUrl": "https://www.gov.kz/memleket/entities/bko/about/structure/people/21159?lang=en",
+      "generalInfoHtml": "",
+      "careerHistoryHtml": "",
+      "generalInfoBlocks": [],
+      "careerHistoryBlocks": [],
+      "generalInfo": "",
+      "careerHistory": "",
+      "translationSourceLanguage": "en",
+      "translationNote": "本页面内容翻译自原网站，中文翻译仅供参考。",
+      "generalInfoBlocksZh": [],
+      "careerHistoryBlocksZh": [],
+      "generalInfoZh": "",
+      "careerHistoryZh": "",
+      "detailZh": ""
+    },
+    {
+      "id": 31543,
+      "name": "Вакансия .",
+      "nameZh": "Вакансия .",
+      "position": "Руководитель отдела",
+      "positionZh": "部门负责人",
+      "responsibilities": "",
+      "workScopeZh": "官方页面未列出单独工作范围。",
+      "order": "",
+      "levelPosition": "Department head",
+      "sourceIndex": 3,
+      "photo": "",
+      "phone": "",
+      "receptionPhone": "",
+      "email": "",
+      "biographyUrl": "https://www.gov.kz/memleket/entities/bko/about/structure/people/31543?lang=en",
+      "generalInfoHtml": "",
+      "careerHistoryHtml": "",
+      "generalInfoBlocks": [],
+      "careerHistoryBlocks": [],
+      "generalInfo": "",
+      "careerHistory": "",
+      "translationSourceLanguage": "en",
+      "translationNote": "本页面内容翻译自原网站，中文翻译仅供参考。",
+      "generalInfoBlocksZh": [],
+      "careerHistoryBlocksZh": [],
+      "generalInfoZh": "",
+      "careerHistoryZh": "",
+      "detailZh": ""
+    },
+    {
+      "id": 38012,
+      "name": "Yeszhanov Arman Makhsotkalievich",
+      "nameZh": "Yeszhanov Arman Makhsotkalievich",
+      "position": "Acting Head",
+      "positionZh": "代理负责人",
+      "responsibilities": "",
+      "workScopeZh": "官方页面未列出单独工作范围。",
+      "order": "",
+      "levelPosition": "Аcting head of department",
+      "sourceIndex": 5,
+      "photo": "",
+      "phone": "8 (7112) 24-05-00",
+      "receptionPhone": "8 (7112) 24-05-00",
+      "email": "",
+      "biographyUrl": "https://www.gov.kz/memleket/entities/bko/about/structure/people/38012?lang=en",
+      "generalInfoHtml": "",
+      "careerHistoryHtml": "",
+      "generalInfoBlocks": [],
+      "careerHistoryBlocks": [],
+      "generalInfo": "",
+      "careerHistory": "",
+      "translationSourceLanguage": "en",
+      "translationNote": "本页面内容翻译自原网站，中文翻译仅供参考。",
+      "generalInfoBlocksZh": [],
+      "careerHistoryBlocksZh": [],
+      "generalInfoZh": "",
+      "careerHistoryZh": "",
+      "detailZh": ""
+    },
+    {
+      "id": 36388,
+      "name": "Ishangalieva Elmira Yerbolovna",
+      "nameZh": "Ishangalieva Elmira Yerbolovna",
+      "position": "Head of Department",
+      "positionZh": "部门负责人",
+      "responsibilities": "",
+      "workScopeZh": "官方页面未列出单独工作范围。",
+      "order": "",
+      "levelPosition": "Department head",
+      "sourceIndex": 6,
+      "photo": "https://www.gov.kz/uploads/2023/7/31/9ceaca03cd2557052a75e236ba8a5cf6_original.266946.jpeg",
+      "phone": "8 (7112) 24-10-58",
+      "receptionPhone": "8 (7112) 24-10-58",
+      "email": "",
+      "biographyUrl": "https://www.gov.kz/memleket/entities/bko/about/structure/people/36388?lang=en",
+      "generalInfoHtml": "",
+      "careerHistoryHtml": "",
+      "generalInfoBlocks": [],
+      "careerHistoryBlocks": [],
+      "generalInfo": "",
+      "careerHistory": "",
+      "translationSourceLanguage": "en",
+      "translationNote": "本页面内容翻译自原网站，中文翻译仅供参考。",
+      "generalInfoBlocksZh": [],
+      "careerHistoryBlocksZh": [],
+      "generalInfoZh": "",
+      "careerHistoryZh": "",
+      "detailZh": ""
+    },
+    {
+      "id": 21972,
+      "name": "Karmenov Azamat Gabdrashitovich",
+      "nameZh": "Karmenov Azamat Gabdrashitovich",
+      "position": "Department head",
+      "positionZh": "部门负责人",
+      "responsibilities": "",
+      "workScopeZh": "官方页面未列出单独工作范围。",
+      "order": "",
+      "levelPosition": "Department head",
+      "sourceIndex": 7,
+      "photo": "https://www.gov.kz/uploads/2023/9/7/d955601f3c19dc83eae12e2fa681e20d_original.10243.jpeg",
+      "phone": "8 (7112) 24-20-89",
+      "receptionPhone": "8 (7112) 24-20-89",
+      "email": "az.karmenov@bko.gov.kz",
+      "biographyUrl": "https://www.gov.kz/memleket/entities/bko/about/structure/people/21972?lang=en",
+      "generalInfoHtml": "",
+      "careerHistoryHtml": "",
+      "generalInfoBlocks": [],
+      "careerHistoryBlocks": [],
+      "generalInfo": "",
+      "careerHistory": "",
+      "translationSourceLanguage": "en",
+      "translationNote": "本页面内容翻译自原网站，中文翻译仅供参考。",
+      "generalInfoBlocksZh": [],
+      "careerHistoryBlocksZh": [],
+      "generalInfoZh": "",
+      "careerHistoryZh": "",
+      "detailZh": ""
+    },
+    {
+      "id": 45128,
+      "name": "Isimov Kuanyshkali Sergeevich",
+      "nameZh": "Isimov Kuanyshkali Sergeevich",
+      "position": "Department head",
+      "positionZh": "部门负责人",
+      "responsibilities": "",
+      "workScopeZh": "官方页面未列出单独工作范围。",
+      "order": "",
+      "levelPosition": "Department head",
+      "sourceIndex": 8,
+      "photo": "",
+      "phone": "8 (7112) 24-20-06",
+      "receptionPhone": "8 (7112) 24-20-06",
+      "email": "k.isimov@bko.gov.kz",
+      "biographyUrl": "https://www.gov.kz/memleket/entities/bko/about/structure/people/45128?lang=en",
+      "generalInfoHtml": "",
+      "careerHistoryHtml": "",
+      "generalInfoBlocks": [],
+      "careerHistoryBlocks": [],
+      "generalInfo": "",
+      "careerHistory": "",
+      "translationSourceLanguage": "en",
+      "translationNote": "本页面内容翻译自原网站，中文翻译仅供参考。",
+      "generalInfoBlocksZh": [],
+      "careerHistoryBlocksZh": [],
+      "generalInfoZh": "",
+      "careerHistoryZh": "",
+      "detailZh": ""
+    },
+    {
+      "id": 36387,
+      "name": "Bakhishev Daniyar Muratuly",
+      "nameZh": "Bakhishev Daniyar Muratuly",
+      "position": "Head of Department",
+      "positionZh": "部门负责人",
+      "responsibilities": "",
+      "workScopeZh": "官方页面未列出单独工作范围。",
+      "order": "",
+      "levelPosition": "Department head",
+      "sourceIndex": 9,
+      "photo": "",
+      "phone": "8 (7112) 24-10-73",
+      "receptionPhone": "8 (7112) 24-10-73",
+      "email": "d.bakhishev@bko.gov.kz",
+      "biographyUrl": "https://www.gov.kz/memleket/entities/bko/about/structure/people/36387?lang=en",
+      "generalInfoHtml": "",
+      "careerHistoryHtml": "",
+      "generalInfoBlocks": [],
+      "careerHistoryBlocks": [],
+      "generalInfo": "",
+      "careerHistory": "",
+      "translationSourceLanguage": "en",
+      "translationNote": "本页面内容翻译自原网站，中文翻译仅供参考。",
+      "generalInfoBlocksZh": [],
+      "careerHistoryBlocksZh": [],
+      "generalInfoZh": "",
+      "careerHistoryZh": "",
+      "detailZh": ""
+    },
+    {
+      "id": 47216,
+      "name": "Togzhanov Altynbek Maksotovich",
+      "nameZh": "Togzhanov Altynbek Maksotovich",
+      "position": "Department head",
+      "positionZh": "部门负责人",
+      "responsibilities": "",
+      "workScopeZh": "官方页面未列出单独工作范围。",
+      "order": "",
+      "levelPosition": "Department head",
+      "sourceIndex": 10,
+      "photo": "https://www.gov.kz/uploads/2025/1/23/4f7da3740ccde0fb6a757ec546a98aff_original.565998.jpeg",
+      "phone": "8 (7112) 24-20-78",
+      "receptionPhone": "8 (7112) 24-20-78",
+      "email": "a.togzhanov@bko.gov.kz",
+      "biographyUrl": "https://www.gov.kz/memleket/entities/bko/about/structure/people/47216?lang=en",
+      "generalInfoHtml": "",
+      "careerHistoryHtml": "",
+      "generalInfoBlocks": [],
+      "careerHistoryBlocks": [],
+      "generalInfo": "",
+      "careerHistory": "",
+      "translationSourceLanguage": "en",
+      "translationNote": "本页面内容翻译自原网站，中文翻译仅供参考。",
+      "generalInfoBlocksZh": [],
+      "careerHistoryBlocksZh": [],
+      "generalInfoZh": "",
+      "careerHistoryZh": "",
+      "detailZh": ""
+    },
+    {
+      "id": 50270,
+      "name": "Kadyrov Zhanat Zhaksylykovich",
+      "nameZh": "Kadyrov Zhanat Zhaksylykovich",
+      "position": "Руководитель отдела",
+      "positionZh": "部门负责人",
+      "responsibilities": "",
+      "workScopeZh": "官方页面未列出单独工作范围。",
+      "order": "",
+      "levelPosition": "Department head",
+      "sourceIndex": 24,
+      "photo": "",
+      "phone": "8 (7112) 24-20-31",
+      "receptionPhone": "8 (7112) 24-20-31",
+      "email": "zh.kadyrov@bko.gov.kz",
+      "biographyUrl": "https://www.gov.kz/memleket/entities/bko/about/structure/people/50270?lang=en",
+      "generalInfoHtml": "",
+      "careerHistoryHtml": "",
+      "generalInfoBlocks": [],
+      "careerHistoryBlocks": [],
+      "generalInfo": "",
+      "careerHistory": "",
+      "translationSourceLanguage": "en",
+      "translationNote": "本页面内容翻译自原网站，中文翻译仅供参考。",
+      "generalInfoBlocksZh": [],
+      "careerHistoryBlocksZh": [],
+      "generalInfoZh": "",
+      "careerHistoryZh": "",
+      "detailZh": ""
+    },
+    {
+      "id": 52431,
+      "name": "Zhangerey Аlibi Almazuly",
+      "nameZh": "Zhangerey Аlibi Almazuly",
+      "position": "Department head",
+      "positionZh": "部门负责人",
+      "responsibilities": "",
+      "workScopeZh": "官方页面未列出单独工作范围。",
+      "order": "",
+      "levelPosition": "Department head",
+      "sourceIndex": 26,
+      "photo": "",
+      "phone": "8 (7112) 24-10-48",
+      "receptionPhone": "8 (7112) 24-10-48",
+      "email": "a.zhangerei@bko.gov.kz",
+      "biographyUrl": "https://www.gov.kz/memleket/entities/bko/about/structure/people/52431?lang=en",
+      "generalInfoHtml": "",
+      "careerHistoryHtml": "",
+      "generalInfoBlocks": [],
+      "careerHistoryBlocks": [],
+      "generalInfo": "",
+      "careerHistory": "",
+      "translationSourceLanguage": "en",
+      "translationNote": "本页面内容翻译自原网站，中文翻译仅供参考。",
+      "generalInfoBlocksZh": [],
+      "careerHistoryBlocksZh": [],
+      "generalInfoZh": "",
+      "careerHistoryZh": "",
+      "detailZh": ""
+    },
+    {
+      "id": 45626,
+      "name": "Darisov Altai Nurlanovich",
+      "nameZh": "Darisov Altai Nurlanovich",
+      "position": "Head of Department",
+      "positionZh": "部门负责人",
+      "responsibilities": "",
+      "workScopeZh": "官方页面未列出单独工作范围。",
+      "order": "",
+      "levelPosition": "Department head",
+      "sourceIndex": 27,
+      "photo": "",
+      "phone": "8 (7112) 24-10-87, 24-20-53, 24-20-59",
+      "receptionPhone": "8 (7112) 24-10-87, 24-20-53, 24-20-59",
+      "email": "al.darisov@bko.gov.kz",
+      "biographyUrl": "https://www.gov.kz/memleket/entities/bko/about/structure/people/45626?lang=en",
+      "generalInfoHtml": "",
+      "careerHistoryHtml": "",
+      "generalInfoBlocks": [],
+      "careerHistoryBlocks": [],
+      "generalInfo": "",
+      "careerHistory": "",
+      "translationSourceLanguage": "en",
+      "translationNote": "本页面内容翻译自原网站，中文翻译仅供参考。",
+      "generalInfoBlocksZh": [],
+      "careerHistoryBlocksZh": [],
+      "generalInfoZh": "",
+      "careerHistoryZh": "",
+      "detailZh": ""
+    },
+    {
+      "id": 52981,
+      "name": "Kinamayev Yernur Serikuly",
+      "nameZh": "Kinamayev Yernur Serikuly",
+      "position": "Press Secretary",
+      "positionZh": "新闻秘书",
+      "responsibilities": "",
+      "workScopeZh": "官方页面未列出单独工作范围。",
+      "order": "",
+      "levelPosition": "Пресс-секретарь",
+      "sourceIndex": 25,
+      "photo": "https://www.gov.kz/uploads/2026/1/30/9a030c33798045b852cffe19e34df396_original.166694.jpeg",
+      "phone": "8 (7112) 24-31-03",
+      "receptionPhone": "8 (7112) 24-31-03",
+      "email": "e.kinamaev@bko.gov.kz",
+      "biographyUrl": "https://www.gov.kz/memleket/entities/bko/about/structure/people/52981?lang=en",
+      "generalInfoHtml": "",
+      "careerHistoryHtml": "",
+      "generalInfoBlocks": [],
+      "careerHistoryBlocks": [],
+      "generalInfo": "",
+      "careerHistory": "",
+      "translationSourceLanguage": "en",
+      "translationNote": "本页面内容翻译自原网站，中文翻译仅供参考。",
+      "generalInfoBlocksZh": [],
+      "careerHistoryBlocksZh": [],
+      "generalInfoZh": "",
+      "careerHistoryZh": "",
+      "detailZh": ""
+    },
+    {
+      "id": 1161,
+      "name": "Habieva Bibigul Seylhanova",
+      "nameZh": "Habieva Bibigul Seylhanova",
+      "position": "Head of department",
+      "positionZh": "部门负责人",
+      "responsibilities": "",
+      "workScopeZh": "官方页面未列出单独工作范围。",
+      "order": "3",
+      "levelPosition": "Head",
+      "sourceIndex": 0,
+      "photo": "",
+      "phone": "8 (7112) 24-10-47",
+      "receptionPhone": "8 (7112) 24-10-47",
+      "email": "",
+      "biographyUrl": "https://www.gov.kz/memleket/entities/bko/about/structure/people/1161?lang=en",
+      "generalInfoHtml": "",
+      "careerHistoryHtml": "",
+      "generalInfoBlocks": [],
+      "careerHistoryBlocks": [],
+      "generalInfo": "",
+      "careerHistory": "",
+      "translationSourceLanguage": "en",
+      "translationNote": "本页面内容翻译自原网站，中文翻译仅供参考。",
+      "generalInfoBlocksZh": [],
+      "careerHistoryBlocksZh": [],
+      "generalInfoZh": "",
+      "careerHistoryZh": "",
+      "detailZh": ""
+    },
+    {
+      "id": 5372,
+      "name": "Dainov Yerbol Dainovich",
+      "nameZh": "Dainov Yerbol Dainovich",
+      "position": "Head of department",
+      "positionZh": "部门负责人",
+      "responsibilities": "",
+      "workScopeZh": "官方页面未列出单独工作范围。",
+      "order": "",
+      "levelPosition": "Acting head of division",
+      "sourceIndex": 2,
+      "photo": "https://www.gov.kz/uploads/2020/1/20/4854132d941084d779648f7f0be40f90_original.92410.JPG",
+      "phone": "8 (7112) 24-10-76",
+      "receptionPhone": "8 (7112) 24-10-76",
+      "email": "",
+      "biographyUrl": "https://www.gov.kz/memleket/entities/bko/about/structure/people/5372?lang=en",
+      "generalInfoHtml": "",
+      "careerHistoryHtml": "",
+      "generalInfoBlocks": [],
+      "careerHistoryBlocks": [],
+      "generalInfo": "",
+      "careerHistory": "",
+      "translationSourceLanguage": "en",
+      "translationNote": "本页面内容翻译自原网站，中文翻译仅供参考。",
+      "generalInfoBlocksZh": [],
+      "careerHistoryBlocksZh": [],
+      "generalInfoZh": "",
+      "careerHistoryZh": "",
+      "detailZh": ""
+    },
+    {
+      "id": 38007,
+      "name": "Dzhumagaziev Rashid Gabdrakhimovich",
+      "nameZh": "Dzhumagaziev Rashid Gabdrakhimovich",
+      "position": "Director",
+      "positionZh": "主任",
+      "responsibilities": "",
+      "workScopeZh": "官方页面未列出单独工作范围。",
+      "order": "",
+      "levelPosition": "Director",
+      "sourceIndex": 4,
+      "photo": "",
+      "phone": "8 (7112) 24-09-73",
+      "receptionPhone": "8 (7112) 24-09-73",
+      "email": "",
+      "biographyUrl": "https://www.gov.kz/memleket/entities/bko/about/structure/people/38007?lang=en",
+      "generalInfoHtml": "",
+      "careerHistoryHtml": "",
+      "generalInfoBlocks": [],
+      "careerHistoryBlocks": [],
+      "generalInfo": "",
+      "careerHistory": "",
+      "translationSourceLanguage": "en",
+      "translationNote": "本页面内容翻译自原网站，中文翻译仅供参考。",
+      "generalInfoBlocksZh": [],
+      "careerHistoryBlocksZh": [],
+      "generalInfoZh": "",
+      "careerHistoryZh": "",
+      "detailZh": ""
+    }
+  ],
+  "translationNote": "本页面内容翻译自原网站，中文翻译仅供参考。"
+}

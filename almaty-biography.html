@@ -40,6 +40,7 @@
       <p>丝路译讯</p>
     </footer>
 
+    <script src="biography-format.js"></script>
     <script>
       function escapeHtml(value) {
         return String(value || "")
@@ -75,6 +76,9 @@
       }
 
       function renderTextBlock(title, value) {
+        if (window.BiographyFormat) {
+          return window.BiographyFormat.renderTextBlock(title, value);
+        }
         return `
           <article class="biography-text-card">
             <h3>${escapeHtml(title)}</h3>
@@ -126,9 +130,9 @@
 
           <div class="biography-card-grid">
             ${renderTextBlock("中文译文：基本信息与教育背景", person.generalInfoZh || person.detailZh)}
-            ${renderTextBlock("中文译文：工作履历", person.careerHistoryZh || person.detailZh)}
+            ${window.BiographyFormat ? window.BiographyFormat.renderTextBlock("中文译文：工作履历", person.careerHistoryZh || person.detailZh, { language: "zh", fallbackValue: person.careerHistory }) : renderTextBlock("中文译文：工作履历", person.careerHistoryZh || person.detailZh)}
             ${renderTextBlock("English Original: General information, education", person.generalInfo)}
-            ${renderTextBlock("English Original: Career", person.careerHistory)}
+            ${window.BiographyFormat ? window.BiographyFormat.renderTextBlock("English Original: Career", person.careerHistory, { language: "en" }) : renderTextBlock("English Original: Career", person.careerHistory)}
           </div>
         `;
       }

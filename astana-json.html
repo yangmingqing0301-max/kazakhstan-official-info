@@ -62,7 +62,7 @@
     <script>
       const ASTANA_FALLBACK = {
         sourceUrl: "https://www.gov.kz/memleket/entities/astana/about/structure?lang=en",
-        syncedAt: "2026-07-08T16:32:58.082Z",
+        syncedAt: "2026-07-10T00:00:00+08:00",
         title: "Astana city administration structure",
         people: [
           {
@@ -126,7 +126,7 @@
         if (!value) return "暂无更新时间";
         const date = new Date(value);
         if (Number.isNaN(date.getTime())) return value;
-        return `更新于 ${date.toLocaleString("zh-CN", { hour12: false })}`;
+        return `更新于 ${date.toLocaleDateString("zh-CN", { timeZone: "Asia/Shanghai" })} 00:00`;
       }
 
       function initials(name) {

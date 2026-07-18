@@ -1,0 +1,2599 @@
+{
+  "sourceUrl": "https://www.gov.kz/memleket/entities/atyrau/about/structure?lang=en",
+  "syncedAt": "2026-07-17T00:00:00+08:00",
+  "title": "阿特劳州机构人员",
+  "region": {
+    "key": "atyrau",
+    "apiProject": "atyrau",
+    "sourceLanguage": "en"
+  },
+  "contentBlocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "阿特劳州机构人员"
+    },
+    {
+      "type": "person",
+      "id": 13052,
+      "name": "Shapkenov Serik Zhambyluly",
+      "position": "Akim of Atyrau region",
+      "positionZh": "阿特劳州州长",
+      "photo": "https://www.gov.kz/uploads/2022/4/18/3e2c23ac5ac90759e7699facfc264eeb_original.8831202.jpg"
+    },
+    {
+      "type": "person",
+      "id": 310,
+      "name": "Ногаев Нурлан Аскарович",
+      "position": "Аким Атырауской области",
+      "positionZh": "阿特劳州州长",
+      "photo": "https://www.gov.kz/uploads/2019/4/14/98a566b9f4cd7975c93f66b9a9ea13fc_original.jpg"
+    },
+    {
+      "type": "person",
+      "id": 14884,
+      "name": "Galiyev Yerlan Sagyndykovich",
+      "position": "Deputy Head of the Office of the Akim of the region",
+      "positionZh": "部门负责人",
+      "photo": "https://www.gov.kz/uploads/2020/9/24/12b7a99e0970730be772b461df0c75b2_original.130016.jpg"
+    },
+    {
+      "type": "person",
+      "id": 27346,
+      "name": "Bissembiyev Zhasulan Orakuly",
+      "position": "Deputy Akim of Atyrau region",
+      "positionZh": "阿特劳州副州长",
+      "photo": "https://www.gov.kz/uploads/2022/8/12/fbf364c0f0e4de64baa5bd9dec805dbe_original.2155302.jpg"
+    },
+    {
+      "type": "person",
+      "id": 27343,
+      "name": "Nurtayev Kairat Talapuly",
+      "position": "Deputy Akim of Atyrau region",
+      "positionZh": "阿特劳州副州长",
+      "photo": "https://www.gov.kz/uploads/2022/8/12/39b358511e156332bdab0ab8f5c46ba3_original.1550979.jpg"
+    },
+    {
+      "type": "person",
+      "id": 35103,
+      "name": "Murziyev Marat Bissengaliuly",
+      "position": "Deputy Akim of Atyrau region",
+      "positionZh": "阿特劳州副州长",
+      "photo": "https://www.gov.kz/uploads/2023/4/28/611facfcc0598e840784192137d3a7a2_original.1525822.JPG"
+    },
+    {
+      "type": "person",
+      "id": 48002,
+      "name": "Шамуратов Дарын Дюсембаевич",
+      "position": "Заместитель акима Атырауской области",
+      "positionZh": "阿特劳州副州长",
+      "photo": "https://www.gov.kz/uploads/2024/10/23/3d5f881f8d5a039f110ad2085c7d47e8_original.4806935.jpg"
+    },
+    {
+      "type": "person",
+      "id": 54716,
+      "name": "Женисбекулы Нурлыбек",
+      "position": "Руководитель аппарата акима области",
+      "positionZh": "阿特劳州州长",
+      "photo": "https://www.gov.kz/uploads/2026/6/11/6c7691abed787eb027cc1056258c9ac6_original.61520.jpeg"
+    },
+    {
+      "type": "person",
+      "id": 14872,
+      "name": "Ibisheva Akmaral Gatauovna",
+      "position": "Deputy Head of the Office of the Akim of the region",
+      "positionZh": "部门负责人",
+      "photo": "https://www.gov.kz/uploads/2020/9/23/a6818d9188545fe97c074f863471f784_original.148530.jpg"
+    },
+    {
+      "type": "person",
+      "id": 48906,
+      "name": "Меденов Саян",
+      "position": "Аппарат басшысының орынбасары",
+      "positionZh": "办公室副主任",
+      "photo": "https://www.gov.kz/uploads/2026/4/23/e0c5039c71c6a38313000b82b90311f0_original.65624.jpeg"
+    },
+    {
+      "type": "person",
+      "id": 28082,
+      "name": "Abuov Marat Almenuly",
+      "position": "Deputy Head of the Office of the Akim of the region",
+      "positionZh": "部门负责人",
+      "photo": "https://www.gov.kz/uploads/2022/9/26/44db633b0913d6cf042f756f06bf3b7a_original.2326848.JPG"
+    },
+    {
+      "type": "person",
+      "id": 51331,
+      "name": "Абдисаттаров Ердос Ганиевич",
+      "position": "Заместитель руководителя аппарата",
+      "positionZh": "阿特劳州副州长",
+      "photo": "https://www.gov.kz/uploads/2025/7/1/3b93f97585303e4ad6fe59ce4aac977f_original.76921.jpeg"
+    },
+    {
+      "type": "person",
+      "id": 51339,
+      "name": "Жумабай Ербол Измуханович",
+      "position": "Заместитель руководителя аппарата",
+      "positionZh": "阿特劳州副州长",
+      "photo": "https://www.gov.kz/uploads/2025/7/1/13e6dbc157f43dc4dac92d830d305f8c_original.4012076.jpg"
+    },
+    {
+      "type": "person",
+      "id": 37188,
+      "name": "Orynbassarov Daniyar Bakhtiyaruly",
+      "position": "Deputy Head of the Office of the Akim of the region",
+      "positionZh": "部门负责人",
+      "photo": "https://www.gov.kz/uploads/2023/9/12/462b51907f3f8ebf9af80f66e7b6b3cf_original.7186810.JPG"
+    },
+    {
+      "type": "person",
+      "id": 54715,
+      "name": "Даралиев Нурлыбек",
+      "position": "Заместитель руководителя аппарата",
+      "positionZh": "阿特劳州副州长",
+      "photo": "https://www.gov.kz/uploads/2026/6/26/8da97a14ab59ec440a5543ebe736b76d_original.10709061.jpg"
+    },
+    {
+      "type": "person",
+      "id": 37542,
+      "name": "Zhenisbekuly Nurlybek",
+      "position": "Head of the Office of the Akim of the region",
+      "positionZh": "阿特劳州州长",
+      "photo": "https://www.gov.kz/uploads/2024/6/26/f0a6b57ac7475d01cfb1ef7a8c4a3dea_original.91489.jpeg"
+    },
+    {
+      "type": "person",
+      "id": 15017,
+      "name": "Akhmetova Farida Tulegenovna",
+      "position": "Ethics Commissioner of the Akimat of Atyrau region",
+      "positionZh": "伦理专员",
+      "photo": "https://www.gov.kz/uploads/2026/1/6/f023c533ea5cf93b3d3391d0f014b563_original.53483.jpeg"
+    },
+    {
+      "type": "person",
+      "id": 37535,
+      "name": "Akhmetova Farida Tolegenkyzy",
+      "position": "Ethics Commissioner of the Akimat of Atyrau region",
+      "positionZh": "伦理专员",
+      "photo": "https://www.gov.kz/uploads/2026/1/6/f023c533ea5cf93b3d3391d0f014b563_original.53483.jpeg"
+    },
+    {
+      "type": "person",
+      "id": 15020,
+      "name": "Zhalmurzina Zamzagul Kidanovna",
+      "position": "Chief Inspector for Women and Family and Demographic Policy",
+      "positionZh": "首席监察员",
+      "photo": ""
+    },
+    {
+      "type": "person",
+      "id": 15009,
+      "name": "Shagirova Manshuk Muradymovna",
+      "position": "Head of Department",
+      "positionZh": "部门负责人",
+      "photo": "https://www.gov.kz/uploads/2025/5/19/006016795231053fb3832b10c4007ff9_original.5042811.JPG"
+    },
+    {
+      "type": "person",
+      "id": 15023,
+      "name": "Audanbayeva Assel Temirkhanovna",
+      "position": "Press Secretary of Akim of Atyrau Region",
+      "positionZh": "阿特劳州州长",
+      "photo": "https://www.gov.kz/uploads/2025/5/19/7c6fb069ff90e0c4fe556501b26380f1_original.7240030.JPG"
+    },
+    {
+      "type": "person",
+      "id": 14993,
+      "name": "Berdigaliyeva Laila Amanzholkyzy",
+      "position": "Head of Department",
+      "positionZh": "部门负责人",
+      "photo": "https://www.gov.kz/uploads/2026/5/5/a322bfc96565b3b1b5b159a526c72c64_original.71023.jpeg"
+    },
+    {
+      "type": "person",
+      "id": 14984,
+      "name": "Perepechkina Yekaterina Valentinovna",
+      "position": "Head of Department",
+      "positionZh": "部门负责人",
+      "photo": "https://www.gov.kz/uploads/2026/5/5/a6f6ccdee158a56459c5dfd9153731dc_original.106673.jpeg"
+    },
+    {
+      "type": "person",
+      "id": 14988,
+      "name": "Kairova Zhazira Alibekovna",
+      "position": "Head of Department",
+      "positionZh": "部门负责人",
+      "photo": "https://www.gov.kz/uploads/2026/5/5/ba304cabb4b0e4b98bc06e3cdd59f942_original.75512.jpeg"
+    },
+    {
+      "type": "person",
+      "id": 14970,
+      "name": "Bakenova Kuralay Yesetovna",
+      "position": "Head of Internal Audit Service-State Auditor",
+      "positionZh": "部门负责人",
+      "photo": "https://www.gov.kz/uploads/2026/5/5/489edd0f97dfdcb09161e8f4d073fdca_original.78091.jpeg"
+    },
+    {
+      "type": "person",
+      "id": 15029,
+      "name": "Adilgaliyev Arman Bagitzhanovich",
+      "position": "Head of Department",
+      "positionZh": "部门负责人",
+      "photo": "https://www.gov.kz/uploads/2026/5/5/5eeb0d5e825c45fb6727b615d7f30102_original.110936.jpeg"
+    },
+    {
+      "type": "person",
+      "id": 15028,
+      "name": "Shayakhmetova Gulzamira Bibozkyzy",
+      "position": "Head of Department",
+      "positionZh": "部门负责人",
+      "photo": "https://www.gov.kz/uploads/2026/5/12/383920b386343962e12ba9877aaa4298_original.91059.jpeg"
+    },
+    {
+      "type": "person",
+      "id": 50759,
+      "name": "Сериккали Алия Гиниятовна",
+      "position": "Генеральный инспектор по защите государственной тайны",
+      "positionZh": "首席监察员",
+      "photo": "https://www.gov.kz/uploads/2026/5/5/94c72ab72b3772bc7480754b44dc2bf2_original.74064.jpeg"
+    },
+    {
+      "type": "person",
+      "id": 50739,
+      "name": "Жумагазиева Жанаргуль Салимгереевна",
+      "position": "Руководитель отдела",
+      "positionZh": "部门负责人",
+      "photo": "https://www.gov.kz/uploads/2026/7/9/bb7195c98f09b3546dfe99b1af690f40_original.122214.jpeg"
+    },
+    {
+      "type": "person",
+      "id": 20339,
+      "name": "Azhgaliyeva Aigul Temirtassovna",
+      "position": "Head of Department of Economics and Budget Planning",
+      "positionZh": "部门负责人",
+      "photo": "https://www.gov.kz/uploads/2021/4/2/2380e89ced331b51ddbcfed2b8014843_original.86420.jpg"
+    }
+  ],
+  "people": [
+    {
+      "id": 13052,
+      "name": "Shapkenov Serik Zhambyluly",
+      "nameZh": "Shapkenov Serik Zhambyluly",
+      "position": "Akim of Atyrau region",
+      "positionZh": "阿特劳州州长",
+      "responsibilities": "",
+      "workScopeZh": "官方页面未列出单独工作范围。",
+      "order": "1",
+      "levelPosition": "Akim",
+      "sourceIndex": 23,
+      "photo": "https://www.gov.kz/uploads/2022/4/18/3e2c23ac5ac90759e7699facfc264eeb_original.8831202.jpg",
+      "phone": "8 (7122) 35-40-92",
+      "receptionPhone": "8 (7122) 35-40-92",
+      "email": "obl.akimat@atyrau.gov.kz",
+      "biographyUrl": "https://www.gov.kz/memleket/entities/atyrau/about/structure/people/13052?lang=en",
+      "generalInfoHtml": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p><strong>Serik Zhambyluly Shapkenov</strong> (<a href=\"https://kk.wikipedia.org/wiki/29_%D1%88%D1%96%D0%BB%D0%B4%D0%B5\">July 29</a>, <a href=\"https://en.wikipedia.org/wiki/1979\">1979</a>, <a href=\"https://en.wikipedia.org/wiki/Karatobe\">Karatobe village</a>, <a href=\"https://en.wikipedia.org/wiki/Karatobe_District\">Karatobe district</a>, <a href=\"https://en.wikipedia.org/wiki/West_Kazakhstan_Region\">West Kazakhstan region</a>, <a href=\"https://en.wikipedia.org/wiki/Kazakh_Soviet_Socialist_Republic\">Kazakh SSR</a>, <a href=\"https://en.wikipedia.org/wiki/Soviet_Union\">USSR</a>) - a statesman. He was born on <a href=\"https://kk.wikipedia.org/wiki/29_%D1%88%D1%96%D0%BB%D0%B4%D0%B5\">July 29</a>, <a href=\"https://en.wikipedia.org/wiki/1979\">1979</a>, in the <a href=\"https://en.wikipedia.org/wiki/Karatobe\">Karatobe village</a>, <a href=\"https://en.wikipedia.org/wiki/Karatobe_District\">Karatobe district</a>, <a href=\"https://en.wikipedia.org/wiki/West_Kazakhstan_Region\">West Kazakhstan region</a>. He graduated from the <a href=\"https://en.wikipedia.org/wiki/West_Kazakhstan_State_University\">M. Otemisuly West Kazakhstan State University</a>, Faculty of Economic Cybernetics (2000), economist-mathematician.</p>\n</body>\n</html>",
+      "careerHistoryHtml": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<ul style=\"list-style-type: circle;\">\n<li>Since 2000 - Lecturer at the M. Otemisuly West Kazakhstan State University.</li>\n<li>Since 2001 - Leading Specialist of the West Kazakhstan Regional Environmental Protection Fund.</li>\n<li>Since June 2002 - Leading Specialist of the Finance Department of West Kazakhstan, since 2003 - Chief Specialist.</li>\n<li>From January 2006 - Head of the Real Sector Development Department of the Department of Economy and Budget Planning of WKR.</li>\n<li>From March 2006 - Head of the Administrative Department of the Department of Agriculture of WKR.</li>\n<li>From January 2007 - Deputy Director of the Department of Agriculture of WKO.</li>\n<li>From October 2007 - Deputy Head of the Department of Economy and Budget Planning of WKO.</li>\n<li>From September 2009 - Head of the Department of Economy and Budget Planning of West Kazakhstan region.</li>\n<li>Since 2014 - State Inspector of the Department of State Control and Organizational and Territorial Work of the Presidential Administration.</li>\n<li>Since 2016 - Akim of Atyrau.</li>\n<li>From 2018 - Deputy Akim of Atyrau region.</li>\n<li>From 2020 - Deputy Minister of Labor and Social Protection.</li>\n<li>From 2021 to 2022 - Minister of Labor and Social Protection.</li>\n<li>On April 7, 2022, he was appointed Akim of Atyrau region.</li>\n</ul>\n</body>\n</html>",
+      "generalInfoBlocks": [
+        {
+          "type": "paragraph",
+          "text": "Serik Zhambyluly Shapkenov ( July 29 , 1979 , Karatobe village , Karatobe district , West Kazakhstan region , Kazakh SSR , USSR ) - a statesman. He was born on July 29 , 1979 , in the Karatobe village , Karatobe district , West Kazakhstan region . He graduated from the M. Otemisuly West Kazakhstan State University , Faculty of Economic Cybernetics (2000), economist-mathematician."
+        }
+      ],
+      "careerHistoryBlocks": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "type": "listItem",
+              "text": "Since 2000 - Lecturer at the M. Otemisuly West Kazakhstan State University."
+            },
+            {
+              "type": "listItem",
+              "text": "Since 2001 - Leading Specialist of the West Kazakhstan Regional Environmental Protection Fund."
+            },
+            {
+              "type": "listItem",
+              "text": "Since June 2002 - Leading Specialist of the Finance Department of West Kazakhstan, since 2003 - Chief Specialist."
+            },
+            {
+              "type": "listItem",
+              "text": "From January 2006 - Head of the Real Sector Development Department of the Department of Economy and Budget Planning of WKR."
+            },
+            {
+              "type": "listItem",
+              "text": "From March 2006 - Head of the Administrative Department of the Department of Agriculture of WKR."
+            },
+            {
+              "type": "listItem",
+              "text": "From January 2007 - Deputy Director of the Department of Agriculture of WKO."
+            },
+            {
+              "type": "listItem",
+              "text": "From October 2007 - Deputy Head of the Department of Economy and Budget Planning of WKO."
+            },
+            {
+              "type": "listItem",
+              "text": "From September 2009 - Head of the Department of Economy and Budget Planning of West Kazakhstan region."
+            },
+            {
+              "type": "listItem",
+              "text": "Since 2014 - State Inspector of the Department of State Control and Organizational and Territorial Work of the Presidential Administration."
+            },
+            {
+              "type": "listItem",
+              "text": "Since 2016 - Akim of Atyrau."
+            },
+            {
+              "type": "listItem",
+              "text": "From 2018 - Deputy Akim of Atyrau region."
+            },
+            {
+              "type": "listItem",
+              "text": "From 2020 - Deputy Minister of Labor and Social Protection."
+            },
+            {
+              "type": "listItem",
+              "text": "From 2021 to 2022 - Minister of Labor and Social Protection."
+            },
+            {
+              "type": "listItem",
+              "text": "On April 7, 2022, he was appointed Akim of Atyrau region."
+            }
+          ]
+        }
+      ],
+      "generalInfo": "Serik Zhambyluly Shapkenov ( July 29 , 1979 , Karatobe village , Karatobe district , West Kazakhstan region , Kazakh SSR , USSR ) - a statesman. He was born on July 29 , 1979 , in the Karatobe village , Karatobe district , West Kazakhstan region . He graduated from the M. Otemisuly West Kazakhstan State University , Faculty of Economic Cybernetics (2000), economist-mathematician.",
+      "careerHistory": "Since 2000 - Lecturer at the M. Otemisuly West Kazakhstan State University.\nSince 2001 - Leading Specialist of the West Kazakhstan Regional Environmental Protection Fund.\nSince June 2002 - Leading Specialist of the Finance Department of West Kazakhstan, since 2003 - Chief Specialist.\nFrom January 2006 - Head of the Real Sector Development Department of the Department of Economy and Budget Planning of WKR.\nFrom March 2006 - Head of the Administrative Department of the Department of Agriculture of WKR.\nFrom January 2007 - Deputy Director of the Department of Agriculture of WKO.\nFrom October 2007 - Deputy Head of the Department of Economy and Budget Planning of WKO.\nFrom September 2009 - Head of the Department of Economy and Budget Planning of West Kazakhstan region.\nSince 2014 - State Inspector of the Department of State Control and Organizational and Territorial Work of the Presidential Administration.\nSince 2016 - Akim of Atyrau.\nFrom 2018 - Deputy Akim of Atyrau region.\nFrom 2020 - Deputy Minister of Labor and Social Protection.\nFrom 2021 to 2022 - Minister of Labor and Social Protection.\nOn April 7, 2022, he was appointed Akim of Atyrau region.",
+      "translationSourceLanguage": "en",
+      "translationNote": "本页面内容翻译自原网站，中文翻译仅供参考。",
+      "generalInfoBlocksZh": [
+        {
+          "type": "paragraph",
+          "text": "谢里克·詹比卢利·沙普克诺夫（Serik Zhambyluly Shapkenov，1979年7月29日出生于苏联哈萨克苏维埃社会主义共和国西哈萨克斯坦地区卡拉托别区卡拉托别村）——政治家。 1979年7月29日出生于西哈萨克斯坦州卡拉托别区卡拉托别村。他毕业于M. Otemisuly 西哈萨克斯坦国立大学经济控制论系（2000 年），经济学家兼数学家。",
+          "sourceText": "Serik Zhambyluly Shapkenov ( July 29 , 1979 , Karatobe village , Karatobe district , West Kazakhstan region , Kazakh SSR , USSR ) - a statesman. He was born on July 29 , 1979 , in the Karatobe village , Karatobe district , West Kazakhstan region . He graduated from the M. Otemisuly West Kazakhstan State University , Faculty of Economic Cybernetics (2000), economist-mathematician."
+        }
+      ],
+      "careerHistoryBlocksZh": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            {
+              "type": "listItem",
+              "text": "自 2000 年起 - M. Otemisuly 西哈萨克斯坦国立大学讲师。",
+              "sourceText": "Since 2000 - Lecturer at the M. Otemisuly West Kazakhstan State University."
+            },
+            {
+              "type": "listItem",
+              "text": "自 2001 年起 - 西哈萨克斯坦地区环境保护基金的首席专家。",
+              "sourceText": "Since 2001 - Leading Specialist of the West Kazakhstan Regional Environmental Protection Fund."
+            },
+            {
+              "type": "listItem",
+              "text": "自 2002 年 6 月起担任西哈萨克斯坦财务部首席专家，自 2003 年起担任首席专家。",
+              "sourceText": "Since June 2002 - Leading Specialist of the Finance Department of West Kazakhstan, since 2003 - Chief Specialist."
+            },
+            {
+              "type": "listItem",
+              "text": "2006 年 1 月起担任 WKR 经济和预算规划部实体部门发展部部长。",
+              "sourceText": "From January 2006 - Head of the Real Sector Development Department of the Department of Economy and Budget Planning of WKR."
+            },
+            {
+              "type": "listItem",
+              "text": "2006年3月起任西九龙农业部行政处处长。",
+              "sourceText": "From March 2006 - Head of the Administrative Department of the Department of Agriculture of WKR."
+            },
+            {
+              "type": "listItem",
+              "text": "2007年1月起任WKO农业部副主任。",
+              "sourceText": "From January 2007 - Deputy Director of the Department of Agriculture of WKO."
+            },
+            {
+              "type": "listItem",
+              "text": "2007年10月起任WKO经济和预算规划部副部长。",
+              "sourceText": "From October 2007 - Deputy Head of the Department of Economy and Budget Planning of WKO."
+            },
+            {
+              "type": "listItem",
+              "text": "2009 年 9 月起担任西哈萨克斯坦地区经济和预算规划部部长。",
+              "sourceText": "From September 2009 - Head of the Department of Economy and Budget Planning of West Kazakhstan region."
+            },
+            {
+              "type": "listItem",
+              "text": "自 2014 年起 - 担任总统办公厅国家控制及组织和领土工作部国家监察员。",
+              "sourceText": "Since 2014 - State Inspector of the Department of State Control and Organizational and Territorial Work of the Presidential Administration."
+            },
+            {
+              "type": "listItem",
+              "text": "自 2016 年起 - 阿特劳的 Akim。",
+              "sourceText": "Since 2016 - Akim of Atyrau."
+            },
+            {
+              "type": "listItem",
+              "text": "2018年起担任阿特劳地区副阿基姆。",
+              "sourceText": "From 2018 - Deputy Akim of Atyrau region."
+            },
+            {
+              "type": "listItem",
+              "text": "2020年起任劳动和社会保障部副部长。",
+              "sourceText": "From 2020 - Deputy Minister of Labor and Social Protection."
+            },
+            {
+              "type": "listItem",
+              "text": "2021 年至 2022 年 - 劳工和社会保障部长。",
+              "sourceText": "From 2021 to 2022 - Minister of Labor and Social Protection."
+            },
+            {
+              "type": "listItem",
+              "text": "2022年4月7日，他被任命为阿特劳地区的阿基姆。",
+              "sourceText": "On April 7, 2022, he was appointed Akim of Atyrau region."
+            }
+          ]
+        }
+      ],
+      "generalInfoZh": "谢里克·詹比卢利·沙普克诺夫（Serik Zhambyluly Shapkenov，1979年7月29日出生于苏联哈萨克苏维埃社会主义共和国西哈萨克斯坦地区卡拉托别区卡拉托别村）——政治家。 1979年7月29日出生于西哈萨克斯坦州卡拉托别区卡拉托别村。他毕业于M. Otemisuly 西哈萨克斯坦国立大学经济控制论系（2000 年），经济学家兼数学家。",
+      "careerHistoryZh": "自 2000 年起 - M. Otemisuly 西哈萨克斯坦国立大学讲师。\n自 2001 年起 - 西哈萨克斯坦地区环境保护基金的首席专家。\n自 2002 年 6 月起担任西哈萨克斯坦财务部首席专家，自 2003 年起担任首席专家。\n2006 年 1 月起担任 WKR 经济和预算规划部实体部门发展部部长。\n2006年3月起任西九龙农业部行政处处长。\n2007年1月起任WKO农业部副主任。\n2007年10月起任WKO经济和预算规划部副部长。\n2009 年 9 月起担任西哈萨克斯坦地区经济和预算规划部部长。\n自 2014 年起 - 担任总统办公厅国家控制及组织和领土工作部国家监察员。\n自 2016 年起 - 阿特劳的 Akim。\n2018年起担任阿特劳地区副阿基姆。\n2020年起任劳动和社会保障部副部长。\n2021 年至 2022 年 - 劳工和社会保障部长。\n2022年4月7日，他被任命为阿特劳地区的阿基姆。",
+      "detailZh": "谢里克·詹比卢利·沙普克诺夫（Serik Zhambyluly Shapkenov，1979年7月29日出生于苏联哈萨克苏维埃社会主义共和国西哈萨克斯坦地区卡拉托别区卡拉托别村）——政治家。 1979年7月29日出生于西哈萨克斯坦州卡拉托别区卡拉托别村。他毕业于M. Otemisuly 西哈萨克斯坦国立大学经济控制论系（2000 年），经济学家兼数学家。\n自 2000 年起 - M. Otemisuly 西哈萨克斯坦国立大学讲师。\n自 2001 年起 - 西哈萨克斯坦地区环境保护基金的首席专家。\n自 2002 年 6 月起担任西哈萨克斯坦财务部首席专家，自 2003 年起担任首席专家。\n2006 年 1 月起担任 WKR 经济和预算规划部实体部门发展部部长。\n2006年3月起任西九龙农业部行政处处长。\n2007年1月起任WKO农业部副主任。\n2007年10月起任WKO经济和预算规划部副部长。\n2009 年 9 月起担任西哈萨克斯坦地区经济和预算规划部部长。\n自 2014 年起 - 担任总统办公厅国家控制及组织和领土工作部国家监察员。\n自 2016 年起 - 阿特劳的 Akim。\n2018年起担任阿特劳地区副阿基姆。\n2020年起任劳动和社会保障部副部长。\n2021 年至 2022 年 - 劳工和社会保障部长。\n2022年4月7日，他被任命为阿特劳地区的阿基姆。"
+    },
+    {
+      "id": 310,
+      "name": "Ногаев Нурлан Аскарович",
+      "nameZh": "Ногаев Нурлан Аскарович",
+      "position": "Аким Атырауской области",
+      "positionZh": "阿特劳州州长",
+      "responsibilities": "",
+      "workScopeZh": "官方页面未列出单独工作范围。",
+      "order": "",
+      "levelPosition": "Akim",
+      "sourceIndex": 0,
+      "photo": "https://www.gov.kz/uploads/2019/4/14/98a566b9f4cd7975c93f66b9a9ea13fc_original.jpg",
+      "phone": "",
+      "receptionPhone": "",
+      "email": "",
+      "biographyUrl": "https://www.gov.kz/memleket/entities/atyrau/about/structure/people/310?lang=en",
+      "generalInfoHtml": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p>1967 года рождения, образование &mdash; высшее, окончил Московскую государственную академию нефти и газа им. И. Губкина, Казахскую государственную академию управления, Московский государственный институт &laquo;Университет международных отношений&raquo; МИД России, по специальности &mdash; горный инженер, экономист &mdash; международник, мастер делового администрирования.</p>\n</body>\n</html>",
+      "careerHistoryHtml": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p>Трудовую деятельность начал электромонтером станции Кандагач г.Октябрьска Актюбинской области.</p>\n<p>В 1993&ndash;1995 г.г. &ndash; старший эксперт по нефтепродуктам, начальник отдела, генеральный директор ТОО &laquo;Гили - Паскер&raquo;, г. Москва.</p>\n<p>В 1995&ndash;1996 г.г. &ndash; заместитель генерального директора малого предприятия &laquo;Отрар Лтд&raquo;, г. Алматы.</p>\n<p>С 1996 по 2006 г.г. &ndash; инженер, начальник отдела, генеральный директор ТОО &laquo;Казахтуркмунай&raquo;.</p>\n<p>С февраля по август 2006 года был исполнительным директором АО &laquo;Национальная компания &laquo;КазМунайГаз&raquo;.</p>\n<p>С августа 2006 года работал директором Департамента нефтяной промышленности Министерства энергетики и минеральных ресурсов Республики Казахстан.</p>\n<p>С сентября 2007 года &mdash; заместитель акима Западно-Казахстанской области.</p>\n<p>С апреля 2010 года &mdash; первый заместитель акима области.</p>\n<p>20 января 2012 года Указом Главы государства назначен акимом Западно-Казахстанской области.</p>\n<p>В 2010 году награжден орденом &laquo;Құрмет&raquo;.</p>\n<p>С 26 марта 2016 года &mdash; аким Атырауской области.</p>\n</body>\n</html>",
+      "generalInfoBlocks": [
+        {
+          "type": "paragraph",
+          "text": "1967 года рождения, образование — высшее, окончил Московскую государственную академию нефти и газа им. И. Губкина, Казахскую государственную академию управления, Московский государственный институт «Университет международных отношений» МИД России, по специальности — горный инженер, экономист — международник, мастер делового администрирования."
+        }
+      ],
+      "careerHistoryBlocks": [
+        {
+          "type": "paragraph",
+          "text": "Трудовую деятельность начал электромонтером станции Кандагач г.Октябрьска Актюбинской области."
+        },
+        {
+          "type": "paragraph",
+          "text": "В 1993–1995 г.г. – старший эксперт по нефтепродуктам, начальник отдела, генеральный директор ТОО «Гили - Паскер», г. Москва."
+        },
+        {
+          "type": "paragraph",
+          "text": "В 1995–1996 г.г. – заместитель генерального директора малого предприятия «Отрар Лтд», г. Алматы."
+        },
+        {
+          "type": "paragraph",
+          "text": "С 1996 по 2006 г.г. – инженер, начальник отдела, генеральный директор ТОО «Казахтуркмунай»."
+        },
+        {
+          "type": "paragraph",
+          "text": "С февраля по август 2006 года был исполнительным директором АО «Национальная компания «КазМунайГаз»."
+        },
+        {
+          "type": "paragraph",
+          "text": "С августа 2006 года работал директором Департамента нефтяной промышленности Министерства энергетики и минеральных ресурсов Республики Казахстан."
+        },
+        {
+          "type": "paragraph",
+          "text": "С сентября 2007 года — заместитель акима Западно-Казахстанской области."
+        },
+        {
+          "type": "paragraph",
+          "text": "С апреля 2010 года — первый заместитель акима области."
+        },
+        {
+          "type": "paragraph",
+          "text": "20 января 2012 года Указом Главы государства назначен акимом Западно-Казахстанской области."
+        },
+        {
+          "type": "paragraph",
+          "text": "В 2010 году награжден орденом «Құрмет»."
+        },
+        {
+          "type": "paragraph",
+          "text": "С 26 марта 2016 года — аким Атырауской области."
+        }
+      ],
+      "generalInfo": "1967 года рождения, образование — высшее, окончил Московскую государственную академию нефти и газа им. И. Губкина, Казахскую государственную академию управления, Московский государственный институт «Университет международных отношений» МИД России, по специальности — горный инженер, экономист — международник, мастер делового администрирования.",
+      "careerHistory": "Трудовую деятельность начал электромонтером станции Кандагач г.Октябрьска Актюбинской области.\nВ 1993–1995 г.г. – старший эксперт по нефтепродуктам, начальник отдела, генеральный директор ТОО «Гили - Паскер», г. Москва.\nВ 1995–1996 г.г. – заместитель генерального директора малого предприятия «Отрар Лтд», г. Алматы.\nС 1996 по 2006 г.г. – инженер, начальник отдела, генеральный директор ТОО «Казахтуркмунай».\nС февраля по август 2006 года был исполнительным директором АО «Национальная компания «КазМунайГаз».\nС августа 2006 года работал директором Департамента нефтяной промышленности Министерства энергетики и минеральных ресурсов Республики Казахстан.\nС сентября 2007 года — заместитель акима Западно-Казахстанской области.\nС апреля 2010 года — первый заместитель акима области.\n20 января 2012 года Указом Главы государства назначен акимом Западно-Казахстанской области.\nВ 2010 году награжден орденом «Құрмет».\nС 26 марта 2016 года — аким Атырауской области.",
+      "translationSourceLanguage": "en",
+      "translationNote": "本页面内容翻译自原网站，中文翻译仅供参考。",
+      "generalInfoBlocksZh": [
+        {
+          "type": "paragraph",
+          "text": "中文译文待同步，请以页面底部来源链接为准。",
+          "sourceText": "1967 года рождения, образование — высшее, окончил Московскую государственную академию нефти и газа им. И. Губкина, Казахскую государственную академию управления, Московский государственный институт «Университет международных отношений» МИД России, по специальности — горный инженер, экономист — международник, мастер делового администрирования."
+        }
+      ],
+      "careerHistoryBlocksZh": [
+        {
+          "type": "paragraph",
+          "text": "中文译文待同步，请以页面底部来源链接为准。",
+          "sourceText": "Трудовую деятельность начал электромонтером станции Кандагач г.Октябрьска Актюбинской области."
+        },
+        {
+          "type": "paragraph",
+          "text": "中文译文待同步，请以页面底部来源链接为准。",
+          "sourceText": "В 1993–1995 г.г. – старший эксперт по нефтепродуктам, начальник отдела, генеральный директор ТОО «Гили - Паскер», г. Москва."
+        },
+        {
+          "type": "paragraph",
+          "text": "中文译文待同步，请以页面底部来源链接为准。",
+          "sourceText": "В 1995–1996 г.г. – заместитель генерального директора малого предприятия «Отрар Лтд», г. Алматы."
+        },
+        {
+          "type": "paragraph",
+          "text": "中文译文待同步，请以页面底部来源链接为准。",
+          "sourceText": "С 1996 по 2006 г.г. – инженер, начальник отдела, генеральный директор ТОО «Казахтуркмунай»."
+        },
+        {
+          "type": "paragraph",
+          "text": "中文译文待同步，请以页面底部来源链接为准。",
+          "sourceText": "С февраля по август 2006 года был исполнительным директором АО «Национальная компания «КазМунайГаз»."
+        },
+        {
+          "type": "paragraph",
+          "text": "中文译文待同步，请以页面底部来源链接为准。",
+          "sourceText": "С августа 2006 года работал директором Департамента нефтяной промышленности Министерства энергетики и минеральных ресурсов Республики Казахстан."
+        },
+        {
+          "type": "paragraph",
+          "text": "中文译文待同步，请以页面底部来源链接为准。",
+          "sourceText": "С сентября 2007 года — заместитель акима Западно-Казахстанской области."
+        },
+        {
+          "type": "paragraph",
+          "text": "中文译文待同步，请以页面底部来源链接为准。",
+          "sourceText": "С апреля 2010 года — первый заместитель акима области."
+        },
+        {
+          "type": "paragraph",
+          "text": "中文译文待同步，请以页面底部来源链接为准。",
+          "sourceText": "20 января 2012 года Указом Главы государства назначен акимом Западно-Казахстанской области."
+        },
+        {
+          "type": "paragraph",
+          "text": "中文译文待同步，请以页面底部来源链接为准。",
+          "sourceText": "В 2010 году награжден орденом «Құрмет»."
+        },
+        {
+          "type": "paragraph",
+          "text": "中文译文待同步，请以页面底部来源链接为准。",
+          "sourceText": "С 26 марта 2016 года — аким Атырауской области."
+        }
+      ],
+      "generalInfoZh": "中文译文待同步，请以页面底部来源链接为准。",
+      "careerHistoryZh": "中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。",
+      "detailZh": "中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。"
+    },
+    {
+      "id": 14884,
+      "name": "Galiyev Yerlan Sagyndykovich",
+      "nameZh": "Galiyev Yerlan Sagyndykovich",
+      "position": "Deputy Head of the Office of the Akim of the region",
+      "positionZh": "部门负责人",
+      "responsibilities": "",
+      "workScopeZh": "官方页面未列出单独工作范围。",
+      "order": "2",
+      "levelPosition": "Заместитель руководителя управления",
+      "sourceIndex": 1,
+      "photo": "https://www.gov.kz/uploads/2020/9/24/12b7a99e0970730be772b461df0c75b2_original.130016.jpg",
+      "phone": "",
+      "receptionPhone": "",
+      "email": "",
+      "biographyUrl": "https://www.gov.kz/memleket/entities/atyrau/about/structure/people/14884?lang=en",
+      "generalInfoHtml": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p>Yerlan Sagyndykovich Galiyev was born in 1982 on August 1 in the city of Karaganda, Karaganda region.</p>\n<p>In 2003, he graduated from the Kazakh State Law Academy, in 2006, the E.A. Buketov Karaganda State University, in 2012, the Modern Humanitarian and Technical Institute, specializing in law, master of law, bachelor of economics.</p>\n</body>\n</html>",
+      "careerHistoryHtml": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p>He began his career in 2004 as a Leading Specialist of the Department of Justice of the Karaganda region.</p>\n<p>In 2004-2008, he worked as a Leading Specialist, Chief Specialist, Head of the Department of the Department of Justice of the Karaganda region, 2008-2011, Deputy Head of the Department of Justice of the city of Temirtau, Karaganda region, Deputy Head of the Department of Justice of the Abay district of the Karaganda region.</p>\n<p>In 2011-2015, he worked as an advisor to the city akim, Head of the Akim's Office of the city of Shakhtinsk, Karaganda region.</p>\n<p>In 2015, he was the Deputy Director of GlobalSnabvest LLP in the city of Atyrau.</p>\n<p>Since June 22, 2015 he has been the head of the Department of Information Technology of the Akim's Office of Atyrau region.</p>\n</body>\n</html>",
+      "generalInfoBlocks": [
+        {
+          "type": "paragraph",
+          "text": "Yerlan Sagyndykovich Galiyev was born in 1982 on August 1 in the city of Karaganda, Karaganda region."
+        },
+        {
+          "type": "paragraph",
+          "text": "In 2003, he graduated from the Kazakh State Law Academy, in 2006, the E.A. Buketov Karaganda State University, in 2012, the Modern Humanitarian and Technical Institute, specializing in law, master of law, bachelor of economics."
+        }
+      ],
+      "careerHistoryBlocks": [
+        {
+          "type": "paragraph",
+          "text": "He began his career in 2004 as a Leading Specialist of the Department of Justice of the Karaganda region."
+        },
+        {
+          "type": "paragraph",
+          "text": "In 2004-2008, he worked as a Leading Specialist, Chief Specialist, Head of the Department of the Department of Justice of the Karaganda region, 2008-2011, Deputy Head of the Department of Justice of the city of Temirtau, Karaganda region, Deputy Head of the Department of Justice of the Abay district of the Karaganda region."
+        },
+        {
+          "type": "paragraph",
+          "text": "In 2011-2015, he worked as an advisor to the city akim, Head of the Akim's Office of the city of Shakhtinsk, Karaganda region."
+        },
+        {
+          "type": "paragraph",
+          "text": "In 2015, he was the Deputy Director of GlobalSnabvest LLP in the city of Atyrau."
+        },
+        {
+          "type": "paragraph",
+          "text": "Since June 22, 2015 he has been the head of the Department of Information Technology of the Akim's Office of Atyrau region."
+        }
+      ],
+      "generalInfo": "Yerlan Sagyndykovich Galiyev was born in 1982 on August 1 in the city of Karaganda, Karaganda region.\nIn 2003, he graduated from the Kazakh State Law Academy, in 2006, the E.A. Buketov Karaganda State University, in 2012, the Modern Humanitarian and Technical Institute, specializing in law, master of law, bachelor of economics.",
+      "careerHistory": "He began his career in 2004 as a Leading Specialist of the Department of Justice of the Karaganda region.\nIn 2004-2008, he worked as a Leading Specialist, Chief Specialist, Head of the Department of the Department of Justice of the Karaganda region, 2008-2011, Deputy Head of the Department of Justice of the city of Temirtau, Karaganda region, Deputy Head of the Department of Justice of the Abay district of the Karaganda region.\nIn 2011-2015, he worked as an advisor to the city akim, Head of the Akim's Office of the city of Shakhtinsk, Karaganda region.\nIn 2015, he was the Deputy Director of GlobalSnabvest LLP in the city of Atyrau.\nSince June 22, 2015 he has been the head of the Department of Information Technology of the Akim's Office of Atyrau region.",
+      "translationSourceLanguage": "en",
+      "translationNote": "本页面内容翻译自原网站，中文翻译仅供参考。",
+      "generalInfoBlocksZh": [
+        {
+          "type": "paragraph",
+          "text": "叶尔兰·萨金迪科维奇·加利耶夫（Yerlan Sagyndykovich Galiyev）1982年8月1日出生于卡拉干达地区卡拉干达市。",
+          "sourceText": "Yerlan Sagyndykovich Galiyev was born in 1982 on August 1 in the city of Karaganda, Karaganda region."
+        },
+        {
+          "type": "paragraph",
+          "text": "2003年，他毕业于哈萨克斯坦国家法律学院，2006年，E.A.布克托夫卡拉干达国立大学，2012年现代人道主义与技术学院，法学专业，法学硕士，经济学学士。",
+          "sourceText": "In 2003, he graduated from the Kazakh State Law Academy, in 2006, the E.A. Buketov Karaganda State University, in 2012, the Modern Humanitarian and Technical Institute, specializing in law, master of law, bachelor of economics."
+        }
+      ],
+      "careerHistoryBlocksZh": [
+        {
+          "type": "paragraph",
+          "text": "他于 2004 年开始了自己的职业生涯，担任卡拉干达地区司法部的首席专家。",
+          "sourceText": "He began his career in 2004 as a Leading Specialist of the Department of Justice of the Karaganda region."
+        },
+        {
+          "type": "paragraph",
+          "text": "2004年至2008年，担任卡拉干达地区司法部首席专家、首席专家、司长，2008年至2011年，担任卡拉干达地区铁米尔套市司法部副部长、卡拉干达地区阿拜区司法部副部长。",
+          "sourceText": "In 2004-2008, he worked as a Leading Specialist, Chief Specialist, Head of the Department of the Department of Justice of the Karaganda region, 2008-2011, Deputy Head of the Department of Justice of the city of Temirtau, Karaganda region, Deputy Head of the Department of Justice of the Abay district of the Karaganda region."
+        },
+        {
+          "type": "paragraph",
+          "text": "2011年至2015年，他担任卡拉干达地区沙赫金斯克市阿基姆市办公室主任阿基姆市顾问。",
+          "sourceText": "In 2011-2015, he worked as an advisor to the city akim, Head of the Akim's Office of the city of Shakhtinsk, Karaganda region."
+        },
+        {
+          "type": "paragraph",
+          "text": "2015 年，他担任阿特劳市 GlobalSnabvest LLP 的副总监。",
+          "sourceText": "In 2015, he was the Deputy Director of GlobalSnabvest LLP in the city of Atyrau."
+        },
+        {
+          "type": "paragraph",
+          "text": "自2015年6月22日起，他担任阿特劳地区阿基姆办公室信息技术部负责人。",
+          "sourceText": "Since June 22, 2015 he has been the head of the Department of Information Technology of the Akim's Office of Atyrau region."
+        }
+      ],
+      "generalInfoZh": "叶尔兰·萨金迪科维奇·加利耶夫（Yerlan Sagyndykovich Galiyev）1982年8月1日出生于卡拉干达地区卡拉干达市。\n2003年，他毕业于哈萨克斯坦国家法律学院，2006年，E.A.布克托夫卡拉干达国立大学，2012年现代人道主义与技术学院，法学专业，法学硕士，经济学学士。",
+      "careerHistoryZh": "他于 2004 年开始了自己的职业生涯，担任卡拉干达地区司法部的首席专家。\n2004年至2008年，担任卡拉干达地区司法部首席专家、首席专家、司长，2008年至2011年，担任卡拉干达地区铁米尔套市司法部副部长、卡拉干达地区阿拜区司法部副部长。\n2011年至2015年，他担任卡拉干达地区沙赫金斯克市阿基姆市办公室主任阿基姆市顾问。\n2015 年，他担任阿特劳市 GlobalSnabvest LLP 的副总监。\n自2015年6月22日起，他担任阿特劳地区阿基姆办公室信息技术部负责人。",
+      "detailZh": "叶尔兰·萨金迪科维奇·加利耶夫（Yerlan Sagyndykovich Galiyev）1982年8月1日出生于卡拉干达地区卡拉干达市。\n2003年，他毕业于哈萨克斯坦国家法律学院，2006年，E.A.布克托夫卡拉干达国立大学，2012年现代人道主义与技术学院，法学专业，法学硕士，经济学学士。\n他于 2004 年开始了自己的职业生涯，担任卡拉干达地区司法部的首席专家。\n2004年至2008年，担任卡拉干达地区司法部首席专家、首席专家、司长，2008年至2011年，担任卡拉干达地区铁米尔套市司法部副部长、卡拉干达地区阿拜区司法部副部长。\n2011年至2015年，他担任卡拉干达地区沙赫金斯克市阿基姆市办公室主任阿基姆市顾问。\n2015 年，他担任阿特劳市 GlobalSnabvest LLP 的副总监。\n自2015年6月22日起，他担任阿特劳地区阿基姆办公室信息技术部负责人。"
+    },
+    {
+      "id": 27346,
+      "name": "Bissembiyev Zhasulan Orakuly",
+      "nameZh": "Bissembiyev Zhasulan Orakuly",
+      "position": "Deputy Akim of Atyrau region",
+      "positionZh": "阿特劳州副州长",
+      "responsibilities": "Public services\nHealthcare\nУправление экономики и финансов Атырауской области\nСоциальная защита\nЭкономика и бюджетное планирование",
+      "workScopeZh": "经济",
+      "order": "2",
+      "levelPosition": "Deputy Akim",
+      "sourceIndex": 24,
+      "photo": "https://www.gov.kz/uploads/2022/8/12/fbf364c0f0e4de64baa5bd9dec805dbe_original.2155302.jpg",
+      "phone": "8 (7122) 95-66-13",
+      "receptionPhone": "8 (7122) 95-66-13",
+      "email": "obl.akimat@atyrau.gov.kz",
+      "biographyUrl": "https://www.gov.kz/memleket/entities/atyrau/about/structure/people/27346?lang=en",
+      "generalInfoHtml": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p><strong>Zhasulan Orakuly Bissembiyev</strong> graduated from the Atyrau Polytechnic College with a degree in Accounting and Auditing, Kh. Dosmukhamedov Atyrau State University majoring in Finance. Master of Sociology, Astrakhan State University of the Russian Federation.</p>\n</body>\n</html>",
+      "careerHistoryHtml": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p><strong>Zhasulan Orakuly</strong> began his career in 2008 at the Atyrau branch of Zhasyl Yel.</p>\n<p>In 2008, he worked as the Chairman of the NGO \"Tarlan-Atyrau\".</p>\n<p>In 2011, assistant to the chairman of the State Enterprise \"Atyrau Akparat\".</p>\n<p>In 2013, he headed the Atyrau Youth Resource Center.</p>\n<p>In May 2016, he worked as Deputy Head of the Youth Policy Department.</p>\n<p>In 2017 <span>&mdash;</span> Head of the Youth Policy Department.</p>\n<p>In 2017-2020, he was the Head of the Department of Internal Policy of the region.</p>\n<p>From July 2020 to September 2021 <span>&mdash;</span> Manager of Gate Insaat Taah.San.Tic.A.S.</p>\n<p>From September 2021 to August, he held the position of Deputy Chairman of the Board of the Civic Initiatives Support Center NCJSC.</p>\n<p>Since August 2022, he has been Deputy Akim of Atyrau region.</p>\n</body>\n</html>",
+      "generalInfoBlocks": [
+        {
+          "type": "paragraph",
+          "text": "Zhasulan Orakuly Bissembiyev graduated from the Atyrau Polytechnic College with a degree in Accounting and Auditing, Kh. Dosmukhamedov Atyrau State University majoring in Finance. Master of Sociology, Astrakhan State University of the Russian Federation."
+        }
+      ],
+      "careerHistoryBlocks": [
+        {
+          "type": "paragraph",
+          "text": "Zhasulan Orakuly began his career in 2008 at the Atyrau branch of Zhasyl Yel."
+        },
+        {
+          "type": "paragraph",
+          "text": "In 2008, he worked as the Chairman of the NGO \"Tarlan-Atyrau\"."
+        },
+        {
+          "type": "paragraph",
+          "text": "In 2011, assistant to the chairman of the State Enterprise \"Atyrau Akparat\"."
+        },
+        {
+          "type": "paragraph",
+          "text": "In 2013, he headed the Atyrau Youth Resource Center."
+        },
+        {
+          "type": "paragraph",
+          "text": "In May 2016, he worked as Deputy Head of the Youth Policy Department."
+        },
+        {
+          "type": "paragraph",
+          "text": "In 2017 — Head of the Youth Policy Department."
+        },
+        {
+          "type": "paragraph",
+          "text": "In 2017-2020, he was the Head of the Department of Internal Policy of the region."
+        },
+        {
+          "type": "paragraph",
+          "text": "From July 2020 to September 2021 — Manager of Gate Insaat Taah.San.Tic.A.S."
+        },
+        {
+          "type": "paragraph",
+          "text": "From September 2021 to August, he held the position of Deputy Chairman of the Board of the Civic Initiatives Support Center NCJSC."
+        },
+        {
+          "type": "paragraph",
+          "text": "Since August 2022, he has been Deputy Akim of Atyrau region."
+        }
+      ],
+      "generalInfo": "Zhasulan Orakuly Bissembiyev graduated from the Atyrau Polytechnic College with a degree in Accounting and Auditing, Kh. Dosmukhamedov Atyrau State University majoring in Finance. Master of Sociology, Astrakhan State University of the Russian Federation.",
+      "careerHistory": "Zhasulan Orakuly began his career in 2008 at the Atyrau branch of Zhasyl Yel.\nIn 2008, he worked as the Chairman of the NGO \"Tarlan-Atyrau\".\nIn 2011, assistant to the chairman of the State Enterprise \"Atyrau Akparat\".\nIn 2013, he headed the Atyrau Youth Resource Center.\nIn May 2016, he worked as Deputy Head of the Youth Policy Department.\nIn 2017 — Head of the Youth Policy Department.\nIn 2017-2020, he was the Head of the Department of Internal Policy of the region.\nFrom July 2020 to September 2021 — Manager of Gate Insaat Taah.San.Tic.A.S.\nFrom September 2021 to August, he held the position of Deputy Chairman of the Board of the Civic Initiatives Support Center NCJSC.\nSince August 2022, he has been Deputy Akim of Atyrau region.",
+      "translationSourceLanguage": "en",
+      "translationNote": "本页面内容翻译自原网站，中文翻译仅供参考。",
+      "generalInfoBlocksZh": [
+        {
+          "type": "paragraph",
+          "text": "Zhasulan Orakuly Bissembiyev 毕业于阿特劳理工学院，获得会计和审计学位。多斯穆哈梅多夫阿特劳国立大学金融专业。俄罗斯联邦阿斯特拉罕国立大学社会学硕士。",
+          "sourceText": "Zhasulan Orakuly Bissembiyev graduated from the Atyrau Polytechnic College with a degree in Accounting and Auditing, Kh. Dosmukhamedov Atyrau State University majoring in Finance. Master of Sociology, Astrakhan State University of the Russian Federation."
+        }
+      ],
+      "careerHistoryBlocksZh": [
+        {
+          "type": "paragraph",
+          "text": "Zhasulan Orakuly 于 2008 年在 Zhasyl Yel 阿特劳分公司开始了他的职业生涯。",
+          "sourceText": "Zhasulan Orakuly began his career in 2008 at the Atyrau branch of Zhasyl Yel."
+        },
+        {
+          "type": "paragraph",
+          "text": "2008年，他担任非政府组织“Tarlan-Atyrau”的主席。",
+          "sourceText": "In 2008, he worked as the Chairman of the NGO \"Tarlan-Atyrau\"."
+        },
+        {
+          "type": "paragraph",
+          "text": "2011年，担任国营企业“Atyrau Akparat”董事长助理。",
+          "sourceText": "In 2011, assistant to the chairman of the State Enterprise \"Atyrau Akparat\"."
+        },
+        {
+          "type": "paragraph",
+          "text": "2013年，他领导阿特劳青年资源中心。",
+          "sourceText": "In 2013, he headed the Atyrau Youth Resource Center."
+        },
+        {
+          "type": "paragraph",
+          "text": "2016年5月，任青年政策司副司长。",
+          "sourceText": "In May 2016, he worked as Deputy Head of the Youth Policy Department."
+        },
+        {
+          "type": "paragraph",
+          "text": "2017 年 — 青年政策部部长。",
+          "sourceText": "In 2017 — Head of the Youth Policy Department."
+        },
+        {
+          "type": "paragraph",
+          "text": "2017年至2020年，担任该地区内政部部长。",
+          "sourceText": "In 2017-2020, he was the Head of the Department of Internal Policy of the region."
+        },
+        {
+          "type": "paragraph",
+          "text": "2020 年 7 月至 2021 年 9 月 — Gate Insaat Taah.San.Tic.A.S. 经理",
+          "sourceText": "From July 2020 to September 2021 — Manager of Gate Insaat Taah.San.Tic.A.S."
+        },
+        {
+          "type": "paragraph",
+          "text": "2021年9月至8月，他担任公民倡议支持中心NCJSC董事会副主席。",
+          "sourceText": "From September 2021 to August, he held the position of Deputy Chairman of the Board of the Civic Initiatives Support Center NCJSC."
+        },
+        {
+          "type": "paragraph",
+          "text": "自2022年8月起，他担任阿特劳地区副阿基姆。",
+          "sourceText": "Since August 2022, he has been Deputy Akim of Atyrau region."
+        }
+      ],
+      "generalInfoZh": "Zhasulan Orakuly Bissembiyev 毕业于阿特劳理工学院，获得会计和审计学位。多斯穆哈梅多夫阿特劳国立大学金融专业。俄罗斯联邦阿斯特拉罕国立大学社会学硕士。",
+      "careerHistoryZh": "Zhasulan Orakuly 于 2008 年在 Zhasyl Yel 阿特劳分公司开始了他的职业生涯。\n2008年，他担任非政府组织“Tarlan-Atyrau”的主席。\n2011年，担任国营企业“Atyrau Akparat”董事长助理。\n2013年，他领导阿特劳青年资源中心。\n2016年5月，任青年政策司副司长。\n2017 年 — 青年政策部部长。\n2017年至2020年，担任该地区内政部部长。\n2020 年 7 月至 2021 年 9 月 — Gate Insaat Taah.San.Tic.A.S. 经理\n2021年9月至8月，他担任公民倡议支持中心NCJSC董事会副主席。\n自2022年8月起，他担任阿特劳地区副阿基姆。",
+      "detailZh": "Zhasulan Orakuly Bissembiyev 毕业于阿特劳理工学院，获得会计和审计学位。多斯穆哈梅多夫阿特劳国立大学金融专业。俄罗斯联邦阿斯特拉罕国立大学社会学硕士。\nZhasulan Orakuly 于 2008 年在 Zhasyl Yel 阿特劳分公司开始了他的职业生涯。\n2008年，他担任非政府组织“Tarlan-Atyrau”的主席。\n2011年，担任国营企业“Atyrau Akparat”董事长助理。\n2013年，他领导阿特劳青年资源中心。\n2016年5月，任青年政策司副司长。\n2017 年 — 青年政策部部长。\n2017年至2020年，担任该地区内政部部长。\n2020 年 7 月至 2021 年 9 月 — Gate Insaat Taah.San.Tic.A.S. 经理\n2021年9月至8月，他担任公民倡议支持中心NCJSC董事会副主席。\n自2022年8月起，他担任阿特劳地区副阿基姆。"
+    },
+    {
+      "id": 27343,
+      "name": "Nurtayev Kairat Talapuly",
+      "nameZh": "Nurtayev Kairat Talapuly",
+      "position": "Deputy Akim of Atyrau region",
+      "positionZh": "阿特劳州副州长",
+      "responsibilities": "Transport\nPublic services in field of architecture and urban planning\nЖКХ\nСтроительство",
+      "workScopeZh": "建设",
+      "order": "3",
+      "levelPosition": "Deputy Akim",
+      "sourceIndex": 25,
+      "photo": "https://www.gov.kz/uploads/2022/8/12/39b358511e156332bdab0ab8f5c46ba3_original.1550979.jpg",
+      "phone": "8 (7122) 95-66-12",
+      "receptionPhone": "8 (7122) 95-66-12",
+      "email": "obl.akimat@atyrau.gov.kz",
+      "biographyUrl": "https://www.gov.kz/memleket/entities/atyrau/about/structure/people/27343?lang=en",
+      "generalInfoHtml": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p><strong>Kairat Talapuly Nurtayev</strong> graduated from the Atyrau Institute of Oil and Gas, West Kazakhstan Engineering and Humanities University. Master of Economics and Business.</p>\n</body>\n</html>",
+      "careerHistoryHtml": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p><strong>Kairat Talapuly Nurtayev</strong> graduated from the Atyrau Institute of Oil and Gas, West Kazakhstan Engineering and Humanities University. Master of Economics and Business.</p>\n<p>Kairat Talapuly began his career in 2004 as the Chief Specialist of the Atyrau Regional Department of Economics and Entrepreneurship Support</p>\n<p>From 2005 to 2007 &mdash; Deputy Head of the Atyrau Regional Department of Passenger Transport and Highways</p>\n<p>Since 2008 &mdash; Head of the Department of Highways of the Department of Passenger Transport and Highways of the Atyrau Region.</p>\n<p>From 2010 to 2017, he worked as Deputy Head of the Department of Passenger Transport and Highways of Atyrau Region</p>\n<p>From 2017 to 2019 - Head of the Department of Passenger Transport and Highways of the Atyrau region.</p>\n<p>From 2019 to 2021, he served as Akim of the Kurmangazy district.</p>\n<p>From April 2021 to January 2022, he worked as an adviser to the akim of Atyrau region.</p>\n<p>From January 2022 to August, he held the position of General Director of BatysAlyansstroy LLP.</p>\n<p>Since August 2022, as Deputy Akim of Atyrau Region</p>\n</body>\n</html>",
+      "generalInfoBlocks": [
+        {
+          "type": "paragraph",
+          "text": "Kairat Talapuly Nurtayev graduated from the Atyrau Institute of Oil and Gas, West Kazakhstan Engineering and Humanities University. Master of Economics and Business."
+        }
+      ],
+      "careerHistoryBlocks": [
+        {
+          "type": "paragraph",
+          "text": "Kairat Talapuly Nurtayev graduated from the Atyrau Institute of Oil and Gas, West Kazakhstan Engineering and Humanities University. Master of Economics and Business."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kairat Talapuly began his career in 2004 as the Chief Specialist of the Atyrau Regional Department of Economics and Entrepreneurship Support"
+        },
+        {
+          "type": "paragraph",
+          "text": "From 2005 to 2007 — Deputy Head of the Atyrau Regional Department of Passenger Transport and Highways"
+        },
+        {
+          "type": "paragraph",
+          "text": "Since 2008 — Head of the Department of Highways of the Department of Passenger Transport and Highways of the Atyrau Region."
+        },
+        {
+          "type": "paragraph",
+          "text": "From 2010 to 2017, he worked as Deputy Head of the Department of Passenger Transport and Highways of Atyrau Region"
+        },
+        {
+          "type": "paragraph",
+          "text": "From 2017 to 2019 - Head of the Department of Passenger Transport and Highways of the Atyrau region."
+        },
+        {
+          "type": "paragraph",
+          "text": "From 2019 to 2021, he served as Akim of the Kurmangazy district."
+        },
+        {
+          "type": "paragraph",
+          "text": "From April 2021 to January 2022, he worked as an adviser to the akim of Atyrau region."
+        },
+        {
+          "type": "paragraph",
+          "text": "From January 2022 to August, he held the position of General Director of BatysAlyansstroy LLP."
+        },
+        {
+          "type": "paragraph",
+          "text": "Since August 2022, as Deputy Akim of Atyrau Region"
+        }
+      ],
+      "generalInfo": "Kairat Talapuly Nurtayev graduated from the Atyrau Institute of Oil and Gas, West Kazakhstan Engineering and Humanities University. Master of Economics and Business.",
+      "careerHistory": "Kairat Talapuly Nurtayev graduated from the Atyrau Institute of Oil and Gas, West Kazakhstan Engineering and Humanities University. Master of Economics and Business.\nKairat Talapuly began his career in 2004 as the Chief Specialist of the Atyrau Regional Department of Economics and Entrepreneurship Support\nFrom 2005 to 2007 — Deputy Head of the Atyrau Regional Department of Passenger Transport and Highways\nSince 2008 — Head of the Department of Highways of the Department of Passenger Transport and Highways of the Atyrau Region.\nFrom 2010 to 2017, he worked as Deputy Head of the Department of Passenger Transport and Highways of Atyrau Region\nFrom 2017 to 2019 - Head of the Department of Passenger Transport and Highways of the Atyrau region.\nFrom 2019 to 2021, he served as Akim of the Kurmangazy district.\nFrom April 2021 to January 2022, he worked as an adviser to the akim of Atyrau region.\nFrom January 2022 to August, he held the position of General Director of BatysAlyansstroy LLP.\nSince August 2022, as Deputy Akim of Atyrau Region",
+      "translationSourceLanguage": "en",
+      "translationNote": "本页面内容翻译自原网站，中文翻译仅供参考。",
+      "generalInfoBlocksZh": [
+        {
+          "type": "paragraph",
+          "text": "Kairat Talapuly Nurtayev 毕业于西哈萨克斯坦工程与人文大学阿特劳石油天然气学院。经济学和商业硕士。",
+          "sourceText": "Kairat Talapuly Nurtayev graduated from the Atyrau Institute of Oil and Gas, West Kazakhstan Engineering and Humanities University. Master of Economics and Business."
+        }
+      ],
+      "careerHistoryBlocksZh": [
+        {
+          "type": "paragraph",
+          "text": "Kairat Talapuly Nurtayev 毕业于西哈萨克斯坦工程与人文大学阿特劳石油天然气学院。经济学和商业硕士。",
+          "sourceText": "Kairat Talapuly Nurtayev graduated from the Atyrau Institute of Oil and Gas, West Kazakhstan Engineering and Humanities University. Master of Economics and Business."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kairat Talapuly 于 2004 年开始了他的职业生涯，担任阿特劳地区经济和创业支持部的首席专家",
+          "sourceText": "Kairat Talapuly began his career in 2004 as the Chief Specialist of the Atyrau Regional Department of Economics and Entrepreneurship Support"
+        },
+        {
+          "type": "paragraph",
+          "text": "2005 年至 2007 年 — 阿特劳地区客运和公路部副部长",
+          "sourceText": "From 2005 to 2007 — Deputy Head of the Atyrau Regional Department of Passenger Transport and Highways"
+        },
+        {
+          "type": "paragraph",
+          "text": "自 2008 年起 — 阿特劳地区客运和公路部公路部负责人。",
+          "sourceText": "Since 2008 — Head of the Department of Highways of the Department of Passenger Transport and Highways of the Atyrau Region."
+        },
+        {
+          "type": "paragraph",
+          "text": "2010年至2017年，担任阿特劳地区客运和公路部副部长",
+          "sourceText": "From 2010 to 2017, he worked as Deputy Head of the Department of Passenger Transport and Highways of Atyrau Region"
+        },
+        {
+          "type": "paragraph",
+          "text": "2017 年至 2019 年 - 阿特劳地区客运和公路部负责人。",
+          "sourceText": "From 2017 to 2019 - Head of the Department of Passenger Transport and Highways of the Atyrau region."
+        },
+        {
+          "type": "paragraph",
+          "text": "2019年至2021年，他担任Kurmangazy区的Akim。",
+          "sourceText": "From 2019 to 2021, he served as Akim of the Kurmangazy district."
+        },
+        {
+          "type": "paragraph",
+          "text": "2021年4月至2022年1月，他担任阿特劳地区长官的顾问。",
+          "sourceText": "From April 2021 to January 2022, he worked as an adviser to the akim of Atyrau region."
+        },
+        {
+          "type": "paragraph",
+          "text": "2022年1月至8月，他担任BatysAlyansstroy LLP总经理。",
+          "sourceText": "From January 2022 to August, he held the position of General Director of BatysAlyansstroy LLP."
+        },
+        {
+          "type": "paragraph",
+          "text": "自2022年8月起，担任阿特劳地区副阿基姆",
+          "sourceText": "Since August 2022, as Deputy Akim of Atyrau Region"
+        }
+      ],
+      "generalInfoZh": "Kairat Talapuly Nurtayev 毕业于西哈萨克斯坦工程与人文大学阿特劳石油天然气学院。经济学和商业硕士。",
+      "careerHistoryZh": "Kairat Talapuly Nurtayev 毕业于西哈萨克斯坦工程与人文大学阿特劳石油天然气学院。经济学和商业硕士。\nKairat Talapuly 于 2004 年开始了他的职业生涯，担任阿特劳地区经济和创业支持部的首席专家\n2005 年至 2007 年 — 阿特劳地区客运和公路部副部长\n自 2008 年起 — 阿特劳地区客运和公路部公路部负责人。\n2010年至2017年，担任阿特劳地区客运和公路部副部长\n2017 年至 2019 年 - 阿特劳地区客运和公路部负责人。\n2019年至2021年，他担任Kurmangazy区的Akim。\n2021年4月至2022年1月，他担任阿特劳地区长官的顾问。\n2022年1月至8月，他担任BatysAlyansstroy LLP总经理。\n自2022年8月起，担任阿特劳地区副阿基姆",
+      "detailZh": "Kairat Talapuly Nurtayev 毕业于西哈萨克斯坦工程与人文大学阿特劳石油天然气学院。经济学和商业硕士。\nKairat Talapuly Nurtayev 毕业于西哈萨克斯坦工程与人文大学阿特劳石油天然气学院。经济学和商业硕士。\nKairat Talapuly 于 2004 年开始了他的职业生涯，担任阿特劳地区经济和创业支持部的首席专家\n2005 年至 2007 年 — 阿特劳地区客运和公路部副部长\n自 2008 年起 — 阿特劳地区客运和公路部公路部负责人。\n2010年至2017年，担任阿特劳地区客运和公路部副部长\n2017 年至 2019 年 - 阿特劳地区客运和公路部负责人。\n2019年至2021年，他担任Kurmangazy区的Akim。\n2021年4月至2022年1月，他担任阿特劳地区长官的顾问。\n2022年1月至8月，他担任BatysAlyansstroy LLP总经理。\n自2022年8月起，担任阿特劳地区副阿基姆"
+    },
+    {
+      "id": 35103,
+      "name": "Murziyev Marat Bissengaliuly",
+      "nameZh": "Murziyev Marat Bissengaliuly",
+      "position": "Deputy Akim of Atyrau region",
+      "positionZh": "阿特劳州副州长",
+      "responsibilities": "Land relations\nPublic services in field of veterinary medicine\nПредпринимательство и промышленность\nПриродные ресурсы\nСельское хозяйство",
+      "workScopeZh": "企业事务",
+      "order": "4",
+      "levelPosition": "Deputy Akim",
+      "sourceIndex": 26,
+      "photo": "https://www.gov.kz/uploads/2023/4/28/611facfcc0598e840784192137d3a7a2_original.1525822.JPG",
+      "phone": "8 (7122) 31-99-82",
+      "receptionPhone": "8 (7122) 31-99-82",
+      "email": "obl.akimat@atyrau.gov.kz",
+      "biographyUrl": "https://www.gov.kz/memleket/entities/atyrau/about/structure/people/35103?lang=en",
+      "generalInfoHtml": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p>Marat Bissengaliyevich Murziyev graduated from the Kazakh Humanitarian and Law University (major &ldquo;lawyer&rdquo;), New Economic University named after. T. Ryskulov (Narkhoz) (major &ldquo;economist&rdquo;).</p>\n</body>\n</html>",
+      "careerHistoryHtml": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p>He began his career in 2003 as an Assistant to the Environmental Prosecutor of Atyrau.</p>\n<p>In 2004 &ndash; Assistant Prosecutor of the Atyrau city, in 2006-2009 &ndash; lawyer, public relations manager in various companies.</p>\n<p>In 2009, he worked in the Office of the Akim of the Shyngyrlau district of the West Kazakhstan region as an Adviser to the akim.</p>\n<p>In 2010-2011 &ndash; Head of the Department of Education of the West Kazakhstan Region, Head of the State and Legal Department of the Office of the Akim of the Atyrau region.</p>\n<p>In 2012 &ndash; Deputy Head of the Office of the Akim of the Atyrau region for Legal Support and Control, in 2013 &ndash; Chairman of the Audit Commission of the Atyrau region.</p>\n</body>\n</html>",
+      "generalInfoBlocks": [
+        {
+          "type": "paragraph",
+          "text": "Marat Bissengaliyevich Murziyev graduated from the Kazakh Humanitarian and Law University (major “lawyer”), New Economic University named after. T. Ryskulov (Narkhoz) (major “economist”)."
+        }
+      ],
+      "careerHistoryBlocks": [
+        {
+          "type": "paragraph",
+          "text": "He began his career in 2003 as an Assistant to the Environmental Prosecutor of Atyrau."
+        },
+        {
+          "type": "paragraph",
+          "text": "In 2004 – Assistant Prosecutor of the Atyrau city, in 2006-2009 – lawyer, public relations manager in various companies."
+        },
+        {
+          "type": "paragraph",
+          "text": "In 2009, he worked in the Office of the Akim of the Shyngyrlau district of the West Kazakhstan region as an Adviser to the akim."
+        },
+        {
+          "type": "paragraph",
+          "text": "In 2010-2011 – Head of the Department of Education of the West Kazakhstan Region, Head of the State and Legal Department of the Office of the Akim of the Atyrau region."
+        },
+        {
+          "type": "paragraph",
+          "text": "In 2012 – Deputy Head of the Office of the Akim of the Atyrau region for Legal Support and Control, in 2013 – Chairman of the Audit Commission of the Atyrau region."
+        }
+      ],
+      "generalInfo": "Marat Bissengaliyevich Murziyev graduated from the Kazakh Humanitarian and Law University (major “lawyer”), New Economic University named after. T. Ryskulov (Narkhoz) (major “economist”).",
+      "careerHistory": "He began his career in 2003 as an Assistant to the Environmental Prosecutor of Atyrau.\nIn 2004 – Assistant Prosecutor of the Atyrau city, in 2006-2009 – lawyer, public relations manager in various companies.\nIn 2009, he worked in the Office of the Akim of the Shyngyrlau district of the West Kazakhstan region as an Adviser to the akim.\nIn 2010-2011 – Head of the Department of Education of the West Kazakhstan Region, Head of the State and Legal Department of the Office of the Akim of the Atyrau region.\nIn 2012 – Deputy Head of the Office of the Akim of the Atyrau region for Legal Support and Control, in 2013 – Chairman of the Audit Commission of the Atyrau region.",
+      "translationSourceLanguage": "en",
+      "translationNote": "本页面内容翻译自原网站，中文翻译仅供参考。",
+      "generalInfoBlocksZh": [
+        {
+          "type": "paragraph",
+          "text": "马拉特·比森加利耶维奇·穆尔济耶夫毕业于哈萨克斯坦人道主义和法律大学（主修“律师”），以新经济大学命名。 T. Ryskulov (Narkhoz)（主要“经济学家”）。",
+          "sourceText": "Marat Bissengaliyevich Murziyev graduated from the Kazakh Humanitarian and Law University (major “lawyer”), New Economic University named after. T. Ryskulov (Narkhoz) (major “economist”)."
+        }
+      ],
+      "careerHistoryBlocksZh": [
+        {
+          "type": "paragraph",
+          "text": "他于 2003 年开始了自己的职业生涯，担任阿特劳环境检察官助理。",
+          "sourceText": "He began his career in 2003 as an Assistant to the Environmental Prosecutor of Atyrau."
+        },
+        {
+          "type": "paragraph",
+          "text": "2004 年 – 阿特劳市助理检察官，2006 年至 2009 年 – 律师、多家公司的公共关系经理。",
+          "sourceText": "In 2004 – Assistant Prosecutor of the Atyrau city, in 2006-2009 – lawyer, public relations manager in various companies."
+        },
+        {
+          "type": "paragraph",
+          "text": "2009年，在西哈萨克斯坦州新吉尔劳区阿克姆办公室工作，担任阿克姆顾问。",
+          "sourceText": "In 2009, he worked in the Office of the Akim of the Shyngyrlau district of the West Kazakhstan region as an Adviser to the akim."
+        },
+        {
+          "type": "paragraph",
+          "text": "2010-2011年 – 西哈萨克斯坦地区教育部部长、阿特劳地区阿基姆办公室国家和法律部部长。",
+          "sourceText": "In 2010-2011 – Head of the Department of Education of the West Kazakhstan Region, Head of the State and Legal Department of the Office of the Akim of the Atyrau region."
+        },
+        {
+          "type": "paragraph",
+          "text": "2012 年 – 阿特劳地区 Akim 法律支持和控制办公室副主任，2013 年 – 阿特劳地区审计委员会主席。",
+          "sourceText": "In 2012 – Deputy Head of the Office of the Akim of the Atyrau region for Legal Support and Control, in 2013 – Chairman of the Audit Commission of the Atyrau region."
+        }
+      ],
+      "generalInfoZh": "马拉特·比森加利耶维奇·穆尔济耶夫毕业于哈萨克斯坦人道主义和法律大学（主修“律师”），以新经济大学命名。 T. Ryskulov (Narkhoz)（主要“经济学家”）。",
+      "careerHistoryZh": "他于 2003 年开始了自己的职业生涯，担任阿特劳环境检察官助理。\n2004 年 – 阿特劳市助理检察官，2006 年至 2009 年 – 律师、多家公司的公共关系经理。\n2009年，在西哈萨克斯坦州新吉尔劳区阿克姆办公室工作，担任阿克姆顾问。\n2010-2011年 – 西哈萨克斯坦地区教育部部长、阿特劳地区阿基姆办公室国家和法律部部长。\n2012 年 – 阿特劳地区 Akim 法律支持和控制办公室副主任，2013 年 – 阿特劳地区审计委员会主席。",
+      "detailZh": "马拉特·比森加利耶维奇·穆尔济耶夫毕业于哈萨克斯坦人道主义和法律大学（主修“律师”），以新经济大学命名。 T. Ryskulov (Narkhoz)（主要“经济学家”）。\n他于 2003 年开始了自己的职业生涯，担任阿特劳环境检察官助理。\n2004 年 – 阿特劳市助理检察官，2006 年至 2009 年 – 律师、多家公司的公共关系经理。\n2009年，在西哈萨克斯坦州新吉尔劳区阿克姆办公室工作，担任阿克姆顾问。\n2010-2011年 – 西哈萨克斯坦地区教育部部长、阿特劳地区阿基姆办公室国家和法律部部长。\n2012 年 – 阿特劳地区 Akim 法律支持和控制办公室副主任，2013 年 – 阿特劳地区审计委员会主席。"
+    },
+    {
+      "id": 48002,
+      "name": "Шамуратов Дарын Дюсембаевич",
+      "nameZh": "Шамуратов Дарын Дюсембаевич",
+      "position": "Заместитель акима Атырауской области",
+      "positionZh": "阿特劳州副州长",
+      "responsibilities": "Education\nCulture\nReligion\nВнутренняя и молодежная политика\nРазвитие языков\nФизической культуры, спорта и туризма",
+      "workScopeZh": "内政政策、旅游",
+      "order": "5",
+      "levelPosition": "Deputy Akim",
+      "sourceIndex": 28,
+      "photo": "https://www.gov.kz/uploads/2024/10/23/3d5f881f8d5a039f110ad2085c7d47e8_original.4806935.jpg",
+      "phone": "8 (7122) 31-99-70",
+      "receptionPhone": "8 (7122) 31-99-70",
+      "email": "obl.akimat@atyrau.gov.kz",
+      "biographyUrl": "https://www.gov.kz/memleket/entities/atyrau/about/structure/people/48002?lang=en",
+      "generalInfoHtml": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p>Дарын Шамуратов окончил Западно-Казахстанский государственный университет им. М.Утемисова по специальности &laquo;география&raquo;, Западно-Казахстанский инженерно-гуманитарный университет по специальности &laquo;финансы&raquo;.</p>\n</body>\n</html>",
+      "careerHistoryHtml": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p>Трудовой стаж:</p>\n<p>С 02.2009 по 05.2009 - временно исполняющий обязанности главного специалиста Аппарата акима Буденевского аульного округа</p>\n<p>С 05.2009 по 12.2009 - главный специалист, Аппарат акима Буденевского аульного округа</p>\n<p>C 12.2009 по 09.2012 - главный специалист общего отдела, Аппарат акима Индерского района</p>\n<p>С 09.2012 по 25.10.2012 - заведующий общим отделом, Аппарат акима Индерского района</p>\n<p>С 10.2012 по 08.2017 - руководитель аппарата, Аппарат акима Индерского района</p>\n<p>С 08.2017 по 04.2021 - заместитель акима района, Аппарат акима Индерского района</p>\n<p>С 04.2021 по 14.2022 - заместитель руководителя аппарата акима Атырауской области.</p>\n<p>До назначения работал акимом Индерского района.</p>\n</body>\n</html>",
+      "generalInfoBlocks": [
+        {
+          "type": "paragraph",
+          "text": "Дарын Шамуратов окончил Западно-Казахстанский государственный университет им. М.Утемисова по специальности «география», Западно-Казахстанский инженерно-гуманитарный университет по специальности «финансы»."
+        }
+      ],
+      "careerHistoryBlocks": [
+        {
+          "type": "paragraph",
+          "text": "Трудовой стаж:"
+        },
+        {
+          "type": "paragraph",
+          "text": "С 02.2009 по 05.2009 - временно исполняющий обязанности главного специалиста Аппарата акима Буденевского аульного округа"
+        },
+        {
+          "type": "paragraph",
+          "text": "С 05.2009 по 12.2009 - главный специалист, Аппарат акима Буденевского аульного округа"
+        },
+        {
+          "type": "paragraph",
+          "text": "C 12.2009 по 09.2012 - главный специалист общего отдела, Аппарат акима Индерского района"
+        },
+        {
+          "type": "paragraph",
+          "text": "С 09.2012 по 25.10.2012 - заведующий общим отделом, Аппарат акима Индерского района"
+        },
+        {
+          "type": "paragraph",
+          "text": "С 10.2012 по 08.2017 - руководитель аппарата, Аппарат акима Индерского района"
+        },
+        {
+          "type": "paragraph",
+          "text": "С 08.2017 по 04.2021 - заместитель акима района, Аппарат акима Индерского района"
+        },
+        {
+          "type": "paragraph",
+          "text": "С 04.2021 по 14.2022 - заместитель руководителя аппарата акима Атырауской области."
+        },
+        {
+          "type": "paragraph",
+          "text": "До назначения работал акимом Индерского района."
+        }
+      ],
+      "generalInfo": "Дарын Шамуратов окончил Западно-Казахстанский государственный университет им. М.Утемисова по специальности «география», Западно-Казахстанский инженерно-гуманитарный университет по специальности «финансы».",
+      "careerHistory": "Трудовой стаж:\nС 02.2009 по 05.2009 - временно исполняющий обязанности главного специалиста Аппарата акима Буденевского аульного округа\nС 05.2009 по 12.2009 - главный специалист, Аппарат акима Буденевского аульного округа\nC 12.2009 по 09.2012 - главный специалист общего отдела, Аппарат акима Индерского района\nС 09.2012 по 25.10.2012 - заведующий общим отделом, Аппарат акима Индерского района\nС 10.2012 по 08.2017 - руководитель аппарата, Аппарат акима Индерского района\nС 08.2017 по 04.2021 - заместитель акима района, Аппарат акима Индерского района\nС 04.2021 по 14.2022 - заместитель руководителя аппарата акима Атырауской области.\nДо назначения работал акимом Индерского района.",
+      "translationSourceLanguage": "en",
+      "translationNote": "本页面内容翻译自原网站，中文翻译仅供参考。",
+      "generalInfoBlocksZh": [
+        {
+          "type": "paragraph",
+          "text": "中文译文待同步，请以页面底部来源链接为准。",
+          "sourceText": "Дарын Шамуратов окончил Западно-Казахстанский государственный университет им. М.Утемисова по специальности «география», Западно-Казахстанский инженерно-гуманитарный университет по специальности «финансы»."
+        }
+      ],
+      "careerHistoryBlocksZh": [
+        {
+          "type": "paragraph",
+          "text": "中文译文待同步，请以页面底部来源链接为准。",
+          "sourceText": "Трудовой стаж:"
+        },
+        {
+          "type": "paragraph",
+          "text": "中文译文待同步，请以页面底部来源链接为准。",
+          "sourceText": "С 02.2009 по 05.2009 - временно исполняющий обязанности главного специалиста Аппарата акима Буденевского аульного округа"
+        },
+        {
+          "type": "paragraph",
+          "text": "中文译文待同步，请以页面底部来源链接为准。",
+          "sourceText": "С 05.2009 по 12.2009 - главный специалист, Аппарат акима Буденевского аульного округа"
+        },
+        {
+          "type": "paragraph",
+          "text": "中文译文待同步，请以页面底部来源链接为准。",
+          "sourceText": "C 12.2009 по 09.2012 - главный специалист общего отдела, Аппарат акима Индерского района"
+        },
+        {
+          "type": "paragraph",
+          "text": "中文译文待同步，请以页面底部来源链接为准。",
+          "sourceText": "С 09.2012 по 25.10.2012 - заведующий общим отделом, Аппарат акима Индерского района"
+        },
+        {
+          "type": "paragraph",
+          "text": "中文译文待同步，请以页面底部来源链接为准。",
+          "sourceText": "С 10.2012 по 08.2017 - руководитель аппарата, Аппарат акима Индерского района"
+        },
+        {
+          "type": "paragraph",
+          "text": "中文译文待同步，请以页面底部来源链接为准。",
+          "sourceText": "С 08.2017 по 04.2021 - заместитель акима района, Аппарат акима Индерского района"
+        },
+        {
+          "type": "paragraph",
+          "text": "中文译文待同步，请以页面底部来源链接为准。",
+          "sourceText": "С 04.2021 по 14.2022 - заместитель руководителя аппарата акима Атырауской области."
+        },
+        {
+          "type": "paragraph",
+          "text": "中文译文待同步，请以页面底部来源链接为准。",
+          "sourceText": "До назначения работал акимом Индерского района."
+        }
+      ],
+      "generalInfoZh": "中文译文待同步，请以页面底部来源链接为准。",
+      "careerHistoryZh": "中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。",
+      "detailZh": "中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。"
+    },
+    {
+      "id": 54716,
+      "name": "Женисбекулы Нурлыбек",
+      "nameZh": "Женисбекулы Нурлыбек",
+      "position": "Руководитель аппарата акима области",
+      "positionZh": "阿特劳州州长",
+      "responsibilities": "",
+      "workScopeZh": "官方页面未列出单独工作范围。",
+      "order": "1",
+      "levelPosition": "Head of apparatus",
+      "sourceIndex": 20,
+      "photo": "https://www.gov.kz/uploads/2026/6/11/6c7691abed787eb027cc1056258c9ac6_original.61520.jpeg",
+      "phone": "8 (7122) 31-99-97",
+      "receptionPhone": "8 (7122) 31-99-97",
+      "email": "obl.akimat@atyrau.gov.kz",
+      "biographyUrl": "https://www.gov.kz/memleket/entities/atyrau/about/structure/people/54716?lang=en",
+      "generalInfoHtml": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p>Нурлыбек Женисбекулы родился в 1988 году. Закончил Национальный педагогический университет им.Абая по специальности \"филология\". Является магистром международных отношений Российской государственной академии услуг при Президенте РФ. Член Президентского кадрового резерва.</p>\n</body>\n</html>",
+      "careerHistoryHtml": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p>Трудовой путь начал в 2006 году корреспондентом на телеканале &laquo;Қазақстан&raquo;. В разные годы работал редактором, экспертом в областных и республиканских телеканалах.</p>\n<p>В 2013-2017 годы занимал должность пресс-секретаря, советника акимов города Шымкент и Южно-Казахстанской области.</p>\n<p>2017 год - пресс-секретарь Министра труда и социальной защиты населения РК;</p>\n<p>2018 год - заместитель директора департамента стратегического и информационного развития Министерства энергетики РК;</p>\n<p>2020-2022гг. - заместитель руководителя аппарата акима г.Нур-Султан;</p>\n<p>С февраля 2022 года и до нынешнего назначения занимал должность заместителя председателя Комитета информации Министерства информации и общественного развития РК.</p>\n</body>\n</html>",
+      "generalInfoBlocks": [
+        {
+          "type": "paragraph",
+          "text": "Нурлыбек Женисбекулы родился в 1988 году. Закончил Национальный педагогический университет им.Абая по специальности \"филология\". Является магистром международных отношений Российской государственной академии услуг при Президенте РФ. Член Президентского кадрового резерва."
+        }
+      ],
+      "careerHistoryBlocks": [
+        {
+          "type": "paragraph",
+          "text": "Трудовой путь начал в 2006 году корреспондентом на телеканале «Қазақстан». В разные годы работал редактором, экспертом в областных и республиканских телеканалах."
+        },
+        {
+          "type": "paragraph",
+          "text": "В 2013-2017 годы занимал должность пресс-секретаря, советника акимов города Шымкент и Южно-Казахстанской области."
+        },
+        {
+          "type": "paragraph",
+          "text": "2017 год - пресс-секретарь Министра труда и социальной защиты населения РК;"
+        },
+        {
+          "type": "paragraph",
+          "text": "2018 год - заместитель директора департамента стратегического и информационного развития Министерства энергетики РК;"
+        },
+        {
+          "type": "paragraph",
+          "text": "2020-2022гг. - заместитель руководителя аппарата акима г.Нур-Султан;"
+        },
+        {
+          "type": "paragraph",
+          "text": "С февраля 2022 года и до нынешнего назначения занимал должность заместителя председателя Комитета информации Министерства информации и общественного развития РК."
+        }
+      ],
+      "generalInfo": "Нурлыбек Женисбекулы родился в 1988 году. Закончил Национальный педагогический университет им.Абая по специальности \"филология\". Является магистром международных отношений Российской государственной академии услуг при Президенте РФ. Член Президентского кадрового резерва.",
+      "careerHistory": "Трудовой путь начал в 2006 году корреспондентом на телеканале «Қазақстан». В разные годы работал редактором, экспертом в областных и республиканских телеканалах.\nВ 2013-2017 годы занимал должность пресс-секретаря, советника акимов города Шымкент и Южно-Казахстанской области.\n2017 год - пресс-секретарь Министра труда и социальной защиты населения РК;\n2018 год - заместитель директора департамента стратегического и информационного развития Министерства энергетики РК;\n2020-2022гг. - заместитель руководителя аппарата акима г.Нур-Султан;\nС февраля 2022 года и до нынешнего назначения занимал должность заместителя председателя Комитета информации Министерства информации и общественного развития РК.",
+      "translationSourceLanguage": "en",
+      "translationNote": "本页面内容翻译自原网站，中文翻译仅供参考。",
+      "generalInfoBlocksZh": [
+        {
+          "type": "paragraph",
+          "text": "中文译文待同步，请以页面底部来源链接为准。",
+          "sourceText": "Нурлыбек Женисбекулы родился в 1988 году. Закончил Национальный педагогический университет им.Абая по специальности \"филология\". Является магистром международных отношений Российской государственной академии услуг при Президенте РФ. Член Президентского кадрового резерва."
+        }
+      ],
+      "careerHistoryBlocksZh": [
+        {
+          "type": "paragraph",
+          "text": "中文译文待同步，请以页面底部来源链接为准。",
+          "sourceText": "Трудовой путь начал в 2006 году корреспондентом на телеканале «Қазақстан». В разные годы работал редактором, экспертом в областных и республиканских телеканалах."
+        },
+        {
+          "type": "paragraph",
+          "text": "中文译文待同步，请以页面底部来源链接为准。",
+          "sourceText": "В 2013-2017 годы занимал должность пресс-секретаря, советника акимов города Шымкент и Южно-Казахстанской области."
+        },
+        {
+          "type": "paragraph",
+          "text": "中文译文待同步，请以页面底部来源链接为准。",
+          "sourceText": "2017 год - пресс-секретарь Министра труда и социальной защиты населения РК;"
+        },
+        {
+          "type": "paragraph",
+          "text": "中文译文待同步，请以页面底部来源链接为准。",
+          "sourceText": "2018 год - заместитель директора департамента стратегического и информационного развития Министерства энергетики РК;"
+        },
+        {
+          "type": "paragraph",
+          "text": "中文译文待同步，请以页面底部来源链接为准。",
+          "sourceText": "2020-2022гг. - заместитель руководителя аппарата акима г.Нур-Султан;"
+        },
+        {
+          "type": "paragraph",
+          "text": "中文译文待同步，请以页面底部来源链接为准。",
+          "sourceText": "С февраля 2022 года и до нынешнего назначения занимал должность заместителя председателя Комитета информации Министерства информации и общественного развития РК."
+        }
+      ],
+      "generalInfoZh": "中文译文待同步，请以页面底部来源链接为准。",
+      "careerHistoryZh": "中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。",
+      "detailZh": "中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。"
+    },
+    {
+      "id": 14872,
+      "name": "Ibisheva Akmaral Gatauovna",
+      "nameZh": "Ibisheva Akmaral Gatauovna",
+      "position": "Deputy Head of the Office of the Akim of the region",
+      "positionZh": "部门负责人",
+      "responsibilities": "",
+      "workScopeZh": "官方页面未列出单独工作范围。",
+      "order": "2",
+      "levelPosition": "Deputy Chief of Staff",
+      "sourceIndex": 2,
+      "photo": "https://www.gov.kz/uploads/2020/9/23/a6818d9188545fe97c074f863471f784_original.148530.jpg",
+      "phone": "",
+      "receptionPhone": "",
+      "email": "",
+      "biographyUrl": "https://www.gov.kz/memleket/entities/atyrau/about/structure/people/14872?lang=en",
+      "generalInfoHtml": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p>Akmaral Gatauovna IBISHEVA was born on May 6, 1969 in the city of Atyrau, Atyrau region of the Republic of Kazakhstan. Nationality - Kazakh. Higher education. In 1992, she graduated from the Atyrau Pedagogical Institute, in 2000 - from the National Academy of Law and Market with a degree in teacher of Russian language and literature, lawyer.</p>\n<p>In 1987-1998, she was a student of the Atyrau Pedagogical Institute. </p>\n</body>\n</html>",
+      "careerHistoryHtml": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p>She began her career in 1992 as a teacher of the Russian language and literature at the D. Baibosynov Secondary School No. 13 in the city of Atyrau.</p>\n<p>In 1993-1996, she worked as a teacher of the Kazakh language and literature at Secondary School No. 16 in the city of Atyrau, in 1996-1997 - laboratory assistant at the Veterinary and sanitary laboratory in the city of Atyrau, in 1997-2001 - inspector of the Personnel Department of the construction-joint stock company \"Kyzylkoga\", in 2001-2002 - chief specialist of the Atyrau City Court No. 1, in 2002-2004 - office manager of \"Logistics Munay Gas\" LLP, from March 9 to November 27, 2005 - consultant of the regional branch of the republican political party \"Otan\".</p>\n<p>From November 9, 2005 to January 19, 2006, she worked as acting leading specialist of the Organizational and Inspection Department of the regional Akim's Office, from 2006 to May 2, 2018, the chief specialist of the Organizational and Inspection Department, Head of the Department for Control of Execution of Documents, head of the Department for Quality Control of the Provision of Public Services and Execution of Documents, chief specialist of the State Legal Department of the regional Akim&rsquo;s Office, the chief inspector of the regional akim, the head of the General Department, the head of the Control and Documentation Support Department of the regional Akim&rsquo;s Office.</p>\n<p>Since February 5, 2018, Deputy Head of the regional Akim's Office.</p>\n</body>\n</html>",
+      "generalInfoBlocks": [
+        {
+          "type": "paragraph",
+          "text": "Akmaral Gatauovna IBISHEVA was born on May 6, 1969 in the city of Atyrau, Atyrau region of the Republic of Kazakhstan. Nationality - Kazakh. Higher education. In 1992, she graduated from the Atyrau Pedagogical Institute, in 2000 - from the National Academy of Law and Market with a degree in teacher of Russian language and literature, lawyer."
+        },
+        {
+          "type": "paragraph",
+          "text": "In 1987-1998, she was a student of the Atyrau Pedagogical Institute."
+        }
+      ],
+      "careerHistoryBlocks": [
+        {
+          "type": "paragraph",
+          "text": "She began her career in 1992 as a teacher of the Russian language and literature at the D. Baibosynov Secondary School No. 13 in the city of Atyrau."
+        },
+        {
+          "type": "paragraph",
+          "text": "In 1993-1996, she worked as a teacher of the Kazakh language and literature at Secondary School No. 16 in the city of Atyrau, in 1996-1997 - laboratory assistant at the Veterinary and sanitary laboratory in the city of Atyrau, in 1997-2001 - inspector of the Personnel Department of the construction-joint stock company \"Kyzylkoga\", in 2001-2002 - chief specialist of the Atyrau City Court No. 1, in 2002-2004 - office manager of \"Logistics Munay Gas\" LLP, from March 9 to November 27, 2005 - consultant of the regional branch of the republican political party \"Otan\"."
+        },
+        {
+          "type": "paragraph",
+          "text": "From November 9, 2005 to January 19, 2006, she worked as acting leading specialist of the Organizational and Inspection Department of the regional Akim's Office, from 2006 to May 2, 2018, the chief specialist of the Organizational and Inspection Department, Head of the Department for Control of Execution of Documents, head of the Department for Quality Control of the Provision of Public Services and Execution of Documents, chief specialist of the State Legal Department of the regional Akim&rsquo;s Office, the chief inspector of the regional akim, the head of the General Department, the head of the Control and Documentation Support Department of the regional Akim&rsquo;s Office."
+        },
+        {
+          "type": "paragraph",
+          "text": "Since February 5, 2018, Deputy Head of the regional Akim's Office."
+        }
+      ],
+      "generalInfo": "Akmaral Gatauovna IBISHEVA was born on May 6, 1969 in the city of Atyrau, Atyrau region of the Republic of Kazakhstan. Nationality - Kazakh. Higher education. In 1992, she graduated from the Atyrau Pedagogical Institute, in 2000 - from the National Academy of Law and Market with a degree in teacher of Russian language and literature, lawyer.\nIn 1987-1998, she was a student of the Atyrau Pedagogical Institute.",
+      "careerHistory": "She began her career in 1992 as a teacher of the Russian language and literature at the D. Baibosynov Secondary School No. 13 in the city of Atyrau.\nIn 1993-1996, she worked as a teacher of the Kazakh language and literature at Secondary School No. 16 in the city of Atyrau, in 1996-1997 - laboratory assistant at the Veterinary and sanitary laboratory in the city of Atyrau, in 1997-2001 - inspector of the Personnel Department of the construction-joint stock company \"Kyzylkoga\", in 2001-2002 - chief specialist of the Atyrau City Court No. 1, in 2002-2004 - office manager of \"Logistics Munay Gas\" LLP, from March 9 to November 27, 2005 - consultant of the regional branch of the republican political party \"Otan\".\nFrom November 9, 2005 to January 19, 2006, she worked as acting leading specialist of the Organizational and Inspection Department of the regional Akim's Office, from 2006 to May 2, 2018, the chief specialist of the Organizational and Inspection Department, Head of the Department for Control of Execution of Documents, head of the Department for Quality Control of the Provision of Public Services and Execution of Documents, chief specialist of the State Legal Department of the regional Akim&rsquo;s Office, the chief inspector of the regional akim, the head of the General Department, the head of the Control and Documentation Support Department of the regional Akim&rsquo;s Office.\nSince February 5, 2018, Deputy Head of the regional Akim's Office.",
+      "translationSourceLanguage": "en",
+      "translationNote": "本页面内容翻译自原网站，中文翻译仅供参考。",
+      "generalInfoBlocksZh": [
+        {
+          "type": "paragraph",
+          "text": "Akmaral Gatauovna IBISHEVA 1969 年 5 月 6 日出生于哈萨克斯坦共和国阿特劳地区阿特劳市。民族——哈萨克族。高等教育。 1992年，她毕业于阿特劳师范学院，2000年毕业于国家法律与市场学院，获得俄语语言文学教师、律师学位。",
+          "sourceText": "Akmaral Gatauovna IBISHEVA was born on May 6, 1969 in the city of Atyrau, Atyrau region of the Republic of Kazakhstan. Nationality - Kazakh. Higher education. In 1992, she graduated from the Atyrau Pedagogical Institute, in 2000 - from the National Academy of Law and Market with a degree in teacher of Russian language and literature, lawyer."
+        },
+        {
+          "type": "paragraph",
+          "text": "1987年至1998年，她是阿特劳教育学院的学生。",
+          "sourceText": "In 1987-1998, she was a student of the Atyrau Pedagogical Institute."
+        }
+      ],
+      "careerHistoryBlocksZh": [
+        {
+          "type": "paragraph",
+          "text": "1992 年，她开始了自己的职业生涯，担任阿特劳市 D. Baibosynov 第 13 中学的俄语和文学教师。",
+          "sourceText": "She began her career in 1992 as a teacher of the Russian language and literature at the D. Baibosynov Secondary School No. 13 in the city of Atyrau."
+        },
+        {
+          "type": "paragraph",
+          "text": "中文译文待同步，请以页面底部来源链接为准。",
+          "sourceText": "In 1993-1996, she worked as a teacher of the Kazakh language and literature at Secondary School No. 16 in the city of Atyrau, in 1996-1997 - laboratory assistant at the Veterinary and sanitary laboratory in the city of Atyrau, in 1997-2001 - inspector of the Personnel Department of the construction-joint stock company \"Kyzylkoga\", in 2001-2002 - chief specialist of the Atyrau City Court No. 1, in 2002-2004 - office manager of \"Logistics Munay Gas\" LLP, from March 9 to November 27, 2005 - consultant of the regional branch of the republican political party \"Otan\"."
+        },
+        {
+          "type": "paragraph",
+          "text": "2005年11月9日至2006年1月19日，任自治区阿基姆办公室组织检查部代理主任专家，2006年至2018年5月2日，自治区阿基姆办公室组织检查部首席专家、文件执行控制司司长、公共服务提供和文件执行质量控制司司长、自治区国家法律部首席专家。阿基姆办公室、地区阿基姆办公室首席督察、综合部负责人、地区阿基姆办公室控制和文件支持部负责人。",
+          "sourceText": "From November 9, 2005 to January 19, 2006, she worked as acting leading specialist of the Organizational and Inspection Department of the regional Akim's Office, from 2006 to May 2, 2018, the chief specialist of the Organizational and Inspection Department, Head of the Department for Control of Execution of Documents, head of the Department for Quality Control of the Provision of Public Services and Execution of Documents, chief specialist of the State Legal Department of the regional Akim&rsquo;s Office, the chief inspector of the regional akim, the head of the General Department, the head of the Control and Documentation Support Department of the regional Akim&rsquo;s Office."
+        },
+        {
+          "type": "paragraph",
+          "text": "2018年2月5日起，任自治区阿基姆办公室副主任。",
+          "sourceText": "Since February 5, 2018, Deputy Head of the regional Akim's Office."
+        }
+      ],
+      "generalInfoZh": "Akmaral Gatauovna IBISHEVA 1969 年 5 月 6 日出生于哈萨克斯坦共和国阿特劳地区阿特劳市。民族——哈萨克族。高等教育。 1992年，她毕业于阿特劳师范学院，2000年毕业于国家法律与市场学院，获得俄语语言文学教师、律师学位。\n1987年至1998年，她是阿特劳教育学院的学生。",
+      "careerHistoryZh": "1992 年，她开始了自己的职业生涯，担任阿特劳市 D. Baibosynov 第 13 中学的俄语和文学教师。\n中文译文待同步，请以页面底部来源链接为准。\n2005年11月9日至2006年1月19日，任自治区阿基姆办公室组织检查部代理主任专家，2006年至2018年5月2日，自治区阿基姆办公室组织检查部首席专家、文件执行控制司司长、公共服务提供和文件执行质量控制司司长、自治区国家法律部首席专家。阿基姆办公室、地区阿基姆办公室首席督察、综合部负责人、地区阿基姆办公室控制和文件支持部负责人。\n2018年2月5日起，任自治区阿基姆办公室副主任。",
+      "detailZh": "Akmaral Gatauovna IBISHEVA 1969 年 5 月 6 日出生于哈萨克斯坦共和国阿特劳地区阿特劳市。民族——哈萨克族。高等教育。 1992年，她毕业于阿特劳师范学院，2000年毕业于国家法律与市场学院，获得俄语语言文学教师、律师学位。\n1987年至1998年，她是阿特劳教育学院的学生。\n1992 年，她开始了自己的职业生涯，担任阿特劳市 D. Baibosynov 第 13 中学的俄语和文学教师。\n中文译文待同步，请以页面底部来源链接为准。\n2005年11月9日至2006年1月19日，任自治区阿基姆办公室组织检查部代理主任专家，2006年至2018年5月2日，自治区阿基姆办公室组织检查部首席专家、文件执行控制司司长、公共服务提供和文件执行质量控制司司长、自治区国家法律部首席专家。阿基姆办公室、地区阿基姆办公室首席督察、综合部负责人、地区阿基姆办公室控制和文件支持部负责人。\n2018年2月5日起，任自治区阿基姆办公室副主任。"
+    },
+    {
+      "id": 48906,
+      "name": "Меденов Саян",
+      "nameZh": "Меденов Саян",
+      "position": "Аппарат басшысының орынбасары",
+      "positionZh": "办公室副主任",
+      "responsibilities": "",
+      "workScopeZh": "官方页面未列出单独工作范围。",
+      "order": "2",
+      "levelPosition": "Deputy Chief of Staff",
+      "sourceIndex": 12,
+      "photo": "https://www.gov.kz/uploads/2026/4/23/e0c5039c71c6a38313000b82b90311f0_original.65624.jpeg",
+      "phone": "31-99-67",
+      "receptionPhone": "",
+      "email": "s.medenov@atyrau.gov.kz",
+      "biographyUrl": "https://www.gov.kz/memleket/entities/atyrau/about/structure/people/48906?lang=en",
+      "generalInfoHtml": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n\n</body>\n</html>",
+      "careerHistoryHtml": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n\n</body>\n</html>",
+      "generalInfoBlocks": [],
+      "careerHistoryBlocks": [],
+      "generalInfo": "",
+      "careerHistory": "",
+      "translationSourceLanguage": "en",
+      "translationNote": "本页面内容翻译自原网站，中文翻译仅供参考。",
+      "generalInfoBlocksZh": [],
+      "careerHistoryBlocksZh": [],
+      "generalInfoZh": "",
+      "careerHistoryZh": "",
+      "detailZh": ""
+    },
+    {
+      "id": 28082,
+      "name": "Abuov Marat Almenuly",
+      "nameZh": "Abuov Marat Almenuly",
+      "position": "Deputy Head of the Office of the Akim of the region",
+      "positionZh": "部门负责人",
+      "responsibilities": "",
+      "workScopeZh": "官方页面未列出单独工作范围。",
+      "order": "3",
+      "levelPosition": "Deputy Chief of Staff",
+      "sourceIndex": 5,
+      "photo": "https://www.gov.kz/uploads/2022/9/26/44db633b0913d6cf042f756f06bf3b7a_original.2326848.JPG",
+      "phone": "",
+      "receptionPhone": "",
+      "email": "",
+      "biographyUrl": "https://www.gov.kz/memleket/entities/atyrau/about/structure/people/28082?lang=en",
+      "generalInfoHtml": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p><b>Marat Almenuly</b> graduated from the Kh. Dosmukhamedov Atyrau State University with a bachelor's degree in foreign language, as well as the West Kazakhstan Engineering and Humanities University with a degree in jurisprudence. Master of the Academy of Public Administration under the President of the Republic of Kazakhstan.</p>\n</body>\n</html>",
+      "careerHistoryHtml": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p>Work experience:</p>\n<p>From 08.1999 to 04.2004 he worked as a teacher at the Kh. Dosmukhamedov Secondary School in the Miyaly village, Kyzylkoga district;</p>\n<p>From 04.2004 to 02.2005 he worked as the Chief Specialist of the Department of Education of the Kyzylkoga district;</p>\n<p>From 02.2005 to 01.2008, Chief specialist of the Department of Organizational, Personnel and State-Legal Work of the Office of the Akim of the Kyzylkoga district;</p>\n<p>From 01.2008 to 11.2011, Head of the Department of the General Department of the Office of the Akim of the Kyzylkoga district;</p>\n<p>From 11.2011 to 12.2017, Head of the Office of the Akim of the Kyzylkoga district;</p>\n<p>From 12.2017 to the present, he held the position of Deputy Akim of the Kyzylkoga district.</p>\n</body>\n</html>",
+      "generalInfoBlocks": [
+        {
+          "type": "paragraph",
+          "text": "Marat Almenuly graduated from the Kh. Dosmukhamedov Atyrau State University with a bachelor's degree in foreign language, as well as the West Kazakhstan Engineering and Humanities University with a degree in jurisprudence. Master of the Academy of Public Administration under the President of the Republic of Kazakhstan."
+        }
+      ],
+      "careerHistoryBlocks": [
+        {
+          "type": "paragraph",
+          "text": "Work experience:"
+        },
+        {
+          "type": "paragraph",
+          "text": "From 08.1999 to 04.2004 he worked as a teacher at the Kh. Dosmukhamedov Secondary School in the Miyaly village, Kyzylkoga district;"
+        },
+        {
+          "type": "paragraph",
+          "text": "From 04.2004 to 02.2005 he worked as the Chief Specialist of the Department of Education of the Kyzylkoga district;"
+        },
+        {
+          "type": "paragraph",
+          "text": "From 02.2005 to 01.2008, Chief specialist of the Department of Organizational, Personnel and State-Legal Work of the Office of the Akim of the Kyzylkoga district;"
+        },
+        {
+          "type": "paragraph",
+          "text": "From 01.2008 to 11.2011, Head of the Department of the General Department of the Office of the Akim of the Kyzylkoga district;"
+        },
+        {
+          "type": "paragraph",
+          "text": "From 11.2011 to 12.2017, Head of the Office of the Akim of the Kyzylkoga district;"
+        },
+        {
+          "type": "paragraph",
+          "text": "From 12.2017 to the present, he held the position of Deputy Akim of the Kyzylkoga district."
+        }
+      ],
+      "generalInfo": "Marat Almenuly graduated from the Kh. Dosmukhamedov Atyrau State University with a bachelor's degree in foreign language, as well as the West Kazakhstan Engineering and Humanities University with a degree in jurisprudence. Master of the Academy of Public Administration under the President of the Republic of Kazakhstan.",
+      "careerHistory": "Work experience:\nFrom 08.1999 to 04.2004 he worked as a teacher at the Kh. Dosmukhamedov Secondary School in the Miyaly village, Kyzylkoga district;\nFrom 04.2004 to 02.2005 he worked as the Chief Specialist of the Department of Education of the Kyzylkoga district;\nFrom 02.2005 to 01.2008, Chief specialist of the Department of Organizational, Personnel and State-Legal Work of the Office of the Akim of the Kyzylkoga district;\nFrom 01.2008 to 11.2011, Head of the Department of the General Department of the Office of the Akim of the Kyzylkoga district;\nFrom 11.2011 to 12.2017, Head of the Office of the Akim of the Kyzylkoga district;\nFrom 12.2017 to the present, he held the position of Deputy Akim of the Kyzylkoga district.",
+      "translationSourceLanguage": "en",
+      "translationNote": "本页面内容翻译自原网站，中文翻译仅供参考。",
+      "generalInfoBlocksZh": [
+        {
+          "type": "paragraph",
+          "text": "Marat Almenuly 毕业于 Kh.多斯穆哈梅多夫阿特劳国立大学获得外语学士学位，以及西哈萨克斯坦工程与人文大学获得法学学位。哈萨克斯坦共和国总统公共管理学院硕士。",
+          "sourceText": "Marat Almenuly graduated from the Kh. Dosmukhamedov Atyrau State University with a bachelor's degree in foreign language, as well as the West Kazakhstan Engineering and Humanities University with a degree in jurisprudence. Master of the Academy of Public Administration under the President of the Republic of Kazakhstan."
+        }
+      ],
+      "careerHistoryBlocksZh": [
+        {
+          "type": "paragraph",
+          "text": "工作经历：",
+          "sourceText": "Work experience:"
+        },
+        {
+          "type": "paragraph",
+          "text": "从1999年8月到2004年4月，他在Kh.克孜勒科加区 Miyaly 村的 Dosmukhamedov 中学；",
+          "sourceText": "From 08.1999 to 04.2004 he worked as a teacher at the Kh. Dosmukhamedov Secondary School in the Miyaly village, Kyzylkoga district;"
+        },
+        {
+          "type": "paragraph",
+          "text": "2004年4月至2005年2月，他担任克孜勒科加区教育部首席专家；",
+          "sourceText": "From 04.2004 to 02.2005 he worked as the Chief Specialist of the Department of Education of the Kyzylkoga district;"
+        },
+        {
+          "type": "paragraph",
+          "text": "2005年2月至2008年1月，克孜勒科加区阿基姆办公室组织、人事和国家法律工作部首席专家；",
+          "sourceText": "From 02.2005 to 01.2008, Chief specialist of the Department of Organizational, Personnel and State-Legal Work of the Office of the Akim of the Kyzylkoga district;"
+        },
+        {
+          "type": "paragraph",
+          "text": "2008年1月至2011年11月，克孜勒科加区阿基姆办公室综合部部长；",
+          "sourceText": "From 01.2008 to 11.2011, Head of the Department of the General Department of the Office of the Akim of the Kyzylkoga district;"
+        },
+        {
+          "type": "paragraph",
+          "text": "2011年11月11日至2017年12月，克孜勒科加区阿基姆办公室主任；",
+          "sourceText": "From 11.2011 to 12.2017, Head of the Office of the Akim of the Kyzylkoga district;"
+        },
+        {
+          "type": "paragraph",
+          "text": "2017年12月至今，担任克孜勒科加区副阿基姆职务。",
+          "sourceText": "From 12.2017 to the present, he held the position of Deputy Akim of the Kyzylkoga district."
+        }
+      ],
+      "generalInfoZh": "Marat Almenuly 毕业于 Kh.多斯穆哈梅多夫阿特劳国立大学获得外语学士学位，以及西哈萨克斯坦工程与人文大学获得法学学位。哈萨克斯坦共和国总统公共管理学院硕士。",
+      "careerHistoryZh": "工作经历：\n从1999年8月到2004年4月，他在Kh.克孜勒科加区 Miyaly 村的 Dosmukhamedov 中学；\n2004年4月至2005年2月，他担任克孜勒科加区教育部首席专家；\n2005年2月至2008年1月，克孜勒科加区阿基姆办公室组织、人事和国家法律工作部首席专家；\n2008年1月至2011年11月，克孜勒科加区阿基姆办公室综合部部长；\n2011年11月11日至2017年12月，克孜勒科加区阿基姆办公室主任；\n2017年12月至今，担任克孜勒科加区副阿基姆职务。",
+      "detailZh": "Marat Almenuly 毕业于 Kh.多斯穆哈梅多夫阿特劳国立大学获得外语学士学位，以及西哈萨克斯坦工程与人文大学获得法学学位。哈萨克斯坦共和国总统公共管理学院硕士。\n工作经历：\n从1999年8月到2004年4月，他在Kh.克孜勒科加区 Miyaly 村的 Dosmukhamedov 中学；\n2004年4月至2005年2月，他担任克孜勒科加区教育部首席专家；\n2005年2月至2008年1月，克孜勒科加区阿基姆办公室组织、人事和国家法律工作部首席专家；\n2008年1月至2011年11月，克孜勒科加区阿基姆办公室综合部部长；\n2011年11月11日至2017年12月，克孜勒科加区阿基姆办公室主任；\n2017年12月至今，担任克孜勒科加区副阿基姆职务。"
+    },
+    {
+      "id": 51331,
+      "name": "Абдисаттаров Ердос Ганиевич",
+      "nameZh": "Абдисаттаров Ердос Ганиевич",
+      "position": "Заместитель руководителя аппарата",
+      "positionZh": "阿特劳州副州长",
+      "responsibilities": "",
+      "workScopeZh": "官方页面未列出单独工作范围。",
+      "order": "3",
+      "levelPosition": "Deputy Chief of Staff",
+      "sourceIndex": 6,
+      "photo": "https://www.gov.kz/uploads/2025/7/1/3b93f97585303e4ad6fe59ce4aac977f_original.76921.jpeg",
+      "phone": "",
+      "receptionPhone": "",
+      "email": "",
+      "biographyUrl": "https://www.gov.kz/memleket/entities/atyrau/about/structure/people/51331?lang=en",
+      "generalInfoHtml": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p>Ердос Абдисаттаров родился в 1994 году. В 2015 году закончил Евразийский Национальный университет им.Л.Н.Гумилева по специальности &laquo;государственное и местное управление&raquo;.</p>\n</body>\n</html>",
+      "careerHistoryHtml": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p>10.2015 - 05. 2019 гг. - консультант по вопросам ЖКХ департамента индустриально-инновационных проектов, ведущий менеджер департамента проектов АПК, генеральный менеджер инвестиционного отдела, главный менеджер отдела управления активами, генеральный менеджер отдела по работе с государственными программами АО &laquo;НК &laquo;СПК &laquo;Байқоңыр&raquo;.</p>\n<p>С 05.2019 года до нынешнего назначения занимал должность директора ТОО &laquo;Нур-Назар&raquo;.</p>\n</body>\n</html>",
+      "generalInfoBlocks": [
+        {
+          "type": "paragraph",
+          "text": "Ердос Абдисаттаров родился в 1994 году. В 2015 году закончил Евразийский Национальный университет им.Л.Н.Гумилева по специальности «государственное и местное управление»."
+        }
+      ],
+      "careerHistoryBlocks": [
+        {
+          "type": "paragraph",
+          "text": "10.2015 - 05. 2019 гг. - консультант по вопросам ЖКХ департамента индустриально-инновационных проектов, ведущий менеджер департамента проектов АПК, генеральный менеджер инвестиционного отдела, главный менеджер отдела управления активами, генеральный менеджер отдела по работе с государственными программами АО «НК «СПК «Байқоңыр»."
+        },
+        {
+          "type": "paragraph",
+          "text": "С 05.2019 года до нынешнего назначения занимал должность директора ТОО «Нур-Назар»."
+        }
+      ],
+      "generalInfo": "Ердос Абдисаттаров родился в 1994 году. В 2015 году закончил Евразийский Национальный университет им.Л.Н.Гумилева по специальности «государственное и местное управление».",
+      "careerHistory": "10.2015 - 05. 2019 гг. - консультант по вопросам ЖКХ департамента индустриально-инновационных проектов, ведущий менеджер департамента проектов АПК, генеральный менеджер инвестиционного отдела, главный менеджер отдела управления активами, генеральный менеджер отдела по работе с государственными программами АО «НК «СПК «Байқоңыр».\nС 05.2019 года до нынешнего назначения занимал должность директора ТОО «Нур-Назар».",
+      "translationSourceLanguage": "en",
+      "translationNote": "本页面内容翻译自原网站，中文翻译仅供参考。",
+      "generalInfoBlocksZh": [
+        {
+          "type": "paragraph",
+          "text": "中文译文待同步，请以页面底部来源链接为准。",
+          "sourceText": "Ердос Абдисаттаров родился в 1994 году. В 2015 году закончил Евразийский Национальный университет им.Л.Н.Гумилева по специальности «государственное и местное управление»."
+        }
+      ],
+      "careerHistoryBlocksZh": [
+        {
+          "type": "paragraph",
+          "text": "中文译文待同步，请以页面底部来源链接为准。",
+          "sourceText": "10.2015 - 05. 2019 гг. - консультант по вопросам ЖКХ департамента индустриально-инновационных проектов, ведущий менеджер департамента проектов АПК, генеральный менеджер инвестиционного отдела, главный менеджер отдела управления активами, генеральный менеджер отдела по работе с государственными программами АО «НК «СПК «Байқоңыр»."
+        },
+        {
+          "type": "paragraph",
+          "text": "中文译文待同步，请以页面底部来源链接为准。",
+          "sourceText": "С 05.2019 года до нынешнего назначения занимал должность директора ТОО «Нур-Назар»."
+        }
+      ],
+      "generalInfoZh": "中文译文待同步，请以页面底部来源链接为准。",
+      "careerHistoryZh": "中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。",
+      "detailZh": "中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。"
+    },
+    {
+      "id": 51339,
+      "name": "Жумабай Ербол Измуханович",
+      "nameZh": "Жумабай Ербол Измуханович",
+      "position": "Заместитель руководителя аппарата",
+      "positionZh": "阿特劳州副州长",
+      "responsibilities": "",
+      "workScopeZh": "官方页面未列出单独工作范围。",
+      "order": "3",
+      "levelPosition": "Deputy Chief of Staff",
+      "sourceIndex": 19,
+      "photo": "https://www.gov.kz/uploads/2025/7/1/13e6dbc157f43dc4dac92d830d305f8c_original.4012076.jpg",
+      "phone": "",
+      "receptionPhone": "",
+      "email": "",
+      "biographyUrl": "https://www.gov.kz/memleket/entities/atyrau/about/structure/people/51339?lang=en",
+      "generalInfoHtml": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p>Жумабай Ербол Ызмуханулы родился 10 января 1980 года в селе Миялы Кызылкогинского района Атырауской области.</p>\n<p>В 1996&ndash;2000 годах обучался в Атырауском государственном университете имени Х. Досмухамедова по специальности &laquo;Физика&raquo;, после окончания которого получил квалификацию учителя физики.</p>\n</body>\n</html>",
+      "careerHistoryHtml": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p>В 2008&ndash;2010 годах окончил Атырауский инженерно-гуманитарный институт по специальности &laquo;Бакалавр нефтегазового дела&raquo;, а в 2017&ndash;2019 годах обучался в университете &laquo;Нархоз&raquo; и получил академическую степень бакалавра экономики и бизнеса.</p>\n<p>Трудовую деятельность начал в 2002 году с рабочей должности в филиале ТОО &laquo;Ренко-Кат&raquo; в городе Атырау.</p>\n<p>В 2003&ndash;2004 годах &mdash; ведущий специалист отдела экономики, инвестиций и поддержки предпринимательства Кызылкогинского района;</p>\n<p>В 2005&ndash;2006 годах &mdash; ведущий специалист отдела экономики и финансов Кызылкогинского района;</p>\n<p>В 2006&ndash;2008 годах &mdash; ведущий специалист отдела экономики и бюджетного планирования Кызылкогинского района;</p>\n<p>В 2008&ndash;2011 годах &mdash; ведущий специалист отдела организационно-кадровой и государственной правовой работы аппарата акима Кызылкогинского района;</p>\n<p>С 2012 года &mdash; ведущий специалист отдела кадровой работы аппарата акима Атырауской области;</p>\n<p>В 2012&ndash;2013 годах &mdash; заведующий отделом кадровой работы аппарата акима Атырауской области;</p>\n<p>В 2013&ndash;2022 годах &mdash; руководитель отдела кадровой работы аппарата акима Атырауской области;</p>\n<p>С августа 2022 года &mdash; заместитель руководителя аппарата акима Атырауской области.</p>\n</body>\n</html>",
+      "generalInfoBlocks": [
+        {
+          "type": "paragraph",
+          "text": "Жумабай Ербол Ызмуханулы родился 10 января 1980 года в селе Миялы Кызылкогинского района Атырауской области."
+        },
+        {
+          "type": "paragraph",
+          "text": "В 1996–2000 годах обучался в Атырауском государственном университете имени Х. Досмухамедова по специальности «Физика», после окончания которого получил квалификацию учителя физики."
+        }
+      ],
+      "careerHistoryBlocks": [
+        {
+          "type": "paragraph",
+          "text": "В 2008–2010 годах окончил Атырауский инженерно-гуманитарный институт по специальности «Бакалавр нефтегазового дела», а в 2017–2019 годах обучался в университете «Нархоз» и получил академическую степень бакалавра экономики и бизнеса."
+        },
+        {
+          "type": "paragraph",
+          "text": "Трудовую деятельность начал в 2002 году с рабочей должности в филиале ТОО «Ренко-Кат» в городе Атырау."
+        },
+        {
+          "type": "paragraph",
+          "text": "В 2003–2004 годах — ведущий специалист отдела экономики, инвестиций и поддержки предпринимательства Кызылкогинского района;"
+        },
+        {
+          "type": "paragraph",
+          "text": "В 2005–2006 годах — ведущий специалист отдела экономики и финансов Кызылкогинского района;"
+        },
+        {
+          "type": "paragraph",
+          "text": "В 2006–2008 годах — ведущий специалист отдела экономики и бюджетного планирования Кызылкогинского района;"
+        },
+        {
+          "type": "paragraph",
+          "text": "В 2008–2011 годах — ведущий специалист отдела организационно-кадровой и государственной правовой работы аппарата акима Кызылкогинского района;"
+        },
+        {
+          "type": "paragraph",
+          "text": "С 2012 года — ведущий специалист отдела кадровой работы аппарата акима Атырауской области;"
+        },
+        {
+          "type": "paragraph",
+          "text": "В 2012–2013 годах — заведующий отделом кадровой работы аппарата акима Атырауской области;"
+        },
+        {
+          "type": "paragraph",
+          "text": "В 2013–2022 годах — руководитель отдела кадровой работы аппарата акима Атырауской области;"
+        },
+        {
+          "type": "paragraph",
+          "text": "С августа 2022 года — заместитель руководителя аппарата акима Атырауской области."
+        }
+      ],
+      "generalInfo": "Жумабай Ербол Ызмуханулы родился 10 января 1980 года в селе Миялы Кызылкогинского района Атырауской области.\nВ 1996–2000 годах обучался в Атырауском государственном университете имени Х. Досмухамедова по специальности «Физика», после окончания которого получил квалификацию учителя физики.",
+      "careerHistory": "В 2008–2010 годах окончил Атырауский инженерно-гуманитарный институт по специальности «Бакалавр нефтегазового дела», а в 2017–2019 годах обучался в университете «Нархоз» и получил академическую степень бакалавра экономики и бизнеса.\nТрудовую деятельность начал в 2002 году с рабочей должности в филиале ТОО «Ренко-Кат» в городе Атырау.\nВ 2003–2004 годах — ведущий специалист отдела экономики, инвестиций и поддержки предпринимательства Кызылкогинского района;\nВ 2005–2006 годах — ведущий специалист отдела экономики и финансов Кызылкогинского района;\nВ 2006–2008 годах — ведущий специалист отдела экономики и бюджетного планирования Кызылкогинского района;\nВ 2008–2011 годах — ведущий специалист отдела организационно-кадровой и государственной правовой работы аппарата акима Кызылкогинского района;\nС 2012 года — ведущий специалист отдела кадровой работы аппарата акима Атырауской области;\nВ 2012–2013 годах — заведующий отделом кадровой работы аппарата акима Атырауской области;\nВ 2013–2022 годах — руководитель отдела кадровой работы аппарата акима Атырауской области;\nС августа 2022 года — заместитель руководителя аппарата акима Атырауской области.",
+      "translationSourceLanguage": "en",
+      "translationNote": "本页面内容翻译自原网站，中文翻译仅供参考。",
+      "generalInfoBlocksZh": [
+        {
+          "type": "paragraph",
+          "text": "中文译文待同步，请以页面底部来源链接为准。",
+          "sourceText": "Жумабай Ербол Ызмуханулы родился 10 января 1980 года в селе Миялы Кызылкогинского района Атырауской области."
+        },
+        {
+          "type": "paragraph",
+          "text": "中文译文待同步，请以页面底部来源链接为准。",
+          "sourceText": "В 1996–2000 годах обучался в Атырауском государственном университете имени Х. Досмухамедова по специальности «Физика», после окончания которого получил квалификацию учителя физики."
+        }
+      ],
+      "careerHistoryBlocksZh": [
+        {
+          "type": "paragraph",
+          "text": "中文译文待同步，请以页面底部来源链接为准。",
+          "sourceText": "В 2008–2010 годах окончил Атырауский инженерно-гуманитарный институт по специальности «Бакалавр нефтегазового дела», а в 2017–2019 годах обучался в университете «Нархоз» и получил академическую степень бакалавра экономики и бизнеса."
+        },
+        {
+          "type": "paragraph",
+          "text": "中文译文待同步，请以页面底部来源链接为准。",
+          "sourceText": "Трудовую деятельность начал в 2002 году с рабочей должности в филиале ТОО «Ренко-Кат» в городе Атырау."
+        },
+        {
+          "type": "paragraph",
+          "text": "中文译文待同步，请以页面底部来源链接为准。",
+          "sourceText": "В 2003–2004 годах — ведущий специалист отдела экономики, инвестиций и поддержки предпринимательства Кызылкогинского района;"
+        },
+        {
+          "type": "paragraph",
+          "text": "中文译文待同步，请以页面底部来源链接为准。",
+          "sourceText": "В 2005–2006 годах — ведущий специалист отдела экономики и финансов Кызылкогинского района;"
+        },
+        {
+          "type": "paragraph",
+          "text": "中文译文待同步，请以页面底部来源链接为准。",
+          "sourceText": "В 2006–2008 годах — ведущий специалист отдела экономики и бюджетного планирования Кызылкогинского района;"
+        },
+        {
+          "type": "paragraph",
+          "text": "中文译文待同步，请以页面底部来源链接为准。",
+          "sourceText": "В 2008–2011 годах — ведущий специалист отдела организационно-кадровой и государственной правовой работы аппарата акима Кызылкогинского района;"
+        },
+        {
+          "type": "paragraph",
+          "text": "中文译文待同步，请以页面底部来源链接为准。",
+          "sourceText": "С 2012 года — ведущий специалист отдела кадровой работы аппарата акима Атырауской области;"
+        },
+        {
+          "type": "paragraph",
+          "text": "中文译文待同步，请以页面底部来源链接为准。",
+          "sourceText": "В 2012–2013 годах — заведующий отделом кадровой работы аппарата акима Атырауской области;"
+        },
+        {
+          "type": "paragraph",
+          "text": "中文译文待同步，请以页面底部来源链接为准。",
+          "sourceText": "В 2013–2022 годах — руководитель отдела кадровой работы аппарата акима Атырауской области;"
+        },
+        {
+          "type": "paragraph",
+          "text": "中文译文待同步，请以页面底部来源链接为准。",
+          "sourceText": "С августа 2022 года — заместитель руководителя аппарата акима Атырауской области."
+        }
+      ],
+      "generalInfoZh": "中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。",
+      "careerHistoryZh": "中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。",
+      "detailZh": "中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。"
+    },
+    {
+      "id": 37188,
+      "name": "Orynbassarov Daniyar Bakhtiyaruly",
+      "nameZh": "Orynbassarov Daniyar Bakhtiyaruly",
+      "position": "Deputy Head of the Office of the Akim of the region",
+      "positionZh": "部门负责人",
+      "responsibilities": "",
+      "workScopeZh": "官方页面未列出单独工作范围。",
+      "order": "4",
+      "levelPosition": "Deputy Chief of Staff",
+      "sourceIndex": 4,
+      "photo": "https://www.gov.kz/uploads/2023/9/12/462b51907f3f8ebf9af80f66e7b6b3cf_original.7186810.JPG",
+      "phone": "",
+      "receptionPhone": "",
+      "email": "",
+      "biographyUrl": "https://www.gov.kz/memleket/entities/atyrau/about/structure/people/37188?lang=en",
+      "generalInfoHtml": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p><b>Daniyar Orynbassarov</b> was born in 1987 in the Atyrau region. He graduated from Atyrau Oil and Gas University named after. S. Utebayev with a degree in Oil and Gas Engineering and ASU named after. Kh. Dosmukhamedov, majoring in Law. He is a Master of State and Local Administration from the Academy of Public Administration under the President of the Republic of Kazakhstan.</p>\n</body>\n</html>",
+      "careerHistoryHtml": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p><b>Work path:</b></p>\n<p>2008 - engineer at Nurly Zhol LLP;</p>\n<p>08.2009-06.2011 &ndash; Supervisor of the JSC Branch of the company &ldquo;Bateman Kazakhstan Oil&amp;Gas Company B.V.&rdquo;</p>\n<p>03.2012-10.2017 &ndash; he held various positions in the Customs Control Department and in the State Revenue Department for the Atyrau region.</p>\n<p>10.2017 - 08.2022 &ndash; he worked as a Chief expert, Head of the Department of Investment Policy, Head of the Department of Public-private Partnership Development of the Department of Investment Policy of the Ministry of National Economy of the Republic of Kazakhstan;</p>\n<p>08.2022 - 02.2023 &ndash; Chief Consultant of the Department of Industrial and Innovative Development of the Office of the Prime Minister of the Republic of Kazakhstan.</p>\n<p>From 02.2023 until his appointment, he worked as the Chief Consultant of the Department for the Development of the Real Sector and Regions of the Government of the Republic of Kazakhstan.</p>\n</body>\n</html>",
+      "generalInfoBlocks": [
+        {
+          "type": "paragraph",
+          "text": "Daniyar Orynbassarov was born in 1987 in the Atyrau region. He graduated from Atyrau Oil and Gas University named after. S. Utebayev with a degree in Oil and Gas Engineering and ASU named after. Kh. Dosmukhamedov, majoring in Law. He is a Master of State and Local Administration from the Academy of Public Administration under the President of the Republic of Kazakhstan."
+        }
+      ],
+      "careerHistoryBlocks": [
+        {
+          "type": "paragraph",
+          "text": "Work path:"
+        },
+        {
+          "type": "paragraph",
+          "text": "2008 - engineer at Nurly Zhol LLP;"
+        },
+        {
+          "type": "paragraph",
+          "text": "08.2009-06.2011 – Supervisor of the JSC Branch of the company “Bateman Kazakhstan Oil&Gas Company B.V.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "03.2012-10.2017 – he held various positions in the Customs Control Department and in the State Revenue Department for the Atyrau region."
+        },
+        {
+          "type": "paragraph",
+          "text": "10.2017 - 08.2022 – he worked as a Chief expert, Head of the Department of Investment Policy, Head of the Department of Public-private Partnership Development of the Department of Investment Policy of the Ministry of National Economy of the Republic of Kazakhstan;"
+        },
+        {
+          "type": "paragraph",
+          "text": "08.2022 - 02.2023 – Chief Consultant of the Department of Industrial and Innovative Development of the Office of the Prime Minister of the Republic of Kazakhstan."
+        },
+        {
+          "type": "paragraph",
+          "text": "From 02.2023 until his appointment, he worked as the Chief Consultant of the Department for the Development of the Real Sector and Regions of the Government of the Republic of Kazakhstan."
+        }
+      ],
+      "generalInfo": "Daniyar Orynbassarov was born in 1987 in the Atyrau region. He graduated from Atyrau Oil and Gas University named after. S. Utebayev with a degree in Oil and Gas Engineering and ASU named after. Kh. Dosmukhamedov, majoring in Law. He is a Master of State and Local Administration from the Academy of Public Administration under the President of the Republic of Kazakhstan.",
+      "careerHistory": "Work path:\n2008 - engineer at Nurly Zhol LLP;\n08.2009-06.2011 – Supervisor of the JSC Branch of the company “Bateman Kazakhstan Oil&Gas Company B.V.”\n03.2012-10.2017 – he held various positions in the Customs Control Department and in the State Revenue Department for the Atyrau region.\n10.2017 - 08.2022 – he worked as a Chief expert, Head of the Department of Investment Policy, Head of the Department of Public-private Partnership Development of the Department of Investment Policy of the Ministry of National Economy of the Republic of Kazakhstan;\n08.2022 - 02.2023 – Chief Consultant of the Department of Industrial and Innovative Development of the Office of the Prime Minister of the Republic of Kazakhstan.\nFrom 02.2023 until his appointment, he worked as the Chief Consultant of the Department for the Development of the Real Sector and Regions of the Government of the Republic of Kazakhstan.",
+      "translationSourceLanguage": "en",
+      "translationNote": "本页面内容翻译自原网站，中文翻译仅供参考。",
+      "generalInfoBlocksZh": [
+        {
+          "type": "paragraph",
+          "text": "Daniyar Orynbassarov 1987 年出生于阿特劳地区。他毕业于以阿特劳石油天然气大学命名的大学。 S. Utebayev 拥有石油和天然气工程学位以及以亚利桑那州立大学命名的学位。赫。多斯穆哈梅多夫，主修法律。他是哈萨克斯坦共和国总统公共管理学院的国家和地方管理硕士。",
+          "sourceText": "Daniyar Orynbassarov was born in 1987 in the Atyrau region. He graduated from Atyrau Oil and Gas University named after. S. Utebayev with a degree in Oil and Gas Engineering and ASU named after. Kh. Dosmukhamedov, majoring in Law. He is a Master of State and Local Administration from the Academy of Public Administration under the President of the Republic of Kazakhstan."
+        }
+      ],
+      "careerHistoryBlocksZh": [
+        {
+          "type": "paragraph",
+          "text": "工作路径：",
+          "sourceText": "Work path:"
+        },
+        {
+          "type": "paragraph",
+          "text": "2008 年 - Nurly Zhol LLP 工程师；",
+          "sourceText": "2008 - engineer at Nurly Zhol LLP;"
+        },
+        {
+          "type": "paragraph",
+          "text": "中文译文待同步，请以页面底部来源链接为准。",
+          "sourceText": "08.2009-06.2011 – Supervisor of the JSC Branch of the company “Bateman Kazakhstan Oil&Gas Company B.V.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "03.2012-10.2017 – 他在阿特劳地区海关管制部门和国家税务部门担任过多个职位。",
+          "sourceText": "03.2012-10.2017 – he held various positions in the Customs Control Department and in the State Revenue Department for the Atyrau region."
+        },
+        {
+          "type": "paragraph",
+          "text": "2017年10月—2022年8月——哈萨克斯坦共和国国民经济部投资政策司首席专家、投资政策司司长、公私合作发展司司长；",
+          "sourceText": "10.2017 - 08.2022 – he worked as a Chief expert, Head of the Department of Investment Policy, Head of the Department of Public-private Partnership Development of the Department of Investment Policy of the Ministry of National Economy of the Republic of Kazakhstan;"
+        },
+        {
+          "type": "paragraph",
+          "text": "08.2022 - 02.2023 – 哈萨克斯坦共和国总理办公室工业与创新发展部首席顾问。",
+          "sourceText": "08.2022 - 02.2023 – Chief Consultant of the Department of Industrial and Innovative Development of the Office of the Prime Minister of the Republic of Kazakhstan."
+        },
+        {
+          "type": "paragraph",
+          "text": "从 2023 年 2 月起直至任命为止，他担任哈萨克斯坦共和国政府实体部门和地区发展部首席顾问。",
+          "sourceText": "From 02.2023 until his appointment, he worked as the Chief Consultant of the Department for the Development of the Real Sector and Regions of the Government of the Republic of Kazakhstan."
+        }
+      ],
+      "generalInfoZh": "Daniyar Orynbassarov 1987 年出生于阿特劳地区。他毕业于以阿特劳石油天然气大学命名的大学。 S. Utebayev 拥有石油和天然气工程学位以及以亚利桑那州立大学命名的学位。赫。多斯穆哈梅多夫，主修法律。他是哈萨克斯坦共和国总统公共管理学院的国家和地方管理硕士。",
+      "careerHistoryZh": "工作路径：\n2008 年 - Nurly Zhol LLP 工程师；\n中文译文待同步，请以页面底部来源链接为准。\n03.2012-10.2017 – 他在阿特劳地区海关管制部门和国家税务部门担任过多个职位。\n2017年10月—2022年8月——哈萨克斯坦共和国国民经济部投资政策司首席专家、投资政策司司长、公私合作发展司司长；\n08.2022 - 02.2023 – 哈萨克斯坦共和国总理办公室工业与创新发展部首席顾问。\n从 2023 年 2 月起直至任命为止，他担任哈萨克斯坦共和国政府实体部门和地区发展部首席顾问。",
+      "detailZh": "Daniyar Orynbassarov 1987 年出生于阿特劳地区。他毕业于以阿特劳石油天然气大学命名的大学。 S. Utebayev 拥有石油和天然气工程学位以及以亚利桑那州立大学命名的学位。赫。多斯穆哈梅多夫，主修法律。他是哈萨克斯坦共和国总统公共管理学院的国家和地方管理硕士。\n工作路径：\n2008 年 - Nurly Zhol LLP 工程师；\n中文译文待同步，请以页面底部来源链接为准。\n03.2012-10.2017 – 他在阿特劳地区海关管制部门和国家税务部门担任过多个职位。\n2017年10月—2022年8月——哈萨克斯坦共和国国民经济部投资政策司首席专家、投资政策司司长、公私合作发展司司长；\n08.2022 - 02.2023 – 哈萨克斯坦共和国总理办公室工业与创新发展部首席顾问。\n从 2023 年 2 月起直至任命为止，他担任哈萨克斯坦共和国政府实体部门和地区发展部首席顾问。"
+    },
+    {
+      "id": 54715,
+      "name": "Даралиев Нурлыбек",
+      "nameZh": "Даралиев Нурлыбек",
+      "position": "Заместитель руководителя аппарата",
+      "positionZh": "阿特劳州副州长",
+      "responsibilities": "",
+      "workScopeZh": "官方页面未列出单独工作范围。",
+      "order": "4",
+      "levelPosition": "Deputy Chief of Staff",
+      "sourceIndex": 21,
+      "photo": "https://www.gov.kz/uploads/2026/6/26/8da97a14ab59ec440a5543ebe736b76d_original.10709061.jpg",
+      "phone": "",
+      "receptionPhone": "",
+      "email": "",
+      "biographyUrl": "https://www.gov.kz/memleket/entities/atyrau/about/structure/people/54715?lang=en",
+      "generalInfoHtml": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p>Нурлыбек Даралиев родился 15 августа 1990 года в Атырау. Имеет два высших образования: в 2011 году окончил Атырауский институт нефти и газа по специальности &laquo;Геология и разведка месторождений полезных ископаемых&raquo;, в 2017 году &mdash; Атырауский государственный университет им. Х. Досмухамедова по специальности &laquo;Физическая культура и спорт&raquo;.</p>\n</body>\n</html>",
+      "careerHistoryHtml": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p>Трудовую деятельность начал в 2013 году в частном секторе, после чего сосредоточился на работе в сфере спорта и образования, занимая должности в профильных государственных учреждениях Атырауской области.<br />⠀<br />С марта 2023 года Нурлыбек Даралиев является депутатом областного маслихата VIII созыва. С апреля 2023 года по май 2026 года возглавлял постоянную комиссию по вопросам социально-культурного развития Атырауского областного маслихата. Также исполнял обязанности заместителя председателя Совета по профилактике наркоправонарушений при Департаменте полиции Атырауской области.</p>\n</body>\n</html>",
+      "generalInfoBlocks": [
+        {
+          "type": "paragraph",
+          "text": "Нурлыбек Даралиев родился 15 августа 1990 года в Атырау. Имеет два высших образования: в 2011 году окончил Атырауский институт нефти и газа по специальности «Геология и разведка месторождений полезных ископаемых», в 2017 году — Атырауский государственный университет им. Х. Досмухамедова по специальности «Физическая культура и спорт»."
+        }
+      ],
+      "careerHistoryBlocks": [
+        {
+          "type": "paragraph",
+          "text": "Трудовую деятельность начал в 2013 году в частном секторе, после чего сосредоточился на работе в сфере спорта и образования, занимая должности в профильных государственных учреждениях Атырауской области."
+        },
+        {
+          "type": "paragraph",
+          "text": "⠀"
+        },
+        {
+          "type": "paragraph",
+          "text": "С марта 2023 года Нурлыбек Даралиев является депутатом областного маслихата VIII созыва. С апреля 2023 года по май 2026 года возглавлял постоянную комиссию по вопросам социально-культурного развития Атырауского областного маслихата. Также исполнял обязанности заместителя председателя Совета по профилактике наркоправонарушений при Департаменте полиции Атырауской области."
+        }
+      ],
+      "generalInfo": "Нурлыбек Даралиев родился 15 августа 1990 года в Атырау. Имеет два высших образования: в 2011 году окончил Атырауский институт нефти и газа по специальности «Геология и разведка месторождений полезных ископаемых», в 2017 году — Атырауский государственный университет им. Х. Досмухамедова по специальности «Физическая культура и спорт».",
+      "careerHistory": "Трудовую деятельность начал в 2013 году в частном секторе, после чего сосредоточился на работе в сфере спорта и образования, занимая должности в профильных государственных учреждениях Атырауской области.\n⠀\nС марта 2023 года Нурлыбек Даралиев является депутатом областного маслихата VIII созыва. С апреля 2023 года по май 2026 года возглавлял постоянную комиссию по вопросам социально-культурного развития Атырауского областного маслихата. Также исполнял обязанности заместителя председателя Совета по профилактике наркоправонарушений при Департаменте полиции Атырауской области.",
+      "translationSourceLanguage": "en",
+      "translationNote": "本页面内容翻译自原网站，中文翻译仅供参考。",
+      "generalInfoBlocksZh": [
+        {
+          "type": "paragraph",
+          "text": "中文译文待同步，请以页面底部来源链接为准。",
+          "sourceText": "Нурлыбек Даралиев родился 15 августа 1990 года в Атырау. Имеет два высших образования: в 2011 году окончил Атырауский институт нефти и газа по специальности «Геология и разведка месторождений полезных ископаемых», в 2017 году — Атырауский государственный университет им. Х. Досмухамедова по специальности «Физическая культура и спорт»."
+        }
+      ],
+      "careerHistoryBlocksZh": [
+        {
+          "type": "paragraph",
+          "text": "中文译文待同步，请以页面底部来源链接为准。",
+          "sourceText": "Трудовую деятельность начал в 2013 году в частном секторе, после чего сосредоточился на работе в сфере спорта и образования, занимая должности в профильных государственных учреждениях Атырауской области."
+        },
+        {
+          "type": "paragraph",
+          "text": "⠀",
+          "sourceText": "⠀"
+        },
+        {
+          "type": "paragraph",
+          "text": "中文译文待同步，请以页面底部来源链接为准。",
+          "sourceText": "С марта 2023 года Нурлыбек Даралиев является депутатом областного маслихата VIII созыва. С апреля 2023 года по май 2026 года возглавлял постоянную комиссию по вопросам социально-культурного развития Атырауского областного маслихата. Также исполнял обязанности заместителя председателя Совета по профилактике наркоправонарушений при Департаменте полиции Атырауской области."
+        }
+      ],
+      "generalInfoZh": "中文译文待同步，请以页面底部来源链接为准。",
+      "careerHistoryZh": "中文译文待同步，请以页面底部来源链接为准。\n⠀\n中文译文待同步，请以页面底部来源链接为准。",
+      "detailZh": "中文译文待同步，请以页面底部来源链接为准。\n中文译文待同步，请以页面底部来源链接为准。\n⠀\n中文译文待同步，请以页面底部来源链接为准。"
+    },
+    {
+      "id": 37542,
+      "name": "Zhenisbekuly Nurlybek",
+      "nameZh": "Zhenisbekuly Nurlybek",
+      "position": "Head of the Office of the Akim of the region",
+      "positionZh": "阿特劳州州长",
+      "responsibilities": "Цифровизация и архивное дело\nМобилизационная подготовка\nГражданская оборона",
+      "workScopeZh": "档案",
+      "order": "6",
+      "levelPosition": "Head of apparatus",
+      "sourceIndex": 27,
+      "photo": "https://www.gov.kz/uploads/2024/6/26/f0a6b57ac7475d01cfb1ef7a8c4a3dea_original.91489.jpeg",
+      "phone": "8 (7122) 31-99-97",
+      "receptionPhone": "8 (7122) 31-99-97",
+      "email": "obl.akimat@atyrau.gov.kz",
+      "biographyUrl": "https://www.gov.kz/memleket/entities/atyrau/about/structure/people/37542?lang=en",
+      "generalInfoHtml": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p>Nurlybek Zhenisbekuly was born in 1988. He graduated from the Abay National Pedagogical University with a degree in philology. He holds a Master of International Relations from the Russian State Academy of Services under the President of the Russian Federation. Member of the Presidential Personnel Reserve.</p>\n</body>\n</html>",
+      "careerHistoryHtml": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p>He began his career in 2006 as a correspondent for the Kazakhstan TV channel. Over the years, he worked as an editor and expert in regional and republican television channels.</p>\n<p>In 2013-2017, he held the position of Press Secretary and Adviser to the akims of the city of Shymkent and the South Kazakhstan region.</p>\n<p>2017 &ndash; Press Secretary of the Minister of Labor and Social Protection of the Population of the Republic of Kazakhstan;</p>\n<p>2018 &ndash; Deputy Director of the Department of Strategic and Information Development of the Ministry of Energy of the Republic of Kazakhstan;</p>\n<p>2020-2022 &ndash; Deputy Head of the Office of the Akim of Nur-Sultan;</p>\n<p>From February 2022 until his current appointment, he held the position of Deputy Chairman of the Information Committee of the Ministry of Information and Social Development of the Republic of Kazakhstan.</p>\n</body>\n</html>",
+      "generalInfoBlocks": [
+        {
+          "type": "paragraph",
+          "text": "Nurlybek Zhenisbekuly was born in 1988. He graduated from the Abay National Pedagogical University with a degree in philology. He holds a Master of International Relations from the Russian State Academy of Services under the President of the Russian Federation. Member of the Presidential Personnel Reserve."
+        }
+      ],
+      "careerHistoryBlocks": [
+        {
+          "type": "paragraph",
+          "text": "He began his career in 2006 as a correspondent for the Kazakhstan TV channel. Over the years, he worked as an editor and expert in regional and republican television channels."
+        },
+        {
+          "type": "paragraph",
+          "text": "In 2013-2017, he held the position of Press Secretary and Adviser to the akims of the city of Shymkent and the South Kazakhstan region."
+        },
+        {
+          "type": "paragraph",
+          "text": "2017 – Press Secretary of the Minister of Labor and Social Protection of the Population of the Republic of Kazakhstan;"
+        },
+        {
+          "type": "paragraph",
+          "text": "2018 – Deputy Director of the Department of Strategic and Information Development of the Ministry of Energy of the Republic of Kazakhstan;"
+        },
+        {
+          "type": "paragraph",
+          "text": "2020-2022 – Deputy Head of the Office of the Akim of Nur-Sultan;"
+        },
+        {
+          "type": "paragraph",
+          "text": "From February 2022 until his current appointment, he held the position of Deputy Chairman of the Information Committee of the Ministry of Information and Social Development of the Republic of Kazakhstan."
+        }
+      ],
+      "generalInfo": "Nurlybek Zhenisbekuly was born in 1988. He graduated from the Abay National Pedagogical University with a degree in philology. He holds a Master of International Relations from the Russian State Academy of Services under the President of the Russian Federation. Member of the Presidential Personnel Reserve.",
+      "careerHistory": "He began his career in 2006 as a correspondent for the Kazakhstan TV channel. Over the years, he worked as an editor and expert in regional and republican television channels.\nIn 2013-2017, he held the position of Press Secretary and Adviser to the akims of the city of Shymkent and the South Kazakhstan region.\n2017 – Press Secretary of the Minister of Labor and Social Protection of the Population of the Republic of Kazakhstan;\n2018 – Deputy Director of the Department of Strategic and Information Development of the Ministry of Energy of the Republic of Kazakhstan;\n2020-2022 – Deputy Head of the Office of the Akim of Nur-Sultan;\nFrom February 2022 until his current appointment, he held the position of Deputy Chairman of the Information Committee of the Ministry of Information and Social Development of the Republic of Kazakhstan.",
+      "translationSourceLanguage": "en",
+      "translationNote": "本页面内容翻译自原网站，中文翻译仅供参考。",
+      "generalInfoBlocksZh": [
+        {
+          "type": "paragraph",
+          "text": "Nurlybek Jenisbekuly 出生于 1988 年。毕业于阿拜国立师范大学，获得语言学学位。他拥有俄罗斯联邦总统领导下的俄罗斯国家服务学院国际关系硕士学位。总统后备储备成员。",
+          "sourceText": "Nurlybek Zhenisbekuly was born in 1988. He graduated from the Abay National Pedagogical University with a degree in philology. He holds a Master of International Relations from the Russian State Academy of Services under the President of the Russian Federation. Member of the Presidential Personnel Reserve."
+        }
+      ],
+      "careerHistoryBlocksZh": [
+        {
+          "type": "paragraph",
+          "text": "2006 年，他作为哈萨克斯坦电视频道的记者开始了自己的职业生涯。多年来，他在地区和共和电视频道担任编辑和专家。",
+          "sourceText": "He began his career in 2006 as a correspondent for the Kazakhstan TV channel. Over the years, he worked as an editor and expert in regional and republican television channels."
+        },
+        {
+          "type": "paragraph",
+          "text": "2013年至2017年，他担任奇姆肯特市和南哈萨克斯坦地区政府新闻秘书和顾问。",
+          "sourceText": "In 2013-2017, he held the position of Press Secretary and Adviser to the akims of the city of Shymkent and the South Kazakhstan region."
+        },
+        {
+          "type": "paragraph",
+          "text": "2017年 – 哈萨克斯坦共和国劳动和社会保障部新闻秘书；",
+          "sourceText": "2017 – Press Secretary of the Minister of Labor and Social Protection of the Population of the Republic of Kazakhstan;"
+        },
+        {
+          "type": "paragraph",
+          "text": "2018年——哈萨克斯坦共和国能源部战略与信息发展司副司长；",
+          "sourceText": "2018 – Deputy Director of the Department of Strategic and Information Development of the Ministry of Energy of the Republic of Kazakhstan;"
+        },
+        {
+          "type": "paragraph",
+          "text": "2020-2022年——努尔苏丹阿基姆办公室副主任；",
+          "sourceText": "2020-2022 – Deputy Head of the Office of the Akim of Nur-Sultan;"
+        },
+        {
+          "type": "paragraph",
+          "text": "自2022年2月起至现任任命期间，他担任哈萨克斯坦共和国信息和社会发展部信息委员会副主席。",
+          "sourceText": "From February 2022 until his current appointment, he held the position of Deputy Chairman of the Information Committee of the Ministry of Information and Social Development of the Republic of Kazakhstan."
+        }
+      ],
+      "generalInfoZh": "Nurlybek Jenisbekuly 出生于 1988 年。毕业于阿拜国立师范大学，获得语言学学位。他拥有俄罗斯联邦总统领导下的俄罗斯国家服务学院国际关系硕士学位。总统后备储备成员。",
+      "careerHistoryZh": "2006 年，他作为哈萨克斯坦电视频道的记者开始了自己的职业生涯。多年来，他在地区和共和电视频道担任编辑和专家。\n2013年至2017年，他担任奇姆肯特市和南哈萨克斯坦地区政府新闻秘书和顾问。\n2017年 – 哈萨克斯坦共和国劳动和社会保障部新闻秘书；\n2018年——哈萨克斯坦共和国能源部战略与信息发展司副司长；\n2020-2022年——努尔苏丹阿基姆办公室副主任；\n自2022年2月起至现任任命期间，他担任哈萨克斯坦共和国信息和社会发展部信息委员会副主席。",
+      "detailZh": "Nurlybek Jenisbekuly 出生于 1988 年。毕业于阿拜国立师范大学，获得语言学学位。他拥有俄罗斯联邦总统领导下的俄罗斯国家服务学院国际关系硕士学位。总统后备储备成员。\n2006 年，他作为哈萨克斯坦电视频道的记者开始了自己的职业生涯。多年来，他在地区和共和电视频道担任编辑和专家。\n2013年至2017年，他担任奇姆肯特市和南哈萨克斯坦地区政府新闻秘书和顾问。\n2017年 – 哈萨克斯坦共和国劳动和社会保障部新闻秘书；\n2018年——哈萨克斯坦共和国能源部战略与信息发展司副司长；\n2020-2022年——努尔苏丹阿基姆办公室副主任；\n自2022年2月起至现任任命期间，他担任哈萨克斯坦共和国信息和社会发展部信息委员会副主席。"
+    },
+    {
+      "id": 15017,
+      "name": "Akhmetova Farida Tulegenovna",
+      "nameZh": "Akhmetova Farida Tulegenovna",
+      "position": "Ethics Commissioner of the Akimat of Atyrau region",
+      "positionZh": "伦理专员",
+      "responsibilities": "",
+      "workScopeZh": "官方页面未列出单独工作范围。",
+      "order": "7",
+      "levelPosition": "Ethics Commissioner",
+      "sourceIndex": 8,
+      "photo": "https://www.gov.kz/uploads/2026/1/6/f023c533ea5cf93b3d3391d0f014b563_original.53483.jpeg",
+      "phone": "27-00-73",
+      "receptionPhone": "27-00-73",
+      "email": "f.akhmetova@atyrau.kz",
+      "biographyUrl": "https://www.gov.kz/memleket/entities/atyrau/about/structure/people/15017?lang=en",
+      "generalInfoHtml": "",
+      "careerHistoryHtml": "",
+      "generalInfoBlocks": [],
+      "careerHistoryBlocks": [],
+      "generalInfo": "",
+      "careerHistory": "",
+      "translationSourceLanguage": "en",
+      "translationNote": "本页面内容翻译自原网站，中文翻译仅供参考。",
+      "generalInfoBlocksZh": [],
+      "careerHistoryBlocksZh": [],
+      "generalInfoZh": "",
+      "careerHistoryZh": "",
+      "detailZh": ""
+    },
+    {
+      "id": 37535,
+      "name": "Akhmetova Farida Tolegenkyzy",
+      "nameZh": "Akhmetova Farida Tolegenkyzy",
+      "position": "Ethics Commissioner of the Akimat of Atyrau region",
+      "positionZh": "伦理专员",
+      "responsibilities": "КАРТОГРАММА КОРРУПЦИИ",
+      "workScopeZh": "相关工作事项",
+      "order": "10",
+      "levelPosition": "Ethics Commissioner",
+      "sourceIndex": 7,
+      "photo": "https://www.gov.kz/uploads/2026/1/6/f023c533ea5cf93b3d3391d0f014b563_original.53483.jpeg",
+      "phone": "87122319350",
+      "receptionPhone": "87122319350",
+      "email": "Ahmetova_farida@mail.ru",
+      "biographyUrl": "https://www.gov.kz/memleket/entities/atyrau/about/structure/people/37535?lang=en",
+      "generalInfoHtml": "",
+      "careerHistoryHtml": "",
+      "generalInfoBlocks": [],
+      "careerHistoryBlocks": [],
+      "generalInfo": "",
+      "careerHistory": "",
+      "translationSourceLanguage": "en",
+      "translationNote": "本页面内容翻译自原网站，中文翻译仅供参考。",
+      "generalInfoBlocksZh": [],
+      "careerHistoryBlocksZh": [],
+      "generalInfoZh": "",
+      "careerHistoryZh": "",
+      "detailZh": ""
+    },
+    {
+      "id": 15020,
+      "name": "Zhalmurzina Zamzagul Kidanovna",
+      "nameZh": "Zhalmurzina Zamzagul Kidanovna",
+      "position": "Chief Inspector for Women and Family and Demographic Policy",
+      "positionZh": "首席监察员",
+      "responsibilities": "",
+      "workScopeZh": "官方页面未列出单独工作范围。",
+      "order": "6",
+      "levelPosition": "Department head",
+      "sourceIndex": 10,
+      "photo": "",
+      "phone": "77-74-63",
+      "receptionPhone": "77-74-63",
+      "email": "z.zhalmurzina@atyrau.gov.kz",
+      "biographyUrl": "https://www.gov.kz/memleket/entities/atyrau/about/structure/people/15020?lang=en",
+      "generalInfoHtml": "",
+      "careerHistoryHtml": "",
+      "generalInfoBlocks": [],
+      "careerHistoryBlocks": [],
+      "generalInfo": "",
+      "careerHistory": "",
+      "translationSourceLanguage": "en",
+      "translationNote": "本页面内容翻译自原网站，中文翻译仅供参考。",
+      "generalInfoBlocksZh": [],
+      "careerHistoryBlocksZh": [],
+      "generalInfoZh": "",
+      "careerHistoryZh": "",
+      "detailZh": ""
+    },
+    {
+      "id": 15009,
+      "name": "Shagirova Manshuk Muradymovna",
+      "nameZh": "Shagirova Manshuk Muradymovna",
+      "position": "Head of Department",
+      "positionZh": "部门负责人",
+      "responsibilities": "",
+      "workScopeZh": "官方页面未列出单独工作范围。",
+      "order": "",
+      "levelPosition": "Department head",
+      "sourceIndex": 9,
+      "photo": "https://www.gov.kz/uploads/2025/5/19/006016795231053fb3832b10c4007ff9_original.5042811.JPG",
+      "phone": "35-45-22",
+      "receptionPhone": "35-45-22",
+      "email": "e.kabdeshov@atyrau.gov.kz",
+      "biographyUrl": "https://www.gov.kz/memleket/entities/atyrau/about/structure/people/15009?lang=en",
+      "generalInfoHtml": "",
+      "careerHistoryHtml": "",
+      "generalInfoBlocks": [],
+      "careerHistoryBlocks": [],
+      "generalInfo": "",
+      "careerHistory": "",
+      "translationSourceLanguage": "en",
+      "translationNote": "本页面内容翻译自原网站，中文翻译仅供参考。",
+      "generalInfoBlocksZh": [],
+      "careerHistoryBlocksZh": [],
+      "generalInfoZh": "",
+      "careerHistoryZh": "",
+      "detailZh": ""
+    },
+    {
+      "id": 15023,
+      "name": "Audanbayeva Assel Temirkhanovna",
+      "nameZh": "Audanbayeva Assel Temirkhanovna",
+      "position": "Press Secretary of Akim of Atyrau Region",
+      "positionZh": "阿特劳州州长",
+      "responsibilities": "",
+      "workScopeZh": "官方页面未列出单独工作范围。",
+      "order": "",
+      "levelPosition": "Department head",
+      "sourceIndex": 11,
+      "photo": "https://www.gov.kz/uploads/2025/5/19/7c6fb069ff90e0c4fe556501b26380f1_original.7240030.JPG",
+      "phone": "27-11-25",
+      "receptionPhone": "27-11-25",
+      "email": "r.zhumagaziev@atyrau.gov.kz",
+      "biographyUrl": "https://www.gov.kz/memleket/entities/atyrau/about/structure/people/15023?lang=en",
+      "generalInfoHtml": "",
+      "careerHistoryHtml": "",
+      "generalInfoBlocks": [],
+      "careerHistoryBlocks": [],
+      "generalInfo": "",
+      "careerHistory": "",
+      "translationSourceLanguage": "en",
+      "translationNote": "本页面内容翻译自原网站，中文翻译仅供参考。",
+      "generalInfoBlocksZh": [],
+      "careerHistoryBlocksZh": [],
+      "generalInfoZh": "",
+      "careerHistoryZh": "",
+      "detailZh": ""
+    },
+    {
+      "id": 14993,
+      "name": "Berdigaliyeva Laila Amanzholkyzy",
+      "nameZh": "Berdigaliyeva Laila Amanzholkyzy",
+      "position": "Head of Department",
+      "positionZh": "部门负责人",
+      "responsibilities": "",
+      "workScopeZh": "官方页面未列出单独工作范围。",
+      "order": "",
+      "levelPosition": "Department head",
+      "sourceIndex": 13,
+      "photo": "https://www.gov.kz/uploads/2026/5/5/a322bfc96565b3b1b5b159a526c72c64_original.71023.jpeg",
+      "phone": "35-45-17",
+      "receptionPhone": "35-45-17",
+      "email": "l.berdigalieva@atyrau.gov.kz",
+      "biographyUrl": "https://www.gov.kz/memleket/entities/atyrau/about/structure/people/14993?lang=en",
+      "generalInfoHtml": "",
+      "careerHistoryHtml": "",
+      "generalInfoBlocks": [],
+      "careerHistoryBlocks": [],
+      "generalInfo": "",
+      "careerHistory": "",
+      "translationSourceLanguage": "en",
+      "translationNote": "本页面内容翻译自原网站，中文翻译仅供参考。",
+      "generalInfoBlocksZh": [],
+      "careerHistoryBlocksZh": [],
+      "generalInfoZh": "",
+      "careerHistoryZh": "",
+      "detailZh": ""
+    },
+    {
+      "id": 14984,
+      "name": "Perepechkina Yekaterina Valentinovna",
+      "nameZh": "Perepechkina Yekaterina Valentinovna",
+      "position": "Head of Department",
+      "positionZh": "部门负责人",
+      "responsibilities": "",
+      "workScopeZh": "官方页面未列出单独工作范围。",
+      "order": "",
+      "levelPosition": "Department head",
+      "sourceIndex": 14,
+      "photo": "https://www.gov.kz/uploads/2026/5/5/a6f6ccdee158a56459c5dfd9153731dc_original.106673.jpeg",
+      "phone": "35-45-55",
+      "receptionPhone": "35-45-55",
+      "email": "3. e.perepechkina@atyrau.gov.kz",
+      "biographyUrl": "https://www.gov.kz/memleket/entities/atyrau/about/structure/people/14984?lang=en",
+      "generalInfoHtml": "",
+      "careerHistoryHtml": "",
+      "generalInfoBlocks": [],
+      "careerHistoryBlocks": [],
+      "generalInfo": "",
+      "careerHistory": "",
+      "translationSourceLanguage": "en",
+      "translationNote": "本页面内容翻译自原网站，中文翻译仅供参考。",
+      "generalInfoBlocksZh": [],
+      "careerHistoryBlocksZh": [],
+      "generalInfoZh": "",
+      "careerHistoryZh": "",
+      "detailZh": ""
+    },
+    {
+      "id": 14988,
+      "name": "Kairova Zhazira Alibekovna",
+      "nameZh": "Kairova Zhazira Alibekovna",
+      "position": "Head of Department",
+      "positionZh": "部门负责人",
+      "responsibilities": "",
+      "workScopeZh": "官方页面未列出单独工作范围。",
+      "order": "",
+      "levelPosition": "Department head",
+      "sourceIndex": 15,
+      "photo": "https://www.gov.kz/uploads/2026/5/5/ba304cabb4b0e4b98bc06e3cdd59f942_original.75512.jpeg",
+      "phone": "35-51-66",
+      "receptionPhone": "35-51-66",
+      "email": "5. zh.kairova@atyrau.gov.kz",
+      "biographyUrl": "https://www.gov.kz/memleket/entities/atyrau/about/structure/people/14988?lang=en",
+      "generalInfoHtml": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p>Zhazira Alibekovna Kairova was born on February 21, 1970 in the Almaty city.</p>\n<p>Higher education, in 1993 she graduated from the Atyrau Pedagogical Institute with a degree in Russian Language and Literature Teacher.</p>\n</body>\n</html>",
+      "careerHistoryHtml": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p>Since August 1987, she began her career in the editorial office of the Kommunistik Yenbek newspaper.</p>\n<p>August 1988 - June 1993 - student of the Guryev Pedagogical Institute.</p>\n<p>September 1993 - July 1997 - Specialist of the Human Resources Department of the Tax Inspectorate of Atyrau Region.</p>\n<p>July 1997 - December 2012 - Chief Inspector, Head of the Human Resources and Special Issues Department of the Department of Finance of Atyrau Region.</p>\n<p>April 2013 - September 2014 - Inspector, Chief Award Specialist in the Human Resources Department of the Administration of the Akim of Atyrau region.</p>\n<p>September 2014 - May 2017 - Chief Specialist on the Appeals of Individuals and Legal Entities of the General Department of the Administration of Akim of Atyrau region.</p>\n<p>June 2017 - October 2019 - Chief Inspector of the Control and Documentation Department of the Akim's Office of Atyrau Region.</p>\n<p>April 2020 - June 2022 - Chief Specialist of the Department for Work with Appeals of the Administration of Akim of Atyrau region.</p>\n<p>From January 2022 - Head of the Department for Monitoring the Consideration of Appeals of the Administration of the Akim of Atyrau region.</p>\n</body>\n</html>",
+      "generalInfoBlocks": [
+        {
+          "type": "paragraph",
+          "text": "Zhazira Alibekovna Kairova was born on February 21, 1970 in the Almaty city."
+        },
+        {
+          "type": "paragraph",
+          "text": "Higher education, in 1993 she graduated from the Atyrau Pedagogical Institute with a degree in Russian Language and Literature Teacher."
+        }
+      ],
+      "careerHistoryBlocks": [
+        {
+          "type": "paragraph",
+          "text": "Since August 1987, she began her career in the editorial office of the Kommunistik Yenbek newspaper."
+        },
+        {
+          "type": "paragraph",
+          "text": "August 1988 - June 1993 - student of the Guryev Pedagogical Institute."
+        },
+        {
+          "type": "paragraph",
+          "text": "September 1993 - July 1997 - Specialist of the Human Resources Department of the Tax Inspectorate of Atyrau Region."
+        },
+        {
+          "type": "paragraph",
+          "text": "July 1997 - December 2012 - Chief Inspector, Head of the Human Resources and Special Issues Department of the Department of Finance of Atyrau Region."
+        },
+        {
+          "type": "paragraph",
+          "text": "April 2013 - September 2014 - Inspector, Chief Award Specialist in the Human Resources Department of the Administration of the Akim of Atyrau region."
+        },
+        {
+          "type": "paragraph",
+          "text": "September 2014 - May 2017 - Chief Specialist on the Appeals of Individuals and Legal Entities of the General Department of the Administration of Akim of Atyrau region."
+        },
+        {
+          "type": "paragraph",
+          "text": "June 2017 - October 2019 - Chief Inspector of the Control and Documentation Department of the Akim's Office of Atyrau Region."
+        },
+        {
+          "type": "paragraph",
+          "text": "April 2020 - June 2022 - Chief Specialist of the Department for Work with Appeals of the Administration of Akim of Atyrau region."
+        },
+        {
+          "type": "paragraph",
+          "text": "From January 2022 - Head of the Department for Monitoring the Consideration of Appeals of the Administration of the Akim of Atyrau region."
+        }
+      ],
+      "generalInfo": "Zhazira Alibekovna Kairova was born on February 21, 1970 in the Almaty city.\nHigher education, in 1993 she graduated from the Atyrau Pedagogical Institute with a degree in Russian Language and Literature Teacher.",
+      "careerHistory": "Since August 1987, she began her career in the editorial office of the Kommunistik Yenbek newspaper.\nAugust 1988 - June 1993 - student of the Guryev Pedagogical Institute.\nSeptember 1993 - July 1997 - Specialist of the Human Resources Department of the Tax Inspectorate of Atyrau Region.\nJuly 1997 - December 2012 - Chief Inspector, Head of the Human Resources and Special Issues Department of the Department of Finance of Atyrau Region.\nApril 2013 - September 2014 - Inspector, Chief Award Specialist in the Human Resources Department of the Administration of the Akim of Atyrau region.\nSeptember 2014 - May 2017 - Chief Specialist on the Appeals of Individuals and Legal Entities of the General Department of the Administration of Akim of Atyrau region.\nJune 2017 - October 2019 - Chief Inspector of the Control and Documentation Department of the Akim's Office of Atyrau Region.\nApril 2020 - June 2022 - Chief Specialist of the Department for Work with Appeals of the Administration of Akim of Atyrau region.\nFrom January 2022 - Head of the Department for Monitoring the Consideration of Appeals of the Administration of the Akim of Atyrau region.",
+      "translationSourceLanguage": "en",
+      "translationNote": "本页面内容翻译自原网站，中文翻译仅供参考。",
+      "generalInfoBlocksZh": [
+        {
+          "type": "paragraph",
+          "text": "扎齐拉·阿利别科夫娜·凯罗娃 (Zhazira Alibekovna Kairova) 1970 年 2 月 21 日出生于阿拉木图市。",
+          "sourceText": "Zhazira Alibekovna Kairova was born on February 21, 1970 in the Almaty city."
+        },
+        {
+          "type": "paragraph",
+          "text": "高等教育，1993年毕业于阿特劳师范学院，获得俄语语言文学教师学位。",
+          "sourceText": "Higher education, in 1993 she graduated from the Atyrau Pedagogical Institute with a degree in Russian Language and Literature Teacher."
+        }
+      ],
+      "careerHistoryBlocksZh": [
+        {
+          "type": "paragraph",
+          "text": "自1987年8月起，她在《共产主义延贝克》报编辑部开始了她的职业生涯。",
+          "sourceText": "Since August 1987, she began her career in the editorial office of the Kommunistik Yenbek newspaper."
+        },
+        {
+          "type": "paragraph",
+          "text": "1988年8月至1993年6月——古里耶夫师范学院学生。",
+          "sourceText": "August 1988 - June 1993 - student of the Guryev Pedagogical Institute."
+        },
+        {
+          "type": "paragraph",
+          "text": "1993 年 9 月至 1997 年 7 月 - 阿特劳地区税务监察局人力资源部专家。",
+          "sourceText": "September 1993 - July 1997 - Specialist of the Human Resources Department of the Tax Inspectorate of Atyrau Region."
+        },
+        {
+          "type": "paragraph",
+          "text": "1997 年 7 月至 2012 年 12 月 - 阿特劳地区财务部首席督察、人力资源和特殊问题部负责人。",
+          "sourceText": "July 1997 - December 2012 - Chief Inspector, Head of the Human Resources and Special Issues Department of the Department of Finance of Atyrau Region."
+        },
+        {
+          "type": "paragraph",
+          "text": "2013 年 4 月至 2014 年 9 月 - 阿特劳地区 Akim 行政管理局人力资源部监察员、首席奖励专家。",
+          "sourceText": "April 2013 - September 2014 - Inspector, Chief Award Specialist in the Human Resources Department of the Administration of the Akim of Atyrau region."
+        },
+        {
+          "type": "paragraph",
+          "text": "2014 年 9 月 - 2017 年 5 月 - 阿特劳地区阿基姆行政总局个人和法人上诉首席专家。",
+          "sourceText": "September 2014 - May 2017 - Chief Specialist on the Appeals of Individuals and Legal Entities of the General Department of the Administration of Akim of Atyrau region."
+        },
+        {
+          "type": "paragraph",
+          "text": "2017 年 6 月 - 2019 年 10 月 - 阿特劳地区 Akim 办公室控制和文件部首席督察。",
+          "sourceText": "June 2017 - October 2019 - Chief Inspector of the Control and Documentation Department of the Akim's Office of Atyrau Region."
+        },
+        {
+          "type": "paragraph",
+          "text": "2020 年 4 月 - 2022 年 6 月 - 阿特劳地区 Akim 行政上诉工作部首席专家。",
+          "sourceText": "April 2020 - June 2022 - Chief Specialist of the Department for Work with Appeals of the Administration of Akim of Atyrau region."
+        },
+        {
+          "type": "paragraph",
+          "text": "自 2022 年 1 月起担任阿特劳地区 Akim 行政上诉审议监督部门负责人。",
+          "sourceText": "From January 2022 - Head of the Department for Monitoring the Consideration of Appeals of the Administration of the Akim of Atyrau region."
+        }
+      ],
+      "generalInfoZh": "扎齐拉·阿利别科夫娜·凯罗娃 (Zhazira Alibekovna Kairova) 1970 年 2 月 21 日出生于阿拉木图市。\n高等教育，1993年毕业于阿特劳师范学院，获得俄语语言文学教师学位。",
+      "careerHistoryZh": "自1987年8月起，她在《共产主义延贝克》报编辑部开始了她的职业生涯。\n1988年8月至1993年6月——古里耶夫师范学院学生。\n1993 年 9 月至 1997 年 7 月 - 阿特劳地区税务监察局人力资源部专家。\n1997 年 7 月至 2012 年 12 月 - 阿特劳地区财务部首席督察、人力资源和特殊问题部负责人。\n2013 年 4 月至 2014 年 9 月 - 阿特劳地区 Akim 行政管理局人力资源部监察员、首席奖励专家。\n2014 年 9 月 - 2017 年 5 月 - 阿特劳地区阿基姆行政总局个人和法人上诉首席专家。\n2017 年 6 月 - 2019 年 10 月 - 阿特劳地区 Akim 办公室控制和文件部首席督察。\n2020 年 4 月 - 2022 年 6 月 - 阿特劳地区 Akim 行政上诉工作部首席专家。\n自 2022 年 1 月起担任阿特劳地区 Akim 行政上诉审议监督部门负责人。",
+      "detailZh": "扎齐拉·阿利别科夫娜·凯罗娃 (Zhazira Alibekovna Kairova) 1970 年 2 月 21 日出生于阿拉木图市。\n高等教育，1993年毕业于阿特劳师范学院，获得俄语语言文学教师学位。\n自1987年8月起，她在《共产主义延贝克》报编辑部开始了她的职业生涯。\n1988年8月至1993年6月——古里耶夫师范学院学生。\n1993 年 9 月至 1997 年 7 月 - 阿特劳地区税务监察局人力资源部专家。\n1997 年 7 月至 2012 年 12 月 - 阿特劳地区财务部首席督察、人力资源和特殊问题部负责人。\n2013 年 4 月至 2014 年 9 月 - 阿特劳地区 Akim 行政管理局人力资源部监察员、首席奖励专家。\n2014 年 9 月 - 2017 年 5 月 - 阿特劳地区阿基姆行政总局个人和法人上诉首席专家。\n2017 年 6 月 - 2019 年 10 月 - 阿特劳地区 Akim 办公室控制和文件部首席督察。\n2020 年 4 月 - 2022 年 6 月 - 阿特劳地区 Akim 行政上诉工作部首席专家。\n自 2022 年 1 月起担任阿特劳地区 Akim 行政上诉审议监督部门负责人。"
+    },
+    {
+      "id": 14970,
+      "name": "Bakenova Kuralay Yesetovna",
+      "nameZh": "Bakenova Kuralay Yesetovna",
+      "position": "Head of Internal Audit Service-State Auditor",
+      "positionZh": "部门负责人",
+      "responsibilities": "",
+      "workScopeZh": "官方页面未列出单独工作范围。",
+      "order": "",
+      "levelPosition": "Department head",
+      "sourceIndex": 16,
+      "photo": "https://www.gov.kz/uploads/2026/5/5/489edd0f97dfdcb09161e8f4d073fdca_original.78091.jpeg",
+      "phone": "35-51-65",
+      "receptionPhone": "35-51-65",
+      "email": "ku.bakenova@atyrau.gov.kz",
+      "biographyUrl": "https://www.gov.kz/memleket/entities/atyrau/about/structure/people/14970?lang=en",
+      "generalInfoHtml": "",
+      "careerHistoryHtml": "",
+      "generalInfoBlocks": [],
+      "careerHistoryBlocks": [],
+      "generalInfo": "",
+      "careerHistory": "",
+      "translationSourceLanguage": "en",
+      "translationNote": "本页面内容翻译自原网站，中文翻译仅供参考。",
+      "generalInfoBlocksZh": [],
+      "careerHistoryBlocksZh": [],
+      "generalInfoZh": "",
+      "careerHistoryZh": "",
+      "detailZh": ""
+    },
+    {
+      "id": 15029,
+      "name": "Adilgaliyev Arman Bagitzhanovich",
+      "nameZh": "Adilgaliyev Arman Bagitzhanovich",
+      "position": "Head of Department",
+      "positionZh": "部门负责人",
+      "responsibilities": "",
+      "workScopeZh": "官方页面未列出单独工作范围。",
+      "order": "",
+      "levelPosition": "Department head",
+      "sourceIndex": 17,
+      "photo": "https://www.gov.kz/uploads/2026/5/5/5eeb0d5e825c45fb6727b615d7f30102_original.110936.jpeg",
+      "phone": "27-09-25",
+      "receptionPhone": "27-09-25",
+      "email": "f.shakhmetov@atyrau.gov.kz",
+      "biographyUrl": "https://www.gov.kz/memleket/entities/atyrau/about/structure/people/15029?lang=en",
+      "generalInfoHtml": "",
+      "careerHistoryHtml": "",
+      "generalInfoBlocks": [],
+      "careerHistoryBlocks": [],
+      "generalInfo": "",
+      "careerHistory": "",
+      "translationSourceLanguage": "en",
+      "translationNote": "本页面内容翻译自原网站，中文翻译仅供参考。",
+      "generalInfoBlocksZh": [],
+      "careerHistoryBlocksZh": [],
+      "generalInfoZh": "",
+      "careerHistoryZh": "",
+      "detailZh": ""
+    },
+    {
+      "id": 15028,
+      "name": "Shayakhmetova Gulzamira Bibozkyzy",
+      "nameZh": "Shayakhmetova Gulzamira Bibozkyzy",
+      "position": "Head of Department",
+      "positionZh": "部门负责人",
+      "responsibilities": "",
+      "workScopeZh": "官方页面未列出单独工作范围。",
+      "order": "",
+      "levelPosition": "Department head",
+      "sourceIndex": 18,
+      "photo": "https://www.gov.kz/uploads/2026/5/12/383920b386343962e12ba9877aaa4298_original.91059.jpeg",
+      "phone": "27-02-57",
+      "receptionPhone": "27-02-57",
+      "email": "n.absenov@atyrau.gov.kz",
+      "biographyUrl": "https://www.gov.kz/memleket/entities/atyrau/about/structure/people/15028?lang=en",
+      "generalInfoHtml": "",
+      "careerHistoryHtml": "",
+      "generalInfoBlocks": [],
+      "careerHistoryBlocks": [],
+      "generalInfo": "",
+      "careerHistory": "",
+      "translationSourceLanguage": "en",
+      "translationNote": "本页面内容翻译自原网站，中文翻译仅供参考。",
+      "generalInfoBlocksZh": [],
+      "careerHistoryBlocksZh": [],
+      "generalInfoZh": "",
+      "careerHistoryZh": "",
+      "detailZh": ""
+    },
+    {
+      "id": 50759,
+      "name": "Сериккали Алия Гиниятовна",
+      "nameZh": "Сериккали Алия Гиниятовна",
+      "position": "Генеральный инспектор по защите государственной тайны",
+      "positionZh": "首席监察员",
+      "responsibilities": "",
+      "workScopeZh": "官方页面未列出单独工作范围。",
+      "order": "",
+      "levelPosition": "Department head",
+      "sourceIndex": 22,
+      "photo": "https://www.gov.kz/uploads/2026/5/5/94c72ab72b3772bc7480754b44dc2bf2_original.74064.jpeg",
+      "phone": "31-93-63",
+      "receptionPhone": "31-93-63",
+      "email": "a.serikkali@atyrau.gov.kz",
+      "biographyUrl": "https://www.gov.kz/memleket/entities/atyrau/about/structure/people/50759?lang=en",
+      "generalInfoHtml": "",
+      "careerHistoryHtml": "",
+      "generalInfoBlocks": [],
+      "careerHistoryBlocks": [],
+      "generalInfo": "",
+      "careerHistory": "",
+      "translationSourceLanguage": "en",
+      "translationNote": "本页面内容翻译自原网站，中文翻译仅供参考。",
+      "generalInfoBlocksZh": [],
+      "careerHistoryBlocksZh": [],
+      "generalInfoZh": "",
+      "careerHistoryZh": "",
+      "detailZh": ""
+    },
+    {
+      "id": 50739,
+      "name": "Жумагазиева Жанаргуль Салимгереевна",
+      "nameZh": "Жумагазиева Жанаргуль Салимгереевна",
+      "position": "Руководитель отдела",
+      "positionZh": "部门负责人",
+      "responsibilities": "",
+      "workScopeZh": "官方页面未列出单独工作范围。",
+      "order": "",
+      "levelPosition": "Department head",
+      "sourceIndex": 29,
+      "photo": "https://www.gov.kz/uploads/2026/7/9/bb7195c98f09b3546dfe99b1af690f40_original.122214.jpeg",
+      "phone": "31-94-40",
+      "receptionPhone": "31-94-40",
+      "email": "zh.zhumagazieva@atyrau.gov.kz",
+      "biographyUrl": "https://www.gov.kz/memleket/entities/atyrau/about/structure/people/50739?lang=en",
+      "generalInfoHtml": "",
+      "careerHistoryHtml": "",
+      "generalInfoBlocks": [],
+      "careerHistoryBlocks": [],
+      "generalInfo": "",
+      "careerHistory": "",
+      "translationSourceLanguage": "en",
+      "translationNote": "本页面内容翻译自原网站，中文翻译仅供参考。",
+      "generalInfoBlocksZh": [],
+      "careerHistoryBlocksZh": [],
+      "generalInfoZh": "",
+      "careerHistoryZh": "",
+      "detailZh": ""
+    },
+    {
+      "id": 20339,
+      "name": "Azhgaliyeva Aigul Temirtassovna",
+      "nameZh": "Azhgaliyeva Aigul Temirtassovna",
+      "position": "Head of Department of Economics and Budget Planning",
+      "positionZh": "部门负责人",
+      "responsibilities": "Economy",
+      "workScopeZh": "经济",
+      "order": "",
+      "levelPosition": "Head of management",
+      "sourceIndex": 3,
+      "photo": "https://www.gov.kz/uploads/2021/4/2/2380e89ced331b51ddbcfed2b8014843_original.86420.jpg",
+      "phone": "",
+      "receptionPhone": "",
+      "email": "",
+      "biographyUrl": "https://www.gov.kz/memleket/entities/atyrau/about/structure/people/20339?lang=en",
+      "generalInfoHtml": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p>Aigul Temirtassovna Azhigaliyeva was born on January 24, 1966.</p>\n<p>Education:</p>\n<p>1985 - Tselinograd Financial and Economic College.</p>\n<p>1991 - Alma-Ata Institute of National Economy. Specialty \"Economist\", \"Financial worker\".</p>\n</body>\n</html>",
+      "careerHistoryHtml": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p>1985-1986 - Senior Inspector for Personnel Work of the Guryev Regional Financial Department.</p>\n<p>1985-1986 - Auditor-Inspector of the Regional Financial Department (then reorganized into the Regional Finance Department).</p>\n<p>1986-2005 - Senior Economist, Leading Specialist, Deputy Head of Department, Head of Department, Deputy Head of Department, Head of the Finance Department of the Atyrau region.</p>\n<p>2005-2006 - Deputy Director of the Department of Economics and Budget Planning of the Atyrau region.</p>\n<p>2006-2008 - Director of the Department of Economics and Budget Planning of the Atyrau region.</p>\n<p>2008-2010 - Head of the Department of Economics and Budget Planning of the Atyrau region.</p>\n<p>June 2010 - March 2021 - Deputy Akim of Atyrau Region.</p>\n<p>From March 15, 2021 - Head of the Department of Economics and Budget Planning of the Atyrau region.</p>\n<p>State awards: Order \"Kurmet\". Certificate of honor of the Republic of Kazakhstan. Anniversary medals: \"10 years of Independence of the Republic of Kazakhstan\", \"20 years of Independence of the Republic of Kazakhstan\", \"10 years of Astana\".</p>\n</body>\n</html>",
+      "generalInfoBlocks": [
+        {
+          "type": "paragraph",
+          "text": "Aigul Temirtassovna Azhigaliyeva was born on January 24, 1966."
+        },
+        {
+          "type": "paragraph",
+          "text": "Education:"
+        },
+        {
+          "type": "paragraph",
+          "text": "1985 - Tselinograd Financial and Economic College."
+        },
+        {
+          "type": "paragraph",
+          "text": "1991 - Alma-Ata Institute of National Economy. Specialty \"Economist\", \"Financial worker\"."
+        }
+      ],
+      "careerHistoryBlocks": [
+        {
+          "type": "paragraph",
+          "text": "1985-1986 - Senior Inspector for Personnel Work of the Guryev Regional Financial Department."
+        },
+        {
+          "type": "paragraph",
+          "text": "1985-1986 - Auditor-Inspector of the Regional Financial Department (then reorganized into the Regional Finance Department)."
+        },
+        {
+          "type": "paragraph",
+          "text": "1986-2005 - Senior Economist, Leading Specialist, Deputy Head of Department, Head of Department, Deputy Head of Department, Head of the Finance Department of the Atyrau region."
+        },
+        {
+          "type": "paragraph",
+          "text": "2005-2006 - Deputy Director of the Department of Economics and Budget Planning of the Atyrau region."
+        },
+        {
+          "type": "paragraph",
+          "text": "2006-2008 - Director of the Department of Economics and Budget Planning of the Atyrau region."
+        },
+        {
+          "type": "paragraph",
+          "text": "2008-2010 - Head of the Department of Economics and Budget Planning of the Atyrau region."
+        },
+        {
+          "type": "paragraph",
+          "text": "June 2010 - March 2021 - Deputy Akim of Atyrau Region."
+        },
+        {
+          "type": "paragraph",
+          "text": "From March 15, 2021 - Head of the Department of Economics and Budget Planning of the Atyrau region."
+        },
+        {
+          "type": "paragraph",
+          "text": "State awards: Order \"Kurmet\". Certificate of honor of the Republic of Kazakhstan. Anniversary medals: \"10 years of Independence of the Republic of Kazakhstan\", \"20 years of Independence of the Republic of Kazakhstan\", \"10 years of Astana\"."
+        }
+      ],
+      "generalInfo": "Aigul Temirtassovna Azhigaliyeva was born on January 24, 1966.\nEducation:\n1985 - Tselinograd Financial and Economic College.\n1991 - Alma-Ata Institute of National Economy. Specialty \"Economist\", \"Financial worker\".",
+      "careerHistory": "1985-1986 - Senior Inspector for Personnel Work of the Guryev Regional Financial Department.\n1985-1986 - Auditor-Inspector of the Regional Financial Department (then reorganized into the Regional Finance Department).\n1986-2005 - Senior Economist, Leading Specialist, Deputy Head of Department, Head of Department, Deputy Head of Department, Head of the Finance Department of the Atyrau region.\n2005-2006 - Deputy Director of the Department of Economics and Budget Planning of the Atyrau region.\n2006-2008 - Director of the Department of Economics and Budget Planning of the Atyrau region.\n2008-2010 - Head of the Department of Economics and Budget Planning of the Atyrau region.\nJune 2010 - March 2021 - Deputy Akim of Atyrau Region.\nFrom March 15, 2021 - Head of the Department of Economics and Budget Planning of the Atyrau region.\nState awards: Order \"Kurmet\". Certificate of honor of the Republic of Kazakhstan. Anniversary medals: \"10 years of Independence of the Republic of Kazakhstan\", \"20 years of Independence of the Republic of Kazakhstan\", \"10 years of Astana\".",
+      "translationSourceLanguage": "en",
+      "translationNote": "本页面内容翻译自原网站，中文翻译仅供参考。",
+      "generalInfoBlocksZh": [
+        {
+          "type": "paragraph",
+          "text": "艾古尔·特米尔塔索夫娜·阿日加利耶娃 (Aigul Temirtassovna Azhigaliyeva) 出生于 1966 年 1 月 24 日。",
+          "sourceText": "Aigul Temirtassovna Azhigaliyeva was born on January 24, 1966."
+        },
+        {
+          "type": "paragraph",
+          "text": "教育程度：",
+          "sourceText": "Education:"
+        },
+        {
+          "type": "paragraph",
+          "text": "1985 年 - 采林诺格勒金融经济学院。",
+          "sourceText": "1985 - Tselinograd Financial and Economic College."
+        },
+        {
+          "type": "paragraph",
+          "text": "1991 - 阿拉木图国民经济学院。专业“经济师”、“金融工作者”。",
+          "sourceText": "1991 - Alma-Ata Institute of National Economy. Specialty \"Economist\", \"Financial worker\"."
+        }
+      ],
+      "careerHistoryBlocksZh": [
+        {
+          "type": "paragraph",
+          "text": "1985年至1986年任古里耶夫地区财政局人事工作高级巡视员。",
+          "sourceText": "1985-1986 - Senior Inspector for Personnel Work of the Guryev Regional Financial Department."
+        },
+        {
+          "type": "paragraph",
+          "text": "1985年至1986年 - 地区财务部审计监察员（后改组为地区财务部）。",
+          "sourceText": "1985-1986 - Auditor-Inspector of the Regional Financial Department (then reorganized into the Regional Finance Department)."
+        },
+        {
+          "type": "paragraph",
+          "text": "1986年至2005年 - 高级经济学家、首席专家、副部长、部长、副部长、阿特劳地区财务部部长。",
+          "sourceText": "1986-2005 - Senior Economist, Leading Specialist, Deputy Head of Department, Head of Department, Deputy Head of Department, Head of the Finance Department of the Atyrau region."
+        },
+        {
+          "type": "paragraph",
+          "text": "2005-2006 年 - 阿特劳地区经济和预算规划部副主任。",
+          "sourceText": "2005-2006 - Deputy Director of the Department of Economics and Budget Planning of the Atyrau region."
+        },
+        {
+          "type": "paragraph",
+          "text": "2006-2008 年 - 阿特劳地区经济和预算规划部主任。",
+          "sourceText": "2006-2008 - Director of the Department of Economics and Budget Planning of the Atyrau region."
+        },
+        {
+          "type": "paragraph",
+          "text": "2008 年至 2010 年 - 阿特劳地区经济和预算规划部部长。",
+          "sourceText": "2008-2010 - Head of the Department of Economics and Budget Planning of the Atyrau region."
+        },
+        {
+          "type": "paragraph",
+          "text": "2010年6月至2021年3月——阿特劳地区副阿基姆。",
+          "sourceText": "June 2010 - March 2021 - Deputy Akim of Atyrau Region."
+        },
+        {
+          "type": "paragraph",
+          "text": "自 2021 年 3 月 15 日起担任阿特劳地区经济和预算规划部部长。",
+          "sourceText": "From March 15, 2021 - Head of the Department of Economics and Budget Planning of the Atyrau region."
+        },
+        {
+          "type": "paragraph",
+          "text": "国家奖励：“Kurmet”勋章。哈萨克斯坦共和国荣誉证书。周年纪念章：“哈萨克斯坦共和国独立10周年”、“哈萨克斯坦共和国独立20周年”、“阿斯塔纳10周年”。",
+          "sourceText": "State awards: Order \"Kurmet\". Certificate of honor of the Republic of Kazakhstan. Anniversary medals: \"10 years of Independence of the Republic of Kazakhstan\", \"20 years of Independence of the Republic of Kazakhstan\", \"10 years of Astana\"."
+        }
+      ],
+      "generalInfoZh": "艾古尔·特米尔塔索夫娜·阿日加利耶娃 (Aigul Temirtassovna Azhigaliyeva) 出生于 1966 年 1 月 24 日。\n教育程度：\n1985 年 - 采林诺格勒金融经济学院。\n1991 - 阿拉木图国民经济学院。专业“经济师”、“金融工作者”。",
+      "careerHistoryZh": "1985年至1986年任古里耶夫地区财政局人事工作高级巡视员。\n1985年至1986年 - 地区财务部审计监察员（后改组为地区财务部）。\n1986年至2005年 - 高级经济学家、首席专家、副部长、部长、副部长、阿特劳地区财务部部长。\n2005-2006 年 - 阿特劳地区经济和预算规划部副主任。\n2006-2008 年 - 阿特劳地区经济和预算规划部主任。\n2008 年至 2010 年 - 阿特劳地区经济和预算规划部部长。\n2010年6月至2021年3月——阿特劳地区副阿基姆。\n自 2021 年 3 月 15 日起担任阿特劳地区经济和预算规划部部长。\n国家奖励：“Kurmet”勋章。哈萨克斯坦共和国荣誉证书。周年纪念章：“哈萨克斯坦共和国独立10周年”、“哈萨克斯坦共和国独立20周年”、“阿斯塔纳10周年”。",
+      "detailZh": "艾古尔·特米尔塔索夫娜·阿日加利耶娃 (Aigul Temirtassovna Azhigaliyeva) 出生于 1966 年 1 月 24 日。\n教育程度：\n1985 年 - 采林诺格勒金融经济学院。\n1991 - 阿拉木图国民经济学院。专业“经济师”、“金融工作者”。\n1985年至1986年任古里耶夫地区财政局人事工作高级巡视员。\n1985年至1986年 - 地区财务部审计监察员（后改组为地区财务部）。\n1986年至2005年 - 高级经济学家、首席专家、副部长、部长、副部长、阿特劳地区财务部部长。\n2005-2006 年 - 阿特劳地区经济和预算规划部副主任。\n2006-2008 年 - 阿特劳地区经济和预算规划部主任。\n2008 年至 2010 年 - 阿特劳地区经济和预算规划部部长。\n2010年6月至2021年3月——阿特劳地区副阿基姆。\n自 2021 年 3 月 15 日起担任阿特劳地区经济和预算规划部部长。\n国家奖励：“Kurmet”勋章。哈萨克斯坦共和国荣誉证书。周年纪念章：“哈萨克斯坦共和国独立10周年”、“哈萨克斯坦共和国独立20周年”、“阿斯塔纳10周年”。"
+    }
+  ],
+  "translationNote": "本页面内容翻译自原网站，中文翻译仅供参考。"
+}

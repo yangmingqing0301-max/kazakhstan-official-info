@@ -1,0 +1,29 @@
+name: Sync Region Personnel
+
+on:
+  schedule:
+    - cron: "0 16 * * *"
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - run: node scripts/sync-regions.js
+
+      - run: node scripts/audit-region-translations.js
+
+      - name: Commit updated data
+        run: |
+          git config user.name "sync-bot"
+          git config user.email "sync-bot@example.com"
+          git add data/*-people.json
+          git commit -m "Update region personnel data" || echo "No changes"
+          git push
