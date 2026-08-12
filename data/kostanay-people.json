@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.gov.kz/memleket/entities/kostanay/about/structure?lang=en",
-  "syncedAt": "2026-07-17T00:00:00+08:00",
+  "syncedAt": "2026-07-19T00:00:00+08:00",
   "title": "科斯塔奈州机构人员",
   "region": {
     "key": "kostanay",
@@ -58,7 +58,7 @@
       "id": 20617,
       "name": "Sandybayev Murat Mirtayevich",
       "position": "Chief of Staff",
-      "positionZh": "办公室主任",
+      "positionZh": "科斯塔奈州州长办公室主任",
       "photo": "https://www.gov.kz/uploads/2023/4/21/fbd039ff0223b5da0462538021b54f5f_original.86089.jpeg"
     },
     {
@@ -66,7 +66,7 @@
       "id": 5707,
       "name": "Sandybaev Murat Миртаевич",
       "position": "Deputy Head of the Akim of the region",
-      "positionZh": "部门负责人",
+      "positionZh": "科斯塔奈州州长办公室副主任",
       "photo": "https://www.gov.kz/uploads/2020/6/3/0c16bf7801a0fdd20a84376cff43b6bb_original.2187049.JPG"
     },
     {
@@ -82,7 +82,7 @@
       "id": 5792,
       "name": "Байсекенова Гульнара Дартаевна",
       "position": "Руководитель службы внутреннего аудита",
-      "positionZh": "部门负责人",
+      "positionZh": "内部审计服务负责人",
       "photo": "https://www.gov.kz/uploads/2020/1/30/828ac0b5a407310e1ba31d5c50e63de9_original.5257771.jfif"
     },
     {
@@ -90,7 +90,7 @@
       "id": 5788,
       "name": "Accuzhina Bibigul Berkutova",
       "position": "Head of the Secretariat of the regional assemblies of people of Kazakhstan",
-      "positionZh": "部门负责人",
+      "positionZh": "秘书处负责人",
       "photo": "https://www.gov.kz/uploads/2020/6/5/6b5fb827ebfb2f5fe17ac7dc7a2b3956_original.96716.jpeg"
     },
     {
@@ -98,7 +98,7 @@
       "id": 5784,
       "name": "Abdullina Bizhamal Serikbayevna",
       "position": "Head of the Financial Support Department",
-      "positionZh": "部门负责人",
+      "positionZh": "财务与会计处负责人",
       "photo": "https://www.gov.kz/uploads/2022/10/22/0c063527f931c424cdecdb954319b679_original.5955297.JPG"
     },
     {
@@ -106,7 +106,7 @@
       "id": 11404,
       "name": "Murzabulatova Anar Taimagambetova",
       "position": "Head of the Department for the Protection of State Secrets and Information Security",
-      "positionZh": "部门负责人",
+      "positionZh": "国家秘密与信息安全负责人",
       "photo": "https://www.gov.kz/uploads/2020/6/5/fe40252f957f884597e6bc1416168369_original.79789.jpeg"
     },
     {
@@ -114,7 +114,7 @@
       "id": 5790,
       "name": "Vacancy .",
       "position": "Head of the Department for mobilization training, prevention and prevention of terrorism",
-      "positionZh": "部门负责人",
+      "positionZh": "执法机关协作与反恐工作处负责人",
       "photo": "https://www.gov.kz/uploads/2023/5/18/9fbd930142319735fb87557ef7b86bf3_original.119005.jpeg"
     },
     {
@@ -122,7 +122,7 @@
       "id": 19133,
       "name": "Ismagambetova Aliya Alshimbayevna",
       "position": "Head of the Organizational and Inspection Department",
-      "positionZh": "部门负责人",
+      "positionZh": "组织监督处负责人",
       "photo": "https://www.gov.kz/uploads/2023/7/1/c47903fdcb55c00b779e96fc4887f068_original.1646908.jpg"
     },
     {
@@ -130,7 +130,7 @@
       "id": 14790,
       "name": "Muzdubaev Timur Serikovich",
       "position": "Adviser to the mayor-head of the Department for monitoring the consideration of Appeals",
-      "positionZh": "部门负责人",
+      "positionZh": "科斯塔奈州州长顾问兼信访办理监督处负责人",
       "photo": "https://www.gov.kz/uploads/2024/3/12/ad75e0afcca931f7bb2cf8a2dee97ea3_original.184222.jpeg"
     },
     {
@@ -138,7 +138,7 @@
       "id": 19217,
       "name": "Erdesova Gulldariya Tanatkhanovna",
       "position": "Head of the Internal Audit Service",
-      "positionZh": "部门负责人",
+      "positionZh": "内部审计服务负责人",
       "photo": "https://www.gov.kz/uploads/2025/1/29/bdcfdb420f4c598b8585638543ec7bca_original.4930419.JPG"
     },
     {
@@ -154,7 +154,7 @@
       "id": 11397,
       "name": "Kadambaeva Dina Serikbaevna",
       "position": "Head of the state legal Department",
-      "positionZh": "部门负责人",
+      "positionZh": "国家法律事务处负责人",
       "photo": "https://www.gov.kz/uploads/2025/9/23/9cf0561cf2df4e38e6db8387d79fd861_original.5635013.jpeg"
     },
     {
@@ -162,7 +162,7 @@
       "id": 5760,
       "name": "Boshanov Bagytbek Akhmetkanovich",
       "position": "Head of information technology Department",
-      "positionZh": "部门负责人",
+      "positionZh": "信息技术处负责人",
       "photo": "https://www.gov.kz/uploads/2022/8/16/d2b3c15cad097e93369794f4936e9c28_original.5467296.JPG"
     },
     {
@@ -170,7 +170,7 @@
       "id": 5783,
       "name": "Makasheva Dinara Kakmanovna",
       "position": "Head of the unified personnel management service (HR department)",
-      "positionZh": "部门负责人",
+      "positionZh": "人事管理服务负责人",
       "photo": "https://www.gov.kz/uploads/2025/12/3/facb697101769de3d025c4d4ca5b52bb_original.1427033.jpg"
     },
     {
@@ -178,23 +178,23 @@
       "id": 5782,
       "name": "Sokolova Oksana Vladimirovna",
       "position": "Department of Documentation Support and Control",
-      "positionZh": "文书流转与监督部门负责人",
+      "positionZh": "文书保障与监督处负责人",
       "photo": "https://www.gov.kz/uploads/2025/2/7/cb9d26fc7419cefe80346b45404c8e5d_original.41998.jpeg"
     },
     {
       "type": "person",
       "id": 33403,
-      "name": "Edrisov Anuar Seitenovich",
+      "name": "Vacancy . .",
       "position": "Head of the Project Management Department",
-      "positionZh": "部门负责人",
-      "photo": "https://www.gov.kz/uploads/2026/6/22/55ff662dea88817c7617c3d7d4ed9793_original.181204.jpeg"
+      "positionZh": "项目办公室负责人",
+      "photo": ""
     },
     {
       "type": "person",
       "id": 5789,
       "name": "Жусупов Саят Даулетович",
       "position": "Пресс-секретарь",
-      "positionZh": "新闻秘书",
+      "positionZh": "科斯塔奈州州长新闻秘书",
       "photo": ""
     },
     {
@@ -202,7 +202,7 @@
       "id": 45531,
       "name": "Qiyskhan Qydyrbek",
       "position": "Press secretary of the regional mayor",
-      "positionZh": "新闻秘书",
+      "positionZh": "科斯塔奈州州长新闻秘书",
       "photo": "https://www.gov.kz/uploads/2025/12/31/bd935ca04a496085210a7d7cc71e8583_original.1037304.jpeg"
     }
   ],
@@ -217,7 +217,7 @@
       "workScopeZh": "官方页面未列出单独工作范围。",
       "order": "1",
       "levelPosition": "Akim",
-      "sourceIndex": 19,
+      "sourceIndex": 18,
       "photo": "https://www.gov.kz/uploads/2023/3/19/65e2a4f555b6f791880576654570518c_original.115381.jpeg",
       "phone": "8 (7142) 575-002",
       "receptionPhone": "8 (7142) 575-002",
@@ -415,12 +415,12 @@
       "careerHistoryBlocksZh": [
         {
           "type": "paragraph",
-          "text": "1987年至1989年 — 库斯塔奈地区乌里茨基区国营农场“Krylovskiy”总工程师。",
+          "text": "1987年至1989年 — 科斯塔奈地区乌里茨基区国营农场“Krylovskiy”总工程师。",
           "sourceText": "1987-1989 — Chief Engineer of state farm \"Krylovskiy\" of Uritsky district of Kostanay region."
         },
         {
           "type": "paragraph",
-          "text": "1989年至1992年 — 哈萨克斯坦科斯塔奈地区LYCL乌里茨基地区委员会第一书记。",
+          "text": "1989年至1992年 — 哈萨克斯坦科斯塔奈地区列宁共产主义青年联盟乌里茨基地区委员会第一书记。",
           "sourceText": "1989-1992 — First Secretary of Uritsky District Committee of the LYCL of Kazakhstan of Kostanay region."
         },
         {
@@ -430,7 +430,7 @@
         },
         {
           "type": "paragraph",
-          "text": "1993年至1994年 — 库斯塔奈地区库斯塔奈区小型国有企业“Novosyolovka”董事。",
+          "text": "1993年至1994年 — 科斯塔奈地区科斯塔奈区小型国有企业“Novosyolovka”董事。",
           "sourceText": "1993-1994 — Director of small state enterprise \"Novosyolovka\" of Kostanay district of Kostanay region."
         },
         {
@@ -440,17 +440,17 @@
         },
         {
           "type": "paragraph",
-          "text": "1996-1998 年 — 集体农场“Sever”主席、Kostanay 地区门迪卡拉区“Sever”JSC 总裁。",
+          "text": "1996-1998 年 — 集体农场“Sever”主席、科斯塔奈 地区门迪卡拉区“Sever”股份公司 总裁。",
           "sourceText": "1996-1998 — Chairman of collective farm \"Sever\", President of JSC \"Sever\" Mendikara district of Kostanay region."
         },
         {
           "type": "paragraph",
-          "text": "1998-2002 年 — 库斯塔奈地区门迪卡拉区区长。",
+          "text": "1998-2002 年 — 科斯塔奈地区门迪卡拉区区长。",
           "sourceText": "1998-2002 — mayor of Mendikara district of Kostanay region."
         },
         {
           "type": "paragraph",
-          "text": "2002年至2004年 — 库斯塔奈地区塔兰区区长。",
+          "text": "2002年至2004年 — 科斯塔奈地区塔兰区区长。",
           "sourceText": "2002-2004 — mayor of Taran district of Kostanay region."
         },
         {
@@ -625,8 +625,8 @@
         }
       ],
       "generalInfoZh": "库马尔·伊尔吉巴耶维奇·阿克萨卡洛夫 (Kumar Irgibayevich Aksakalov) 出生于 1965 年。1987 年毕业于副教授。 Goryachkina 莫斯科农业工程师学院，机械工程师。经济学博士。",
-      "careerHistoryZh": "1987年至1989年 — 库斯塔奈地区乌里茨基区国营农场“Krylovskiy”总工程师。\n1989年至1992年 — 哈萨克斯坦科斯塔奈地区LYCL乌里茨基地区委员会第一书记。\n1992年至1993年 — 科斯塔奈地区乌里茨基区国营农场“Mayak”的总工程师。\n1993年至1994年 — 库斯塔奈地区库斯塔奈区小型国有企业“Novosyolovka”董事。\n1994年至1996年 — 科斯塔奈地区科斯塔奈区研究和生产协会“Kostanayskoye”副总经理。\n1996-1998 年 — 集体农场“Sever”主席、Kostanay 地区门迪卡拉区“Sever”JSC 总裁。\n1998-2002 年 — 库斯塔奈地区门迪卡拉区区长。\n2002年至2004年 — 库斯塔奈地区塔兰区区长。\n2004-2006 年 — 哈萨克斯坦共和国总统办公厅国家控制和组织单位国家监察员。\n2006年至2010年任江布尔州副市长。\n2010年至2015年 — 人民民主党“努尔·奥坦”中央办公厅主任、“努尔·奥坦”党委书记。\n2015 年至 2017 年 — 哈萨克斯坦共和国总统办公厅副主任。\n2017年3月14日至2022年11月30日——北哈萨克斯坦地区市长。\n2022年12月1日，他被任命为科斯塔奈州市长。\n岗位职责：\n组织实施哈萨克斯坦共和国法律、哈萨克斯坦共和国总统法令以及本地区高级政府机构的其他行为，并就与本地区国家经济综合体运作有关的事务与哈萨克斯坦共和国政府进行互动。组织并监督《哈萨克斯坦2030年》和《哈萨克斯坦2050年战略》的实施。落实人力资源政策。采取措施打击腐败。\n确保国家政策的贯彻落实，负责本地区经济社会发展。\n协调以下工作：\n区、市、区副市长、区长。\n监督：\n国家机构“科斯塔奈州州长办公室”的内部审计部门。\n管理以下活动：\n区域 行政机关，\n行政机关 地区预防犯罪部门间委员会，\n科斯塔奈州地区危机应对总部，\n地区 行政机关 下的反恐怖主义委员会，\n地区行政机关下的反腐败委员会，\n预防和应对紧急情况委员会。\n互动：\n在国家层面：\n总统办公厅、政府办公室和各部委；\n在地方层面，：\n科斯塔奈州检察官办公室，\n哈萨克斯坦共和国国家安全委员会科斯塔奈州部，\n哈萨克斯坦共和国内政部科斯塔奈州警察局，\n哈萨克斯坦共和国国防部科斯塔奈州国防部，\n哈萨克斯坦共和国紧急情况部科斯塔奈州紧急情况司，\n哈萨克斯坦共和国司法部科斯塔奈州司法司，\n哈萨克斯坦共和国公务员事务局科斯塔奈州部，\n哈萨克斯坦共和国反腐败局科斯塔奈州局（反腐败局），\n哈萨克斯坦共和国内政部科斯塔奈州监狱系统司。\n依法履行其他职责。",
-      "detailZh": "库马尔·伊尔吉巴耶维奇·阿克萨卡洛夫 (Kumar Irgibayevich Aksakalov) 出生于 1965 年。1987 年毕业于副教授。 Goryachkina 莫斯科农业工程师学院，机械工程师。经济学博士。\n1987年至1989年 — 库斯塔奈地区乌里茨基区国营农场“Krylovskiy”总工程师。\n1989年至1992年 — 哈萨克斯坦科斯塔奈地区LYCL乌里茨基地区委员会第一书记。\n1992年至1993年 — 科斯塔奈地区乌里茨基区国营农场“Mayak”的总工程师。\n1993年至1994年 — 库斯塔奈地区库斯塔奈区小型国有企业“Novosyolovka”董事。\n1994年至1996年 — 科斯塔奈地区科斯塔奈区研究和生产协会“Kostanayskoye”副总经理。\n1996-1998 年 — 集体农场“Sever”主席、Kostanay 地区门迪卡拉区“Sever”JSC 总裁。\n1998-2002 年 — 库斯塔奈地区门迪卡拉区区长。\n2002年至2004年 — 库斯塔奈地区塔兰区区长。\n2004-2006 年 — 哈萨克斯坦共和国总统办公厅国家控制和组织单位国家监察员。\n2006年至2010年任江布尔州副市长。\n2010年至2015年 — 人民民主党“努尔·奥坦”中央办公厅主任、“努尔·奥坦”党委书记。\n2015 年至 2017 年 — 哈萨克斯坦共和国总统办公厅副主任。\n2017年3月14日至2022年11月30日——北哈萨克斯坦地区市长。\n2022年12月1日，他被任命为科斯塔奈州市长。\n岗位职责：\n组织实施哈萨克斯坦共和国法律、哈萨克斯坦共和国总统法令以及本地区高级政府机构的其他行为，并就与本地区国家经济综合体运作有关的事务与哈萨克斯坦共和国政府进行互动。组织并监督《哈萨克斯坦2030年》和《哈萨克斯坦2050年战略》的实施。落实人力资源政策。采取措施打击腐败。\n确保国家政策的贯彻落实，负责本地区经济社会发展。\n协调以下工作：\n区、市、区副市长、区长。\n监督：\n国家机构“科斯塔奈州州长办公室”的内部审计部门。\n管理以下活动：\n区域 行政机关，\n行政机关 地区预防犯罪部门间委员会，\n科斯塔奈州地区危机应对总部，\n地区 行政机关 下的反恐怖主义委员会，\n地区行政机关下的反腐败委员会，\n预防和应对紧急情况委员会。\n互动：\n在国家层面：\n总统办公厅、政府办公室和各部委；\n在地方层面，：\n科斯塔奈州检察官办公室，\n哈萨克斯坦共和国国家安全委员会科斯塔奈州部，\n哈萨克斯坦共和国内政部科斯塔奈州警察局，\n哈萨克斯坦共和国国防部科斯塔奈州国防部，\n哈萨克斯坦共和国紧急情况部科斯塔奈州紧急情况司，\n哈萨克斯坦共和国司法部科斯塔奈州司法司，\n哈萨克斯坦共和国公务员事务局科斯塔奈州部，\n哈萨克斯坦共和国反腐败局科斯塔奈州局（反腐败局），\n哈萨克斯坦共和国内政部科斯塔奈州监狱系统司。\n依法履行其他职责。"
+      "careerHistoryZh": "1987年至1989年 — 科斯塔奈地区乌里茨基区国营农场“Krylovskiy”总工程师。\n1989年至1992年 — 哈萨克斯坦科斯塔奈地区列宁共产主义青年联盟乌里茨基地区委员会第一书记。\n1992年至1993年 — 科斯塔奈地区乌里茨基区国营农场“Mayak”的总工程师。\n1993年至1994年 — 科斯塔奈地区科斯塔奈区小型国有企业“Novosyolovka”董事。\n1994年至1996年 — 科斯塔奈地区科斯塔奈区研究和生产协会“Kostanayskoye”副总经理。\n1996-1998 年 — 集体农场“Sever”主席、科斯塔奈 地区门迪卡拉区“Sever”股份公司 总裁。\n1998-2002 年 — 科斯塔奈地区门迪卡拉区区长。\n2002年至2004年 — 科斯塔奈地区塔兰区区长。\n2004-2006 年 — 哈萨克斯坦共和国总统办公厅国家控制和组织单位国家监察员。\n2006年至2010年任江布尔州副市长。\n2010年至2015年 — 人民民主党“努尔·奥坦”中央办公厅主任、“努尔·奥坦”党委书记。\n2015 年至 2017 年 — 哈萨克斯坦共和国总统办公厅副主任。\n2017年3月14日至2022年11月30日——北哈萨克斯坦地区市长。\n2022年12月1日，他被任命为科斯塔奈州市长。\n岗位职责：\n组织实施哈萨克斯坦共和国法律、哈萨克斯坦共和国总统法令以及本地区高级政府机构的其他行为，并就与本地区国家经济综合体运作有关的事务与哈萨克斯坦共和国政府进行互动。组织并监督《哈萨克斯坦2030年》和《哈萨克斯坦2050年战略》的实施。落实人力资源政策。采取措施打击腐败。\n确保国家政策的贯彻落实，负责本地区经济社会发展。\n协调以下工作：\n区、市、区副市长、区长。\n监督：\n国家机构“科斯塔奈州州长办公室”的内部审计部门。\n管理以下活动：\n区域 行政机关，\n行政机关 地区预防犯罪部门间委员会，\n科斯塔奈州地区危机应对总部，\n地区 行政机关 下的反恐怖主义委员会，\n地区行政机关下的反腐败委员会，\n预防和应对紧急情况委员会。\n互动：\n在国家层面：\n总统办公厅、政府办公室和各部委；\n在地方层面，：\n科斯塔奈州检察官办公室，\n哈萨克斯坦共和国国家安全委员会科斯塔奈州部，\n哈萨克斯坦共和国内政部科斯塔奈州警察局，\n哈萨克斯坦共和国国防部科斯塔奈州国防部，\n哈萨克斯坦共和国紧急情况部科斯塔奈州紧急情况司，\n哈萨克斯坦共和国司法部科斯塔奈州司法司，\n哈萨克斯坦共和国公务员事务局科斯塔奈州部，\n哈萨克斯坦共和国反腐败局科斯塔奈州局（反腐败局），\n哈萨克斯坦共和国内政部科斯塔奈州监狱系统司。\n依法履行其他职责。",
+      "detailZh": "库马尔·伊尔吉巴耶维奇·阿克萨卡洛夫 (Kumar Irgibayevich Aksakalov) 出生于 1965 年。1987 年毕业于副教授。 Goryachkina 莫斯科农业工程师学院，机械工程师。经济学博士。\n1987年至1989年 — 科斯塔奈地区乌里茨基区国营农场“Krylovskiy”总工程师。\n1989年至1992年 — 哈萨克斯坦科斯塔奈地区列宁共产主义青年联盟乌里茨基地区委员会第一书记。\n1992年至1993年 — 科斯塔奈地区乌里茨基区国营农场“Mayak”的总工程师。\n1993年至1994年 — 科斯塔奈地区科斯塔奈区小型国有企业“Novosyolovka”董事。\n1994年至1996年 — 科斯塔奈地区科斯塔奈区研究和生产协会“Kostanayskoye”副总经理。\n1996-1998 年 — 集体农场“Sever”主席、科斯塔奈 地区门迪卡拉区“Sever”股份公司 总裁。\n1998-2002 年 — 科斯塔奈地区门迪卡拉区区长。\n2002年至2004年 — 科斯塔奈地区塔兰区区长。\n2004-2006 年 — 哈萨克斯坦共和国总统办公厅国家控制和组织单位国家监察员。\n2006年至2010年任江布尔州副市长。\n2010年至2015年 — 人民民主党“努尔·奥坦”中央办公厅主任、“努尔·奥坦”党委书记。\n2015 年至 2017 年 — 哈萨克斯坦共和国总统办公厅副主任。\n2017年3月14日至2022年11月30日——北哈萨克斯坦地区市长。\n2022年12月1日，他被任命为科斯塔奈州市长。\n岗位职责：\n组织实施哈萨克斯坦共和国法律、哈萨克斯坦共和国总统法令以及本地区高级政府机构的其他行为，并就与本地区国家经济综合体运作有关的事务与哈萨克斯坦共和国政府进行互动。组织并监督《哈萨克斯坦2030年》和《哈萨克斯坦2050年战略》的实施。落实人力资源政策。采取措施打击腐败。\n确保国家政策的贯彻落实，负责本地区经济社会发展。\n协调以下工作：\n区、市、区副市长、区长。\n监督：\n国家机构“科斯塔奈州州长办公室”的内部审计部门。\n管理以下活动：\n区域 行政机关，\n行政机关 地区预防犯罪部门间委员会，\n科斯塔奈州地区危机应对总部，\n地区 行政机关 下的反恐怖主义委员会，\n地区行政机关下的反腐败委员会，\n预防和应对紧急情况委员会。\n互动：\n在国家层面：\n总统办公厅、政府办公室和各部委；\n在地方层面，：\n科斯塔奈州检察官办公室，\n哈萨克斯坦共和国国家安全委员会科斯塔奈州部，\n哈萨克斯坦共和国内政部科斯塔奈州警察局，\n哈萨克斯坦共和国国防部科斯塔奈州国防部，\n哈萨克斯坦共和国紧急情况部科斯塔奈州紧急情况司，\n哈萨克斯坦共和国司法部科斯塔奈州司法司，\n哈萨克斯坦共和国公务员事务局科斯塔奈州部，\n哈萨克斯坦共和国反腐败局科斯塔奈州局（反腐败局），\n哈萨克斯坦共和国内政部科斯塔奈州监狱系统司。\n依法履行其他职责。"
     },
     {
       "id": 1450,
@@ -635,10 +635,10 @@
       "position": "Deputy mayor of Kostanay region",
       "positionZh": "科斯塔奈州副州长",
       "responsibilities": "Industry\nAgriculture\nLand relations\nEntrepreneurship",
-      "workScopeZh": "土地关系",
+      "workScopeZh": "工业、农业、土地关系、创业与企业事务",
       "order": "2",
       "levelPosition": "Deputy Akim",
-      "sourceIndex": 20,
+      "sourceIndex": 19,
       "photo": "https://www.gov.kz/uploads/2021/5/24/95049e0e1eb084ff9cc7b92e3f011148_original.167085.jpg",
       "phone": "8 (7142) 575-010",
       "receptionPhone": "8 (7142) 575-010",
@@ -1429,10 +1429,10 @@
       "position": "Deputy mayor of Kostanay region",
       "positionZh": "科斯塔奈州副州长",
       "responsibilities": "Health care\nBudget",
-      "workScopeZh": "医疗卫生",
+      "workScopeZh": "医疗卫生、财政和预算",
       "order": "3",
       "levelPosition": "Deputy Akim",
-      "sourceIndex": 23,
+      "sourceIndex": 22,
       "photo": "https://www.gov.kz/uploads/2026/5/18/50c1a78d8f5ef8ef7076246db05aba0f_original.41917.jpeg",
       "phone": "8 (7142) 575-015",
       "receptionPhone": "8 (7142) 575-015",
@@ -1689,12 +1689,12 @@
           "items": [
             {
               "type": "listItem",
-              "text": "1998–2001 — TOO“Kaznur”货币兑换办公室经理；",
+              "text": "1998–2001 — 有限责任合伙企业“Kaznur”货币兑换办公室经理；",
               "sourceText": "1998–2001 — currency exchange office manager at TOO \"Kaznur\";"
             },
             {
               "type": "listItem",
-              "text": "2003年–2007年 — TOO“Profile-Lux”总监；",
+              "text": "2003-2007 — 有限责任合伙企业“Profile-Lux”总监；",
               "sourceText": "2003–2007 — director of TOO \"Profile-Lux\";"
             },
             {
@@ -1736,7 +1736,7 @@
         },
         {
           "type": "paragraph",
-          "text": "根据地区长官的命令，Yerbol Taszhurekov Kuanyshevich 被任命为库斯塔奈地区副长官。此前，他曾担任哈萨克斯坦共和国农业部副部长。",
+          "text": "根据州长的命令，Yerbol Taszhurekov Kuanyshevich 被任命为科斯塔奈地区副长官。此前，他曾担任哈萨克斯坦共和国农业部副部长。",
           "sourceText": "By order of the regional akim, Yerbol Taszhurekov Kuanyshevich has been appointed as the deputy akim of the Kostanay region. Previously, he held the position of Vice Minister of Agriculture of the Republic of Kazakhstan."
         },
         {
@@ -1876,9 +1876,9 @@
           "sourceText": "5. Heads territorial advisory and coordinating councils and commissions (within the scope of assigned powers)."
         }
       ],
-      "generalInfoZh": "经济学家;\n律师；\n国家和地方行政管理硕士；\n公共管理和国际关系硕士。\nM.Kh.杜拉蒂塔拉兹州立大学；\n霍贾·艾哈迈德·亚萨维国际哈萨克-土耳其大学；\n哈萨克斯坦共和国总统领导的公共管理学院；\n法国国家行政学院。\n1998–2001 — TOO“Kaznur”货币兑换办公室经理；\n2003年–2007年 — TOO“Profile-Lux”总监；\n2007年至2013年——在阿斯塔纳阿拉木图区第二地方法院担任多个职务；\n2013年至2014年——在哈萨克斯坦共和国区域发展部担任管理职务；\n2014年至2016年——哈萨克斯坦共和国国民经济部副司长；\n2016年至2018年——哈萨克斯坦共和国投资和发展部投资委员会副主席；\n2018年至2019年——南哈萨克斯坦州副州长；\n2019–2021 — 董事总经理 — “国家管理控股”KazAgro”股份公司董事会成员；\n2023 年至 2026 年 — 哈萨克斯坦共和国农业部副部长。\n根据地区长官的命令，Yerbol Taszhurekov Kuanyshevich 被任命为库斯塔奈地区副长官。此前，他曾担任哈萨克斯坦共和国农业部副部长。\n1979 年出生于塔拉兹市。\n接受过以下专业的教育：\n毕业于：\n工作经验",
+      "generalInfoZh": "经济学家;\n律师；\n国家和地方行政管理硕士；\n公共管理和国际关系硕士。\nM.Kh.杜拉蒂塔拉兹州立大学；\n霍贾·艾哈迈德·亚萨维国际哈萨克-土耳其大学；\n哈萨克斯坦共和国总统领导的公共管理学院；\n法国国家行政学院。\n1998–2001 — 有限责任合伙企业“Kaznur”货币兑换办公室经理；\n2003-2007 — 有限责任合伙企业“Profile-Lux”总监；\n2007年至2013年——在阿斯塔纳阿拉木图区第二地方法院担任多个职务；\n2013年至2014年——在哈萨克斯坦共和国区域发展部担任管理职务；\n2014年至2016年——哈萨克斯坦共和国国民经济部副司长；\n2016年至2018年——哈萨克斯坦共和国投资和发展部投资委员会副主席；\n2018年至2019年——南哈萨克斯坦州副州长；\n2019–2021 — 董事总经理 — “国家管理控股”KazAgro”股份公司董事会成员；\n2023 年至 2026 年 — 哈萨克斯坦共和国农业部副部长。\n根据州长的命令，Yerbol Taszhurekov Kuanyshevich 被任命为科斯塔奈地区副长官。此前，他曾担任哈萨克斯坦共和国农业部副部长。\n1979 年出生于塔拉兹市。\n接受过以下专业的教育：\n毕业于：\n工作经验",
       "careerHistoryZh": "1. 确保：\n- 及时、高质量、全面执行科斯塔奈州经济、预算规划、金融、公共采购、市政财产和住房管理、医疗保健、就业协调和社会项目等领域的国家政策和区域计划；\n- 及时、高质量和全面执行哈萨克斯坦共和国总统、哈萨克斯坦共和国总理、哈萨克斯坦共和国总统办公厅、哈萨克斯坦共和国国务资政、哈萨克斯坦共和国政府办公厅的法令和指示以及科斯塔奈州行政长官和行政公署的法令和指示；\n- 与哈萨克斯坦共和国总统办公厅、哈萨克斯坦共和国政府办公室、哈萨克斯坦共和国中央政府机构及其领土部门以及其他政府机构和机构进行互动；\n- 协调责任领域的法律草案、政府法令、总理命令、总统法令、上诉、撤销原判上诉和私人投诉。\n2. 组织：\n- 起草预算制定、及时和高质量的规划，促进社会经济发展优先事项的有效实施；\n- 预算规划和执行；\n- 市政财产和住房管理；\n- 公共采购、与授权机构、公共采购单一运营商以及国家审计和财务控制机构的互动；\n- 劳动力市场发展，实施促进就业和减少失业的措施；\n- 提供专门的社会服务，协调医疗保健组织在医疗保健专门社会服务领域的活动，以及根据哈萨克斯坦共和国法律采取的其他社会和劳动措施；\n- 提供优质、便捷的医疗服务、健康保障、倡导健康生活方式。\n3、坐标：\n- 领土机构之间在实施经济、预算规划、财政、公共采购、市政财产和住房管理、医疗保健、就业和社会方案协调等领域的方案和综合措施方面的互动；\n- 在授权范围内与准公共部门组织、商业实体、国际和公共组织、基金会和其他企业进行互动。\n4. 管理：\n- 行政机关的结构部门在经济、预算规划、金融、公共采购、市政财产和住房管理、医疗保健、就业和社会计划协调等领域开展工作。\n5. 领导地区咨询和协调理事会和委员会（在指定的权力范围内）。",
-      "detailZh": "经济学家;\n律师；\n国家和地方行政管理硕士；\n公共管理和国际关系硕士。\nM.Kh.杜拉蒂塔拉兹州立大学；\n霍贾·艾哈迈德·亚萨维国际哈萨克-土耳其大学；\n哈萨克斯坦共和国总统领导的公共管理学院；\n法国国家行政学院。\n1998–2001 — TOO“Kaznur”货币兑换办公室经理；\n2003年–2007年 — TOO“Profile-Lux”总监；\n2007年至2013年——在阿斯塔纳阿拉木图区第二地方法院担任多个职务；\n2013年至2014年——在哈萨克斯坦共和国区域发展部担任管理职务；\n2014年至2016年——哈萨克斯坦共和国国民经济部副司长；\n2016年至2018年——哈萨克斯坦共和国投资和发展部投资委员会副主席；\n2018年至2019年——南哈萨克斯坦州副州长；\n2019–2021 — 董事总经理 — “国家管理控股”KazAgro”股份公司董事会成员；\n2023 年至 2026 年 — 哈萨克斯坦共和国农业部副部长。\n根据地区长官的命令，Yerbol Taszhurekov Kuanyshevich 被任命为库斯塔奈地区副长官。此前，他曾担任哈萨克斯坦共和国农业部副部长。\n1979 年出生于塔拉兹市。\n接受过以下专业的教育：\n毕业于：\n工作经验\n1. 确保：\n- 及时、高质量、全面执行科斯塔奈州经济、预算规划、金融、公共采购、市政财产和住房管理、医疗保健、就业协调和社会项目等领域的国家政策和区域计划；\n- 及时、高质量和全面执行哈萨克斯坦共和国总统、哈萨克斯坦共和国总理、哈萨克斯坦共和国总统办公厅、哈萨克斯坦共和国国务资政、哈萨克斯坦共和国政府办公厅的法令和指示以及科斯塔奈州行政长官和行政公署的法令和指示；\n- 与哈萨克斯坦共和国总统办公厅、哈萨克斯坦共和国政府办公室、哈萨克斯坦共和国中央政府机构及其领土部门以及其他政府机构和机构进行互动；\n- 协调责任领域的法律草案、政府法令、总理命令、总统法令、上诉、撤销原判上诉和私人投诉。\n2. 组织：\n- 起草预算制定、及时和高质量的规划，促进社会经济发展优先事项的有效实施；\n- 预算规划和执行；\n- 市政财产和住房管理；\n- 公共采购、与授权机构、公共采购单一运营商以及国家审计和财务控制机构的互动；\n- 劳动力市场发展，实施促进就业和减少失业的措施；\n- 提供专门的社会服务，协调医疗保健组织在医疗保健专门社会服务领域的活动，以及根据哈萨克斯坦共和国法律采取的其他社会和劳动措施；\n- 提供优质、便捷的医疗服务、健康保障、倡导健康生活方式。\n3、坐标：\n- 领土机构之间在实施经济、预算规划、财政、公共采购、市政财产和住房管理、医疗保健、就业和社会方案协调等领域的方案和综合措施方面的互动；\n- 在授权范围内与准公共部门组织、商业实体、国际和公共组织、基金会和其他企业进行互动。\n4. 管理：\n- 行政机关的结构部门在经济、预算规划、金融、公共采购、市政财产和住房管理、医疗保健、就业和社会计划协调等领域开展工作。\n5. 领导地区咨询和协调理事会和委员会（在指定的权力范围内）。"
+      "detailZh": "经济学家;\n律师；\n国家和地方行政管理硕士；\n公共管理和国际关系硕士。\nM.Kh.杜拉蒂塔拉兹州立大学；\n霍贾·艾哈迈德·亚萨维国际哈萨克-土耳其大学；\n哈萨克斯坦共和国总统领导的公共管理学院；\n法国国家行政学院。\n1998–2001 — 有限责任合伙企业“Kaznur”货币兑换办公室经理；\n2003-2007 — 有限责任合伙企业“Profile-Lux”总监；\n2007年至2013年——在阿斯塔纳阿拉木图区第二地方法院担任多个职务；\n2013年至2014年——在哈萨克斯坦共和国区域发展部担任管理职务；\n2014年至2016年——哈萨克斯坦共和国国民经济部副司长；\n2016年至2018年——哈萨克斯坦共和国投资和发展部投资委员会副主席；\n2018年至2019年——南哈萨克斯坦州副州长；\n2019–2021 — 董事总经理 — “国家管理控股”KazAgro”股份公司董事会成员；\n2023 年至 2026 年 — 哈萨克斯坦共和国农业部副部长。\n根据州长的命令，Yerbol Taszhurekov Kuanyshevich 被任命为科斯塔奈地区副长官。此前，他曾担任哈萨克斯坦共和国农业部副部长。\n1979 年出生于塔拉兹市。\n接受过以下专业的教育：\n毕业于：\n工作经验\n1. 确保：\n- 及时、高质量、全面执行科斯塔奈州经济、预算规划、金融、公共采购、市政财产和住房管理、医疗保健、就业协调和社会项目等领域的国家政策和区域计划；\n- 及时、高质量和全面执行哈萨克斯坦共和国总统、哈萨克斯坦共和国总理、哈萨克斯坦共和国总统办公厅、哈萨克斯坦共和国国务资政、哈萨克斯坦共和国政府办公厅的法令和指示以及科斯塔奈州行政长官和行政公署的法令和指示；\n- 与哈萨克斯坦共和国总统办公厅、哈萨克斯坦共和国政府办公室、哈萨克斯坦共和国中央政府机构及其领土部门以及其他政府机构和机构进行互动；\n- 协调责任领域的法律草案、政府法令、总理命令、总统法令、上诉、撤销原判上诉和私人投诉。\n2. 组织：\n- 起草预算制定、及时和高质量的规划，促进社会经济发展优先事项的有效实施；\n- 预算规划和执行；\n- 市政财产和住房管理；\n- 公共采购、与授权机构、公共采购单一运营商以及国家审计和财务控制机构的互动；\n- 劳动力市场发展，实施促进就业和减少失业的措施；\n- 提供专门的社会服务，协调医疗保健组织在医疗保健专门社会服务领域的活动，以及根据哈萨克斯坦共和国法律采取的其他社会和劳动措施；\n- 提供优质、便捷的医疗服务、健康保障、倡导健康生活方式。\n3、坐标：\n- 领土机构之间在实施经济、预算规划、财政、公共采购、市政财产和住房管理、医疗保健、就业和社会方案协调等领域的方案和综合措施方面的互动；\n- 在授权范围内与准公共部门组织、商业实体、国际和公共组织、基金会和其他企业进行互动。\n4. 管理：\n- 行政机关的结构部门在经济、预算规划、金融、公共采购、市政财产和住房管理、医疗保健、就业和社会计划协调等领域开展工作。\n5. 领导地区咨询和协调理事会和委员会（在指定的权力范围内）。"
     },
     {
       "id": 1220,
@@ -1887,10 +1887,10 @@
       "position": "Deputy Mayor of Kostanay region",
       "positionZh": "科斯塔奈州副州长",
       "responsibilities": "Physical culture and sport\nEducation\nCulture",
-      "workScopeZh": "体育和运动",
+      "workScopeZh": "体育和运动、教育、文化",
       "order": "4",
       "levelPosition": "Deputy Akim",
-      "sourceIndex": 22,
+      "sourceIndex": 21,
       "photo": "https://www.gov.kz/uploads/2025/4/29/aa1de0a4b78d6713d2b2299962110927_original.1864546.JPG",
       "phone": "8 (7142) 575-005",
       "receptionPhone": "8 (7142) 575-005",
@@ -2811,10 +2811,10 @@
       "position": "Deputy Mayor of Kostanay region",
       "positionZh": "科斯塔奈州副州长",
       "responsibilities": "Ecological situation\nTransport\nTaza Kazakhstan",
-      "workScopeZh": "交通",
+      "workScopeZh": "生态环境、交通、“清洁哈萨克斯坦”项目",
       "order": "5",
       "levelPosition": "Deputy Akim",
-      "sourceIndex": 21,
+      "sourceIndex": 20,
       "photo": "https://www.gov.kz/uploads/2024/10/7/bc693948a8706092204bddff947cd489_original.48387.jpeg",
       "phone": "8 (7142) 575-004",
       "receptionPhone": "8 (7142) 575-004",
@@ -3086,12 +3086,12 @@
       "name": "Sandybayev Murat Mirtayevich",
       "nameZh": "Sandybayev Murat Mirtayevich",
       "position": "Chief of Staff",
-      "positionZh": "办公室主任",
+      "positionZh": "科斯塔奈州州长办公室主任",
       "responsibilities": "",
       "workScopeZh": "官方页面未列出单独工作范围。",
       "order": "6",
       "levelPosition": "Head of apparatus",
-      "sourceIndex": 24,
+      "sourceIndex": 23,
       "photo": "https://www.gov.kz/uploads/2023/4/21/fbd039ff0223b5da0462538021b54f5f_original.86089.jpeg",
       "phone": "8-7142-575-009",
       "receptionPhone": "8-7142-575-009",
@@ -3690,7 +3690,7 @@
       "name": "Sandybaev Murat Миртаевич",
       "nameZh": "Sandybaev Murat Миртаевич",
       "position": "Deputy Head of the Akim of the region",
-      "positionZh": "部门负责人",
+      "positionZh": "科斯塔奈州州长办公室副主任",
       "responsibilities": "",
       "workScopeZh": "官方页面未列出单独工作范围。",
       "order": "8",
@@ -3751,7 +3751,7 @@
         },
         {
           "type": "paragraph",
-          "text": "2013年至2015年，担任科斯塔奈地区阿基姆机构首席专家、首席督察、组织控制工作部负责人。",
+          "text": "2013年至2015年，担任科斯塔奈地区州长办公室首席专家、首席督察、组织控制工作部负责人。",
           "sourceText": "In 2013-2015, he worked as a chief specialist, chief inspector and head of the department of organizational and control work of the apparatus of akim of Kostanai region."
         },
         {
@@ -3766,13 +3766,13 @@
         },
         {
           "type": "paragraph",
-          "text": "2018年4月，被任命为科斯塔奈地区阿基姆副参谋长",
+          "text": "2018年4月，被任命为科斯塔奈地区州长副参谋长",
           "sourceText": "In April 2018, he was appointed deputy chief of staff of the akim of the Kostanai region"
         }
       ],
       "generalInfoZh": "Sandybaev Murat Mirtaevich 出生于 1988 年。拜图尔瑟诺夫 A.，科斯塔奈州立大学，信息系统程序员。经济与工商管理硕士",
-      "careerHistoryZh": "他于 2010 年开始了自己的职业生涯，担任科斯塔奈地区政府信息技术部门的计算机支持和公共服务监控专家。\n2013年至2015年，担任科斯塔奈地区阿基姆机构首席专家、首席督察、组织控制工作部负责人。\n2015年至2016年，他担任科斯塔奈地区长官的助理。\n2016年11月，他被任命为费多罗夫斯基区副区长。\n2018年4月，被任命为科斯塔奈地区阿基姆副参谋长",
-      "detailZh": "Sandybaev Murat Mirtaevich 出生于 1988 年。拜图尔瑟诺夫 A.，科斯塔奈州立大学，信息系统程序员。经济与工商管理硕士\n他于 2010 年开始了自己的职业生涯，担任科斯塔奈地区政府信息技术部门的计算机支持和公共服务监控专家。\n2013年至2015年，担任科斯塔奈地区阿基姆机构首席专家、首席督察、组织控制工作部负责人。\n2015年至2016年，他担任科斯塔奈地区长官的助理。\n2016年11月，他被任命为费多罗夫斯基区副区长。\n2018年4月，被任命为科斯塔奈地区阿基姆副参谋长"
+      "careerHistoryZh": "他于 2010 年开始了自己的职业生涯，担任科斯塔奈地区政府信息技术部门的计算机支持和公共服务监控专家。\n2013年至2015年，担任科斯塔奈地区州长办公室首席专家、首席督察、组织控制工作部负责人。\n2015年至2016年，他担任科斯塔奈地区长官的助理。\n2016年11月，他被任命为费多罗夫斯基区副区长。\n2018年4月，被任命为科斯塔奈地区州长副参谋长",
+      "detailZh": "Sandybaev Murat Mirtaevich 出生于 1988 年。拜图尔瑟诺夫 A.，科斯塔奈州立大学，信息系统程序员。经济与工商管理硕士\n他于 2010 年开始了自己的职业生涯，担任科斯塔奈地区政府信息技术部门的计算机支持和公共服务监控专家。\n2013年至2015年，担任科斯塔奈地区州长办公室首席专家、首席督察、组织控制工作部负责人。\n2015年至2016年，他担任科斯塔奈地区长官的助理。\n2016年11月，他被任命为费多罗夫斯基区副区长。\n2018年4月，被任命为科斯塔奈地区州长副参谋长"
     },
     {
       "id": 5709,
@@ -4352,7 +4352,7 @@
               },
               {
                 "type": "cell",
-                "text": "库斯塔奈市政府机构内部政策和社会文化发展部部长",
+                "text": "科斯塔奈市政府机构内部政策和社会文化发展部部长",
                 "header": false,
                 "sourceText": "Head of the Department of Internal Policy and Socio -cultural development of the akim&rsquo;s apparatus of the city of Kostanay"
               }
@@ -4492,7 +4492,7 @@
               },
               {
                 "type": "cell",
-                "text": "非政府组织“Nur Otan”党库斯塔奈地区分部组织和控制工作部部长",
+                "text": "非政府组织“Nur Otan”党科斯塔奈地区分部组织和控制工作部部长",
                 "header": false,
                 "sourceText": "Head of the Department of Organizational and Control Work of the Kostanay Regional Branch of the NGO “Party “Nur Otan ””"
               }
@@ -4506,13 +4506,13 @@
               },
               {
                 "type": "cell",
-                "text": "科斯塔奈州州长办公室伦理专员",
+                "text": "",
                 "header": false,
                 "sourceText": ""
               },
               {
                 "type": "cell",
-                "text": "中文译文待同步，请以页面底部来源链接为准。",
+                "text": "科斯塔奈州州长办公室伦理专员",
                 "header": false,
                 "sourceText": "Ethics Commissioner of the Akim's Office of Kostanay Region"
               }
@@ -4521,15 +4521,15 @@
         }
       ],
       "generalInfoZh": "1966 年 7 月 5 日出生。科斯塔奈地区塞米奥泽尔尼区 绍班科尔 村。\n科斯塔奈州立大学以 A. 拜图尔瑟诺夫 (1999)的历史命名\n科斯塔奈州立大学以 A. 拜图尔瑟诺夫 (2004) 法理学命名\n哈萨克斯坦共和国总统公共管理学院（2024年）商业与管理硕士",
-      "careerHistoryZh": "1983年 | 1984年 | 采林内 国营农场的师、艺术家和设计师。科斯塔奈州塞米奥泽尔尼区\n1984年 | 1986年 | 卡普恰盖 汽车运输企业, 卡普恰盖, 阿拉木图地区的汽车修理工\n1986年 | 1987年 | 采林内 国营农场建筑工地的工人。科斯塔奈州塞米奥泽尔尼区\n1987年 | 1989年 | 俄罗斯联邦秋明州苏军士兵\n1989年 | 1992年 | 采林内 国营农场的画家。科斯塔奈州塞米奥泽尔尼区\n1992年 | 1994年 | 采林内 国营农场青年工作副主任。科斯塔奈州塞米奥泽尔尼区\n1994年 | 1995年 | 采林内 国营农场工会委员会主席。科斯塔奈州塞米奥泽尔尼区\n1995年 | 1998年 | 采林纳亚 中学教师。 奥利耶科尔区 科斯塔奈地区\n1998年 | 2000年 | 图尔古姆巴耶娃村的行政长官。 奥利耶科尔区 科斯塔奈地区\n2001年 | 2002年 | 库斯塔奈市政府机构内部政策和社会文化发展部部长\n2002年 | 2005年 | 科斯塔奈州内部政策部公共组织和宗教协会工作司司长\n2005年 | 2006年 | 科斯塔奈州州长办公室信息部主任\n2006年 | 2007年 | 塔拉诺夫斯基区副区长。科斯塔奈州\n2007年 | 2009年 | 科斯塔奈州内政部信息政策和媒体监测司司长\n2009年 | 201 2 | 首席监察员 - 科斯塔奈州行政长官新闻秘书、科斯塔奈州行政长官机构副主任\n2012年 | 2016年 | 科斯塔奈州州长办公室社会政治部主任\n2016年 | 2017年 | 非政府组织“Nur Otan”党库斯塔奈地区分部组织和控制工作部部长\n2017年 | 科斯塔奈州州长办公室伦理专员 | 中文译文待同步，请以页面底部来源链接为准。",
-      "detailZh": "1966 年 7 月 5 日出生。科斯塔奈地区塞米奥泽尔尼区 绍班科尔 村。\n科斯塔奈州立大学以 A. 拜图尔瑟诺夫 (1999)的历史命名\n科斯塔奈州立大学以 A. 拜图尔瑟诺夫 (2004) 法理学命名\n哈萨克斯坦共和国总统公共管理学院（2024年）商业与管理硕士\n1983年 | 1984年 | 采林内 国营农场的师、艺术家和设计师。科斯塔奈州塞米奥泽尔尼区\n1984年 | 1986年 | 卡普恰盖 汽车运输企业, 卡普恰盖, 阿拉木图地区的汽车修理工\n1986年 | 1987年 | 采林内 国营农场建筑工地的工人。科斯塔奈州塞米奥泽尔尼区\n1987年 | 1989年 | 俄罗斯联邦秋明州苏军士兵\n1989年 | 1992年 | 采林内 国营农场的画家。科斯塔奈州塞米奥泽尔尼区\n1992年 | 1994年 | 采林内 国营农场青年工作副主任。科斯塔奈州塞米奥泽尔尼区\n1994年 | 1995年 | 采林内 国营农场工会委员会主席。科斯塔奈州塞米奥泽尔尼区\n1995年 | 1998年 | 采林纳亚 中学教师。 奥利耶科尔区 科斯塔奈地区\n1998年 | 2000年 | 图尔古姆巴耶娃村的行政长官。 奥利耶科尔区 科斯塔奈地区\n2001年 | 2002年 | 库斯塔奈市政府机构内部政策和社会文化发展部部长\n2002年 | 2005年 | 科斯塔奈州内部政策部公共组织和宗教协会工作司司长\n2005年 | 2006年 | 科斯塔奈州州长办公室信息部主任\n2006年 | 2007年 | 塔拉诺夫斯基区副区长。科斯塔奈州\n2007年 | 2009年 | 科斯塔奈州内政部信息政策和媒体监测司司长\n2009年 | 201 2 | 首席监察员 - 科斯塔奈州行政长官新闻秘书、科斯塔奈州行政长官机构副主任\n2012年 | 2016年 | 科斯塔奈州州长办公室社会政治部主任\n2016年 | 2017年 | 非政府组织“Nur Otan”党库斯塔奈地区分部组织和控制工作部部长\n2017年 | 科斯塔奈州州长办公室伦理专员 | 中文译文待同步，请以页面底部来源链接为准。"
+      "careerHistoryZh": "1983年 | 1984年 | 采林内 国营农场的师、艺术家和设计师。科斯塔奈州塞米奥泽尔尼区\n1984年 | 1986年 | 卡普恰盖 汽车运输企业, 卡普恰盖, 阿拉木图地区的汽车修理工\n1986年 | 1987年 | 采林内 国营农场建筑工地的工人。科斯塔奈州塞米奥泽尔尼区\n1987年 | 1989年 | 俄罗斯联邦秋明州苏军士兵\n1989年 | 1992年 | 采林内 国营农场的画家。科斯塔奈州塞米奥泽尔尼区\n1992年 | 1994年 | 采林内 国营农场青年工作副主任。科斯塔奈州塞米奥泽尔尼区\n1994年 | 1995年 | 采林内 国营农场工会委员会主席。科斯塔奈州塞米奥泽尔尼区\n1995年 | 1998年 | 采林纳亚 中学教师。 奥利耶科尔区 科斯塔奈地区\n1998年 | 2000年 | 图尔古姆巴耶娃村的行政长官。 奥利耶科尔区 科斯塔奈地区\n2001年 | 2002年 | 科斯塔奈市政府机构内部政策和社会文化发展部部长\n2002年 | 2005年 | 科斯塔奈州内部政策部公共组织和宗教协会工作司司长\n2005年 | 2006年 | 科斯塔奈州州长办公室信息部主任\n2006年 | 2007年 | 塔拉诺夫斯基区副区长。科斯塔奈州\n2007年 | 2009年 | 科斯塔奈州内政部信息政策和媒体监测司司长\n2009年 | 201 2 | 首席监察员 - 科斯塔奈州行政长官新闻秘书、科斯塔奈州行政长官机构副主任\n2012年 | 2016年 | 科斯塔奈州州长办公室社会政治部主任\n2016年 | 2017年 | 非政府组织“Nur Otan”党科斯塔奈地区分部组织和控制工作部部长\n2017年 | 科斯塔奈州州长办公室伦理专员",
+      "detailZh": "1966 年 7 月 5 日出生。科斯塔奈地区塞米奥泽尔尼区 绍班科尔 村。\n科斯塔奈州立大学以 A. 拜图尔瑟诺夫 (1999)的历史命名\n科斯塔奈州立大学以 A. 拜图尔瑟诺夫 (2004) 法理学命名\n哈萨克斯坦共和国总统公共管理学院（2024年）商业与管理硕士\n1983年 | 1984年 | 采林内 国营农场的师、艺术家和设计师。科斯塔奈州塞米奥泽尔尼区\n1984年 | 1986年 | 卡普恰盖 汽车运输企业, 卡普恰盖, 阿拉木图地区的汽车修理工\n1986年 | 1987年 | 采林内 国营农场建筑工地的工人。科斯塔奈州塞米奥泽尔尼区\n1987年 | 1989年 | 俄罗斯联邦秋明州苏军士兵\n1989年 | 1992年 | 采林内 国营农场的画家。科斯塔奈州塞米奥泽尔尼区\n1992年 | 1994年 | 采林内 国营农场青年工作副主任。科斯塔奈州塞米奥泽尔尼区\n1994年 | 1995年 | 采林内 国营农场工会委员会主席。科斯塔奈州塞米奥泽尔尼区\n1995年 | 1998年 | 采林纳亚 中学教师。 奥利耶科尔区 科斯塔奈地区\n1998年 | 2000年 | 图尔古姆巴耶娃村的行政长官。 奥利耶科尔区 科斯塔奈地区\n2001年 | 2002年 | 科斯塔奈市政府机构内部政策和社会文化发展部部长\n2002年 | 2005年 | 科斯塔奈州内部政策部公共组织和宗教协会工作司司长\n2005年 | 2006年 | 科斯塔奈州州长办公室信息部主任\n2006年 | 2007年 | 塔拉诺夫斯基区副区长。科斯塔奈州\n2007年 | 2009年 | 科斯塔奈州内政部信息政策和媒体监测司司长\n2009年 | 201 2 | 首席监察员 - 科斯塔奈州行政长官新闻秘书、科斯塔奈州行政长官机构副主任\n2012年 | 2016年 | 科斯塔奈州州长办公室社会政治部主任\n2016年 | 2017年 | 非政府组织“Nur Otan”党科斯塔奈地区分部组织和控制工作部部长\n2017年 | 科斯塔奈州州长办公室伦理专员"
     },
     {
       "id": 5792,
       "name": "Байсекенова Гульнара Дартаевна",
       "nameZh": "Байсекенова Гульнара Дартаевна",
       "position": "Руководитель службы внутреннего аудита",
-      "positionZh": "部门负责人",
+      "positionZh": "内部审计服务负责人",
       "responsibilities": "",
       "workScopeZh": "官方页面未列出单独工作范围。",
       "order": "",
@@ -4559,7 +4559,7 @@
       "name": "Accuzhina Bibigul Berkutova",
       "nameZh": "Accuzhina Bibigul Berkutova",
       "position": "Head of the Secretariat of the regional assemblies of people of Kazakhstan",
-      "positionZh": "部门负责人",
+      "positionZh": "秘书处负责人",
       "responsibilities": "",
       "workScopeZh": "官方页面未列出单独工作范围。",
       "order": "",
@@ -4953,7 +4953,7 @@
       "name": "Abdullina Bizhamal Serikbayevna",
       "nameZh": "Abdullina Bizhamal Serikbayevna",
       "position": "Head of the Financial Support Department",
-      "positionZh": "部门负责人",
+      "positionZh": "财务与会计处负责人",
       "responsibilities": "",
       "workScopeZh": "官方页面未列出单独工作范围。",
       "order": "",
@@ -5440,7 +5440,7 @@
       "name": "Murzabulatova Anar Taimagambetova",
       "nameZh": "Murzabulatova Anar Taimagambetova",
       "position": "Head of the Department for the Protection of State Secrets and Information Security",
-      "positionZh": "部门负责人",
+      "positionZh": "国家秘密与信息安全负责人",
       "responsibilities": "",
       "workScopeZh": "官方页面未列出单独工作范围。",
       "order": "",
@@ -5844,7 +5844,7 @@
       "name": "Vacancy .",
       "nameZh": "Vacancy .",
       "position": "Head of the Department for mobilization training, prevention and prevention of terrorism",
-      "positionZh": "部门负责人",
+      "positionZh": "执法机关协作与反恐工作处负责人",
       "responsibilities": "",
       "workScopeZh": "官方页面未列出单独工作范围。",
       "order": "",
@@ -5874,7 +5874,7 @@
       "name": "Ismagambetova Aliya Alshimbayevna",
       "nameZh": "Ismagambetova Aliya Alshimbayevna",
       "position": "Head of the Organizational and Inspection Department",
-      "positionZh": "部门负责人",
+      "positionZh": "组织监督处负责人",
       "responsibilities": "",
       "workScopeZh": "官方页面未列出单独工作范围。",
       "order": "",
@@ -6368,7 +6368,7 @@
       "name": "Muzdubaev Timur Serikovich",
       "nameZh": "Muzdubaev Timur Serikovich",
       "position": "Adviser to the mayor-head of the Department for monitoring the consideration of Appeals",
-      "positionZh": "部门负责人",
+      "positionZh": "科斯塔奈州州长顾问兼信访办理监督处负责人",
       "responsibilities": "",
       "workScopeZh": "官方页面未列出单独工作范围。",
       "order": "",
@@ -6644,7 +6644,7 @@
       "name": "Erdesova Gulldariya Tanatkhanovna",
       "nameZh": "Erdesova Gulldariya Tanatkhanovna",
       "position": "Head of the Internal Audit Service",
-      "positionZh": "部门负责人",
+      "positionZh": "内部审计服务负责人",
       "responsibilities": "",
       "workScopeZh": "官方页面未列出单独工作范围。",
       "order": "",
@@ -7485,7 +7485,7 @@
       "name": "Kadambaeva Dina Serikbaevna",
       "nameZh": "Kadambaeva Dina Serikbaevna",
       "position": "Head of the state legal Department",
-      "positionZh": "部门负责人",
+      "positionZh": "国家法律事务处负责人",
       "responsibilities": "",
       "workScopeZh": "官方页面未列出单独工作范围。",
       "order": "",
@@ -7599,7 +7599,7 @@
       "name": "Boshanov Bagytbek Akhmetkanovich",
       "nameZh": "Boshanov Bagytbek Akhmetkanovich",
       "position": "Head of information technology Department",
-      "positionZh": "部门负责人",
+      "positionZh": "信息技术处负责人",
       "responsibilities": "",
       "workScopeZh": "官方页面未列出单独工作范围。",
       "order": "",
@@ -7865,7 +7865,7 @@
               },
               {
                 "type": "cell",
-                "text": "综合部首席专家（自 2003 年 3 月起 - 文件支持部） Akim 科斯塔奈地区办公室",
+                "text": "综合部首席专家（自 2003 年 3 月起 - 文件支持部）区长 科斯塔奈地区办公室",
                 "header": false,
                 "sourceText": "Chief specialist of the General Department (from 03.2003 – Department of Documentation Support) Akim's office for Kostanay Region"
               }
@@ -7994,15 +7994,15 @@
         }
       ],
       "generalInfoZh": "教育机构： 科斯塔奈社会技术大学\n教育程度：高等教育\n毕业年份：2005年\n学习国家：哈萨克斯坦共和国\n专业：金融与信贷\n教育机构：卡拉干达卡兹波特雷布索尤兹经济大学\n教育程度：高等教育\n毕业年份：2015年\n学习国家：哈萨克斯坦共和国\n专业：信息系统",
-      "careerHistoryZh": "1999年4月12日 | 2004年12月31日 | 综合部首席专家（自 2003 年 3 月起 - 文件支持部） Akim 科斯塔奈地区办公室\n2006年3月2日 | 2007年1月18日 | 行政长官科斯塔奈地区办公室组织与控制工作部首席专家\n2007年1月18日 | 2009年8月28日 | 行政长官 科斯塔奈地区办公室信息技术部首席专家\n2009年8月28日 | 2009年8月31日 | 科斯塔奈地区 行政长官办公室信息技术部，该地区首席督察\n2009年9月1日 | 2016年9月23日 | 信息技术和公共服务监测部首席督察\n2022年1月5日 | 2022年3月9日 | 科斯塔奈地区 行政长官办公室信息技术和公共服务监测部代理主任\n2022年3月10日 | 至今 | 行政长官 科斯塔奈州办公室信息技术部负责人",
-      "detailZh": "教育机构： 科斯塔奈社会技术大学\n教育程度：高等教育\n毕业年份：2005年\n学习国家：哈萨克斯坦共和国\n专业：金融与信贷\n教育机构：卡拉干达卡兹波特雷布索尤兹经济大学\n教育程度：高等教育\n毕业年份：2015年\n学习国家：哈萨克斯坦共和国\n专业：信息系统\n1999年4月12日 | 2004年12月31日 | 综合部首席专家（自 2003 年 3 月起 - 文件支持部） Akim 科斯塔奈地区办公室\n2006年3月2日 | 2007年1月18日 | 行政长官科斯塔奈地区办公室组织与控制工作部首席专家\n2007年1月18日 | 2009年8月28日 | 行政长官 科斯塔奈地区办公室信息技术部首席专家\n2009年8月28日 | 2009年8月31日 | 科斯塔奈地区 行政长官办公室信息技术部，该地区首席督察\n2009年9月1日 | 2016年9月23日 | 信息技术和公共服务监测部首席督察\n2022年1月5日 | 2022年3月9日 | 科斯塔奈地区 行政长官办公室信息技术和公共服务监测部代理主任\n2022年3月10日 | 至今 | 行政长官 科斯塔奈州办公室信息技术部负责人"
+      "careerHistoryZh": "1999年4月12日 | 2004年12月31日 | 综合部首席专家（自 2003 年 3 月起 - 文件支持部）区长 科斯塔奈地区办公室\n2006年3月2日 | 2007年1月18日 | 行政长官科斯塔奈地区办公室组织与控制工作部首席专家\n2007年1月18日 | 2009年8月28日 | 行政长官 科斯塔奈地区办公室信息技术部首席专家\n2009年8月28日 | 2009年8月31日 | 科斯塔奈地区 行政长官办公室信息技术部，该地区首席督察\n2009年9月1日 | 2016年9月23日 | 信息技术和公共服务监测部首席督察\n2022年1月5日 | 2022年3月9日 | 科斯塔奈地区 行政长官办公室信息技术和公共服务监测部代理主任\n2022年3月10日 | 至今 | 行政长官 科斯塔奈州办公室信息技术部负责人",
+      "detailZh": "教育机构： 科斯塔奈社会技术大学\n教育程度：高等教育\n毕业年份：2005年\n学习国家：哈萨克斯坦共和国\n专业：金融与信贷\n教育机构：卡拉干达卡兹波特雷布索尤兹经济大学\n教育程度：高等教育\n毕业年份：2015年\n学习国家：哈萨克斯坦共和国\n专业：信息系统\n1999年4月12日 | 2004年12月31日 | 综合部首席专家（自 2003 年 3 月起 - 文件支持部）区长 科斯塔奈地区办公室\n2006年3月2日 | 2007年1月18日 | 行政长官科斯塔奈地区办公室组织与控制工作部首席专家\n2007年1月18日 | 2009年8月28日 | 行政长官 科斯塔奈地区办公室信息技术部首席专家\n2009年8月28日 | 2009年8月31日 | 科斯塔奈地区 行政长官办公室信息技术部，该地区首席督察\n2009年9月1日 | 2016年9月23日 | 信息技术和公共服务监测部首席督察\n2022年1月5日 | 2022年3月9日 | 科斯塔奈地区 行政长官办公室信息技术和公共服务监测部代理主任\n2022年3月10日 | 至今 | 行政长官 科斯塔奈州办公室信息技术部负责人"
     },
     {
       "id": 5783,
       "name": "Makasheva Dinara Kakmanovna",
       "nameZh": "Makasheva Dinara Kakmanovna",
       "position": "Head of the unified personnel management service (HR department)",
-      "positionZh": "部门负责人",
+      "positionZh": "人事管理服务负责人",
       "responsibilities": "",
       "workScopeZh": "官方页面未列出单独工作范围。",
       "order": "",
@@ -8235,7 +8235,7 @@
               },
               {
                 "type": "cell",
-                "text": "科斯塔奈地区萨雷科尔定居点 SI“萨雷科尔区 Akim 办公室”秘书",
+                "text": "科斯塔奈地区萨雷科尔定居点 国家机构“萨雷科尔区州长办公室”秘书",
                 "header": false,
                 "sourceText": "Secretary, SI \"Akim&rsquo;s Office of Sarykol District\", Sarykol settlement, Kostanay Region"
               }
@@ -8255,7 +8255,7 @@
               },
               {
                 "type": "cell",
-                "text": "科斯塔奈地区 SI“Sarykol 区 Akim 办公室”代理首席专家",
+                "text": "代理主任专家，国家机构“萨雷科尔区区长办公室”，科斯塔奈州",
                 "header": false,
                 "sourceText": "Acting Leading Specialist, SI \"Akim&rsquo;s Office of Sarykol District\", Kostanay Region"
               }
@@ -8275,7 +8275,7 @@
               },
               {
                 "type": "cell",
-                "text": "科斯塔奈地区萨利科尔定居点 SI“萨利科尔区 Akim 办公室”首席专家",
+                "text": "科斯塔奈地区萨利科尔定居点 国家机构“萨利科尔区州长办公室”首席专家",
                 "header": false,
                 "sourceText": "Leading Specialist, SI \"Akim&rsquo;s Office of Sarykol District\", Sarykol settlement, Kostanay Region"
               }
@@ -8295,7 +8295,7 @@
               },
               {
                 "type": "cell",
-                "text": "库斯塔奈地区萨雷科尔定居点 SI“萨雷科尔区 Akim 办公室”组织、控制和人事工作部部长",
+                "text": "科斯塔奈地区萨雷科尔定居点 国家机构“萨雷科尔区州长办公室”组织、控制和人事工作部部长",
                 "header": false,
                 "sourceText": "Head of the Department of Organizational, Control and Personnel Work, SI \"Akim&rsquo;s Office of Sarykol District\", Sarykol settlement, Kostanay Region"
               }
@@ -8315,7 +8315,7 @@
               },
               {
                 "type": "cell",
-                "text": "统一人力资源管理服务（人力资源服务）首席督察，SI“库斯塔奈地区阿基姆办公室”，库斯塔奈",
+                "text": "统一人力资源管理服务（人力资源服务）首席督察，国家机构“科斯塔奈州长办公室”，科斯塔奈",
                 "header": false,
                 "sourceText": "Chief Inspector of the Unified Human Resources Management Service (HR Service), SI \"Akim&rsquo;s Office of Kostanay Region\", Kostanay"
               }
@@ -8335,7 +8335,7 @@
               },
               {
                 "type": "cell",
-                "text": "统一人力资源管理服务（人力资源服务）负责人，SI“库斯塔奈地区 Akim 办公室”，库斯塔奈",
+                "text": "国家机构“科斯塔奈地区州长办公室”统一人力资源管理服务（人力资源服务）负责人，科斯塔奈",
                 "header": false,
                 "sourceText": "Head of the Unified Human Resources Management Service (HR Service), SI \"Akim&rsquo;s Office of Kostanay Region\", Kostanay"
               }
@@ -8344,15 +8344,15 @@
         }
       ],
       "generalInfoZh": "2006年，她毕业于以Z. 阿尔达姆扎尔（科斯塔奈）命名的科斯塔奈社会技术大学，获得“法学”学位。",
-      "careerHistoryZh": "1992年11月25日 | 1994年2月1日 | 科斯塔奈地区乌里茨基定居点乌里茨基区教育部秘书\n1994年2月16日 | 1999年11月26日 | 科斯塔奈州乌里茨基定居点乌里茨基地区医院秘书\n2000年6月12日 | 2004年9月8日 | 科斯塔奈地区萨雷科尔定居点 SI“萨雷科尔区 Akim 办公室”秘书\n2004年9月9日 | 2004年10月7日 | 科斯塔奈地区 SI“Sarykol 区 Akim 办公室”代理首席专家\n2004年10月8日 | 2007年6月6日 | 科斯塔奈地区萨利科尔定居点 SI“萨利科尔区 Akim 办公室”首席专家\n2007年6月7日 | 2016年7月26日 | 库斯塔奈地区萨雷科尔定居点 SI“萨雷科尔区 Akim 办公室”组织、控制和人事工作部部长\n2016年7月27日 | 2025年11月30日 | 统一人力资源管理服务（人力资源服务）首席督察，SI“库斯塔奈地区阿基姆办公室”，库斯塔奈\n2025年12月1日 | 至今 | 统一人力资源管理服务（人力资源服务）负责人，SI“库斯塔奈地区 Akim 办公室”，库斯塔奈",
-      "detailZh": "2006年，她毕业于以Z. 阿尔达姆扎尔（科斯塔奈）命名的科斯塔奈社会技术大学，获得“法学”学位。\n1992年11月25日 | 1994年2月1日 | 科斯塔奈地区乌里茨基定居点乌里茨基区教育部秘书\n1994年2月16日 | 1999年11月26日 | 科斯塔奈州乌里茨基定居点乌里茨基地区医院秘书\n2000年6月12日 | 2004年9月8日 | 科斯塔奈地区萨雷科尔定居点 SI“萨雷科尔区 Akim 办公室”秘书\n2004年9月9日 | 2004年10月7日 | 科斯塔奈地区 SI“Sarykol 区 Akim 办公室”代理首席专家\n2004年10月8日 | 2007年6月6日 | 科斯塔奈地区萨利科尔定居点 SI“萨利科尔区 Akim 办公室”首席专家\n2007年6月7日 | 2016年7月26日 | 库斯塔奈地区萨雷科尔定居点 SI“萨雷科尔区 Akim 办公室”组织、控制和人事工作部部长\n2016年7月27日 | 2025年11月30日 | 统一人力资源管理服务（人力资源服务）首席督察，SI“库斯塔奈地区阿基姆办公室”，库斯塔奈\n2025年12月1日 | 至今 | 统一人力资源管理服务（人力资源服务）负责人，SI“库斯塔奈地区 Akim 办公室”，库斯塔奈"
+      "careerHistoryZh": "1992年11月25日 | 1994年2月1日 | 科斯塔奈地区乌里茨基定居点乌里茨基区教育部秘书\n1994年2月16日 | 1999年11月26日 | 科斯塔奈州乌里茨基定居点乌里茨基地区医院秘书\n2000年6月12日 | 2004年9月8日 | 科斯塔奈地区萨雷科尔定居点 国家机构“萨雷科尔区州长办公室”秘书\n2004年9月9日 | 2004年10月7日 | 代理主任专家，国家机构“萨雷科尔区区长办公室”，科斯塔奈州\n2004年10月8日 | 2007年6月6日 | 科斯塔奈地区萨利科尔定居点 国家机构“萨利科尔区州长办公室”首席专家\n2007年6月7日 | 2016年7月26日 | 科斯塔奈地区萨雷科尔定居点 国家机构“萨雷科尔区州长办公室”组织、控制和人事工作部部长\n2016年7月27日 | 2025年11月30日 | 统一人力资源管理服务（人力资源服务）首席督察，国家机构“科斯塔奈州长办公室”，科斯塔奈\n2025年12月1日 | 至今 | 国家机构“科斯塔奈地区州长办公室”统一人力资源管理服务（人力资源服务）负责人，科斯塔奈",
+      "detailZh": "2006年，她毕业于以Z. 阿尔达姆扎尔（科斯塔奈）命名的科斯塔奈社会技术大学，获得“法学”学位。\n1992年11月25日 | 1994年2月1日 | 科斯塔奈地区乌里茨基定居点乌里茨基区教育部秘书\n1994年2月16日 | 1999年11月26日 | 科斯塔奈州乌里茨基定居点乌里茨基地区医院秘书\n2000年6月12日 | 2004年9月8日 | 科斯塔奈地区萨雷科尔定居点 国家机构“萨雷科尔区州长办公室”秘书\n2004年9月9日 | 2004年10月7日 | 代理主任专家，国家机构“萨雷科尔区区长办公室”，科斯塔奈州\n2004年10月8日 | 2007年6月6日 | 科斯塔奈地区萨利科尔定居点 国家机构“萨利科尔区州长办公室”首席专家\n2007年6月7日 | 2016年7月26日 | 科斯塔奈地区萨雷科尔定居点 国家机构“萨雷科尔区州长办公室”组织、控制和人事工作部部长\n2016年7月27日 | 2025年11月30日 | 统一人力资源管理服务（人力资源服务）首席督察，国家机构“科斯塔奈州长办公室”，科斯塔奈\n2025年12月1日 | 至今 | 国家机构“科斯塔奈地区州长办公室”统一人力资源管理服务（人力资源服务）负责人，科斯塔奈"
     },
     {
       "id": 5782,
       "name": "Sokolova Oksana Vladimirovna",
       "nameZh": "Sokolova Oksana Vladimirovna",
       "position": "Department of Documentation Support and Control",
-      "positionZh": "文书流转与监督部门负责人",
+      "positionZh": "文书保障与监督处负责人",
       "responsibilities": "",
       "workScopeZh": "官方页面未列出单独工作范围。",
       "order": "",
@@ -8847,19 +8847,19 @@
     },
     {
       "id": 33403,
-      "name": "Edrisov Anuar Seitenovich",
-      "nameZh": "Edrisov Anuar Seitenovich",
+      "name": "Vacancy . .",
+      "nameZh": "Vacancy . .",
       "position": "Head of the Project Management Department",
-      "positionZh": "部门负责人",
+      "positionZh": "项目办公室负责人",
       "responsibilities": "",
       "workScopeZh": "官方页面未列出单独工作范围。",
       "order": "",
       "levelPosition": "Department head",
-      "sourceIndex": 18,
-      "photo": "https://www.gov.kz/uploads/2026/6/22/55ff662dea88817c7617c3d7d4ed9793_original.181204.jpeg",
+      "sourceIndex": 24,
+      "photo": "",
       "phone": "8(7142) 575-095",
       "receptionPhone": "8(7142) 575-095",
-      "email": "a.edrisov@kostanay.gov.kz",
+      "email": "",
       "biographyUrl": "https://www.gov.kz/memleket/entities/kostanay/about/structure/people/33403?lang=en",
       "generalInfoHtml": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n\n</body>\n</html>",
       "careerHistoryHtml": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n\n</body>\n</html>",
@@ -8880,7 +8880,7 @@
       "name": "Жусупов Саят Даулетович",
       "nameZh": "Жусупов Саят Даулетович",
       "position": "Пресс-секретарь",
-      "positionZh": "新闻秘书",
+      "positionZh": "科斯塔奈州州长新闻秘书",
       "responsibilities": "",
       "workScopeZh": "官方页面未列出单独工作范围。",
       "order": "",
@@ -8910,7 +8910,7 @@
       "name": "Qiyskhan Qydyrbek",
       "nameZh": "Qiyskhan Qydyrbek",
       "position": "Press secretary of the regional mayor",
-      "positionZh": "新闻秘书",
+      "positionZh": "科斯塔奈州州长新闻秘书",
       "responsibilities": "",
       "workScopeZh": "官方页面未列出单独工作范围。",
       "order": "",
@@ -9274,7 +9274,7 @@
               },
               {
                 "type": "cell",
-                "text": "SI“库斯塔奈地区 Akimat 就业协调和社会项目部”的 SI“就业部”专家，科斯塔奈",
+                "text": "国家机构“科斯塔奈地区 Akimat 就业协调和社会项目部”的 国家机构“就业部”专家，科斯塔奈",
                 "header": false,
                 "sourceText": "Specialist, SI “Employment Department” of the SI “Department for Employment Coordination and Social Programs of the Akimat of Kostanay Region”, Kostanay"
               }
@@ -9314,7 +9314,7 @@
               },
               {
                 "type": "cell",
-                "text": "科斯塔奈国家机构“库斯塔奈地区阿基马特文化部”文化组织工作部代理首席专家",
+                "text": "科斯塔奈国家机构“科斯塔奈地区州政府文化部”文化组织工作部代理首席专家",
                 "header": false,
                 "sourceText": "Acting Chief Specialist of the Department for Work with Cultural Organizations, State Institution “Department of Culture of the Akimat of Kostanay Region”, Kostanay"
               }
@@ -9334,7 +9334,7 @@
               },
               {
                 "type": "cell",
-                "text": "国家机构“库斯塔奈地区阿基马特文化部”文化组织工作部首席专家，库斯塔奈",
+                "text": "国家机构“科斯塔奈地区州政府文化部”文化组织工作部首席专家，科斯塔奈",
                 "header": false,
                 "sourceText": "Chief Specialist of the Department for Work with Cultural Organizations, State Institution “Department of Culture of the Akimat of Kostanay Region”, Kostanay"
               }
@@ -9354,7 +9354,7 @@
               },
               {
                 "type": "cell",
-                "text": "国家机构“库斯塔奈地区阿基姆办公室”新闻秘书，库斯塔奈",
+                "text": "国家机构“科斯塔奈州长办公室”新闻秘书，科斯塔奈",
                 "header": false,
                 "sourceText": "Press Secretary of the State Institution “Akim&rsquo;s Office of Kostanay Region”, Kostanay"
               }
@@ -9363,8 +9363,8 @@
         }
       ],
       "generalInfoZh": "2003年，他毕业于科斯塔奈社会学院（科斯塔奈），获得历史学学位； 2008年，从科斯塔奈国立师范学院（科斯塔奈）获得历史学学位，历史学硕士学位； 2025 年，从 Akhmet 拜图尔瑟诺夫 科斯塔奈 地区大学 (科斯塔奈) 获得法学学位、法学硕士学位。",
-      "careerHistoryZh": "2002年1月7日 | 2003年2月7日 | 《Kuryer Kazakhstana》报副主编，科斯塔奈\n2003年9月1日 | 2007年2月1日 | 科斯塔奈科斯塔奈社会技术大学历史学科讲师\n2007年8月29日 | 2008年8月18日 | 科斯塔奈人道主义学院社会学科讲师\n2008年9月1日 | 2011年5月7日 | 哈萨克斯坦科斯塔奈国立师范学院历史与艺术学院历史系高级讲师\n2011年9月1日 | 2018年12月31日 | 《Qazaqstan Dauiri》报记者，科斯塔奈\n2013年12月31日 | 2023年8月15日 | 《Qostanai Tany》报记者，科斯塔奈\n2023年8月1日 | 2023年12月29日 | SI“库斯塔奈地区 Akimat 就业协调和社会项目部”的 SI“就业部”专家，科斯塔奈\n2023年1月3日 | 2024年5月27日 | “NatsTrubPlast”有限责任合伙企业执行董事，科斯塔奈\n2024年5月28日 | 2024年7月21日 | 科斯塔奈国家机构“库斯塔奈地区阿基马特文化部”文化组织工作部代理首席专家\n2024年7月22日 | 2025年12月15日 | 国家机构“库斯塔奈地区阿基马特文化部”文化组织工作部首席专家，库斯塔奈\n2025年12月17日 | 至今 | 国家机构“库斯塔奈地区阿基姆办公室”新闻秘书，库斯塔奈",
-      "detailZh": "2003年，他毕业于科斯塔奈社会学院（科斯塔奈），获得历史学学位； 2008年，从科斯塔奈国立师范学院（科斯塔奈）获得历史学学位，历史学硕士学位； 2025 年，从 Akhmet 拜图尔瑟诺夫 科斯塔奈 地区大学 (科斯塔奈) 获得法学学位、法学硕士学位。\n2002年1月7日 | 2003年2月7日 | 《Kuryer Kazakhstana》报副主编，科斯塔奈\n2003年9月1日 | 2007年2月1日 | 科斯塔奈科斯塔奈社会技术大学历史学科讲师\n2007年8月29日 | 2008年8月18日 | 科斯塔奈人道主义学院社会学科讲师\n2008年9月1日 | 2011年5月7日 | 哈萨克斯坦科斯塔奈国立师范学院历史与艺术学院历史系高级讲师\n2011年9月1日 | 2018年12月31日 | 《Qazaqstan Dauiri》报记者，科斯塔奈\n2013年12月31日 | 2023年8月15日 | 《Qostanai Tany》报记者，科斯塔奈\n2023年8月1日 | 2023年12月29日 | SI“库斯塔奈地区 Akimat 就业协调和社会项目部”的 SI“就业部”专家，科斯塔奈\n2023年1月3日 | 2024年5月27日 | “NatsTrubPlast”有限责任合伙企业执行董事，科斯塔奈\n2024年5月28日 | 2024年7月21日 | 科斯塔奈国家机构“库斯塔奈地区阿基马特文化部”文化组织工作部代理首席专家\n2024年7月22日 | 2025年12月15日 | 国家机构“库斯塔奈地区阿基马特文化部”文化组织工作部首席专家，库斯塔奈\n2025年12月17日 | 至今 | 国家机构“库斯塔奈地区阿基姆办公室”新闻秘书，库斯塔奈"
+      "careerHistoryZh": "2002年1月7日 | 2003年2月7日 | 《Kuryer Kazakhstana》报副主编，科斯塔奈\n2003年9月1日 | 2007年2月1日 | 科斯塔奈科斯塔奈社会技术大学历史学科讲师\n2007年8月29日 | 2008年8月18日 | 科斯塔奈人道主义学院社会学科讲师\n2008年9月1日 | 2011年5月7日 | 哈萨克斯坦科斯塔奈国立师范学院历史与艺术学院历史系高级讲师\n2011年9月1日 | 2018年12月31日 | 《Qazaqstan Dauiri》报记者，科斯塔奈\n2013年12月31日 | 2023年8月15日 | 《Qostanai Tany》报记者，科斯塔奈\n2023年8月1日 | 2023年12月29日 | 国家机构“科斯塔奈地区 Akimat 就业协调和社会项目部”的 国家机构“就业部”专家，科斯塔奈\n2023年1月3日 | 2024年5月27日 | “NatsTrubPlast”有限责任合伙企业执行董事，科斯塔奈\n2024年5月28日 | 2024年7月21日 | 科斯塔奈国家机构“科斯塔奈地区州政府文化部”文化组织工作部代理首席专家\n2024年7月22日 | 2025年12月15日 | 国家机构“科斯塔奈地区州政府文化部”文化组织工作部首席专家，科斯塔奈\n2025年12月17日 | 至今 | 国家机构“科斯塔奈州长办公室”新闻秘书，科斯塔奈",
+      "detailZh": "2003年，他毕业于科斯塔奈社会学院（科斯塔奈），获得历史学学位； 2008年，从科斯塔奈国立师范学院（科斯塔奈）获得历史学学位，历史学硕士学位； 2025 年，从 Akhmet 拜图尔瑟诺夫 科斯塔奈 地区大学 (科斯塔奈) 获得法学学位、法学硕士学位。\n2002年1月7日 | 2003年2月7日 | 《Kuryer Kazakhstana》报副主编，科斯塔奈\n2003年9月1日 | 2007年2月1日 | 科斯塔奈科斯塔奈社会技术大学历史学科讲师\n2007年8月29日 | 2008年8月18日 | 科斯塔奈人道主义学院社会学科讲师\n2008年9月1日 | 2011年5月7日 | 哈萨克斯坦科斯塔奈国立师范学院历史与艺术学院历史系高级讲师\n2011年9月1日 | 2018年12月31日 | 《Qazaqstan Dauiri》报记者，科斯塔奈\n2013年12月31日 | 2023年8月15日 | 《Qostanai Tany》报记者，科斯塔奈\n2023年8月1日 | 2023年12月29日 | 国家机构“科斯塔奈地区 Akimat 就业协调和社会项目部”的 国家机构“就业部”专家，科斯塔奈\n2023年1月3日 | 2024年5月27日 | “NatsTrubPlast”有限责任合伙企业执行董事，科斯塔奈\n2024年5月28日 | 2024年7月21日 | 科斯塔奈国家机构“科斯塔奈地区州政府文化部”文化组织工作部代理首席专家\n2024年7月22日 | 2025年12月15日 | 国家机构“科斯塔奈地区州政府文化部”文化组织工作部首席专家，科斯塔奈\n2025年12月17日 | 至今 | 国家机构“科斯塔奈州长办公室”新闻秘书，科斯塔奈"
     }
   ],
   "translationNote": "本页面内容翻译自原网站，中文翻译仅供参考。"

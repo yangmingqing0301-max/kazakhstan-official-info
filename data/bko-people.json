@@ -58,7 +58,7 @@
       "id": 11426,
       "name": "Oraz Nurdilda Serikuly",
       "position": "Head of staff",
-      "positionZh": "部门负责人",
+      "positionZh": "西哈萨克斯坦州州长办公室主任",
       "photo": "https://www.gov.kz/uploads/2023/7/19/cdd0e319c0818bd33e949bf0017b4b0a_original.432848.jpeg"
     },
     {
@@ -66,7 +66,7 @@
       "id": 29629,
       "name": "Mukambetzhanov Askar Zhumartovich",
       "position": "Deputy Chief of Staff",
-      "positionZh": "办公室主任",
+      "positionZh": "西哈萨克斯坦州州长办公室副主任",
       "photo": "https://www.gov.kz/uploads/2025/3/6/51b8e7de23ece30131504901fd0aa949_original.86638.jpeg"
     },
     {
@@ -74,7 +74,7 @@
       "id": 41632,
       "name": "Gumarov Zhalgas Akhatovich",
       "position": "Deputy chief of staff",
-      "positionZh": "办公室主任",
+      "positionZh": "西哈萨克斯坦州州长办公室副主任",
       "photo": "https://www.gov.kz/uploads/2025/4/25/4d49e8644c0dcf364243ac7552785a1a_original.161294.jpeg"
     },
     {
@@ -138,7 +138,7 @@
       "id": 38012,
       "name": "Yeszhanov Arman Makhsotkalievich",
       "position": "Acting Head",
-      "positionZh": "代理负责人",
+      "positionZh": "部门负责人",
       "photo": ""
     },
     {
@@ -210,7 +210,7 @@
       "id": 52981,
       "name": "Kinamayev Yernur Serikuly",
       "position": "Press Secretary",
-      "positionZh": "新闻秘书",
+      "positionZh": "西哈萨克斯坦州州长新闻秘书",
       "photo": "https://www.gov.kz/uploads/2026/1/30/9a030c33798045b852cffe19e34df396_original.166694.jpeg"
     },
     {
@@ -933,7 +933,7 @@
       "name": "Oraz Nurdilda Serikuly",
       "nameZh": "Oraz Nurdilda Serikuly",
       "position": "Head of staff",
-      "positionZh": "部门负责人",
+      "positionZh": "西哈萨克斯坦州州长办公室主任",
       "responsibilities": "Digitalization",
       "workScopeZh": "数字化",
       "order": "7",
@@ -1012,7 +1012,7 @@
       "name": "Mukambetzhanov Askar Zhumartovich",
       "nameZh": "Mukambetzhanov Askar Zhumartovich",
       "position": "Deputy Chief of Staff",
-      "positionZh": "办公室主任",
+      "positionZh": "西哈萨克斯坦州州长办公室副主任",
       "responsibilities": "",
       "workScopeZh": "官方页面未列出单独工作范围。",
       "order": "14",
@@ -1042,7 +1042,7 @@
       "name": "Gumarov Zhalgas Akhatovich",
       "nameZh": "Gumarov Zhalgas Akhatovich",
       "position": "Deputy chief of staff",
-      "positionZh": "办公室主任",
+      "positionZh": "西哈萨克斯坦州州长办公室副主任",
       "responsibilities": "",
       "workScopeZh": "官方页面未列出单独工作范围。",
       "order": "15",
@@ -1282,7 +1282,7 @@
       "name": "Yeszhanov Arman Makhsotkalievich",
       "nameZh": "Yeszhanov Arman Makhsotkalievich",
       "position": "Acting Head",
-      "positionZh": "代理负责人",
+      "positionZh": "部门负责人",
       "responsibilities": "",
       "workScopeZh": "官方页面未列出单独工作范围。",
       "order": "",
@@ -1552,7 +1552,7 @@
       "name": "Kinamayev Yernur Serikuly",
       "nameZh": "Kinamayev Yernur Serikuly",
       "position": "Press Secretary",
-      "positionZh": "新闻秘书",
+      "positionZh": "西哈萨克斯坦州州长新闻秘书",
       "responsibilities": "",
       "workScopeZh": "官方页面未列出单独工作范围。",
       "order": "",

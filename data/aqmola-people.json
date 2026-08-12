@@ -66,7 +66,7 @@
       "id": 10230,
       "name": "Tulegenova Venera Maratovna",
       "position": "Deputy Head of office",
-      "positionZh": "部门负责人",
+      "positionZh": "阿克莫拉州州长办公室副主任",
       "photo": "https://www.gov.kz/uploads/2025/1/28/1dfa0a5286665d9089db0c748b55d01c_original.335730.jpeg"
     },
     {
@@ -74,7 +74,7 @@
       "id": 10240,
       "name": "Isin Askerbek Makybaevich",
       "position": "Deputy Head of office",
-      "positionZh": "部门负责人",
+      "positionZh": "阿克莫拉州州长办公室副主任",
       "photo": "https://www.gov.kz/uploads/2026/4/28/4710ea27f73ebc78371a1e04e3b63931_original.24531.jpeg"
     },
     {
@@ -82,7 +82,7 @@
       "id": 49469,
       "name": "Zhulamanov Yermek Bakhytzhanovich",
       "position": "Заместитель руководителя аппарата акима Акмолинской области",
-      "positionZh": "阿克莫拉州副州长",
+      "positionZh": "阿克莫拉州州长办公室副主任",
       "photo": "https://www.gov.kz/uploads/2025/2/5/2e3d5d71e90100574a1f637e98a1befc_original.36012.jpeg"
     },
     {
@@ -90,7 +90,7 @@
       "id": 10253,
       "name": "Zhumabekov Yerzhan Suleimenovich",
       "position": "Deputy Head of office of Akim of Akmola Region - Business Manager",
-      "positionZh": "部门负责人",
+      "positionZh": "阿克莫拉州州长办公室副主任",
       "photo": "https://www.gov.kz/uploads/2025/5/20/86215363abe32c987d52acb177262e1e_original.250552.jpeg"
     },
     {
@@ -210,7 +210,7 @@
       "id": 11630,
       "name": "Darbaeva Kabiba Baltabaevna",
       "position": "Press Secretary of the Akim of the region - head of the press service",
-      "positionZh": "阿克莫拉州州长",
+      "positionZh": "阿克莫拉州州长新闻秘书",
       "photo": "https://www.gov.kz/uploads/2023/8/16/6215ff9fff49f81369098ea16cc8f92b_original.75120.jpeg"
     },
     {
@@ -234,7 +234,7 @@
       "id": 10016,
       "name": "Kyzkenova Asel Kenzhebekovna",
       "position": "Head of the Department of State and Legal Work",
-      "positionZh": "部门负责人",
+      "positionZh": "国家法律事务处负责人",
       "photo": "https://www.gov.kz/uploads/2023/5/17/9ddf38a0d268a505e42c3e3d5e3662c6_original.5406720.JPG"
     },
     {
@@ -250,7 +250,7 @@
       "id": 13144,
       "name": "Beisekeeva Aizhan Argynovna",
       "position": "Head of the financial department of the Akim's office of Akmola region - Chief Accountant",
-      "positionZh": "部门负责人",
+      "positionZh": "财务与会计处负责人",
       "photo": "https://www.gov.kz/uploads/2023/5/17/9272fcf6086ef9833ee1c065f32cd3f9_original.3866624.JPG"
     },
     {
@@ -258,7 +258,7 @@
       "id": 13011,
       "name": "Kokishev Kairat Kazhimkanovich",
       "position": "Head of the department for control over the consideration of appeals of the Akim's office of Akmola region",
-      "positionZh": "部门负责人",
+      "positionZh": "文书保障与监督处负责人",
       "photo": ""
     },
     {
@@ -1721,7 +1721,7 @@
       "name": "Tulegenova Venera Maratovna",
       "nameZh": "Tulegenova Venera Maratovna",
       "position": "Deputy Head of office",
-      "positionZh": "部门负责人",
+      "positionZh": "阿克莫拉州州长办公室副主任",
       "responsibilities": "",
       "workScopeZh": "官方页面未列出单独工作范围。",
       "order": "2",
@@ -1782,7 +1782,7 @@
       "name": "Isin Askerbek Makybaevich",
       "nameZh": "Isin Askerbek Makybaevich",
       "position": "Deputy Head of office",
-      "positionZh": "部门负责人",
+      "positionZh": "阿克莫拉州州长办公室副主任",
       "responsibilities": "",
       "workScopeZh": "官方页面未列出单独工作范围。",
       "order": "3",
@@ -1843,7 +1843,7 @@
       "name": "Zhulamanov Yermek Bakhytzhanovich",
       "nameZh": "Zhulamanov Yermek Bakhytzhanovich",
       "position": "Заместитель руководителя аппарата акима Акмолинской области",
-      "positionZh": "阿克莫拉州副州长",
+      "positionZh": "阿克莫拉州州长办公室副主任",
       "responsibilities": "",
       "workScopeZh": "官方页面未列出单独工作范围。",
       "order": "4",
@@ -1904,7 +1904,7 @@
       "name": "Zhumabekov Yerzhan Suleimenovich",
       "nameZh": "Zhumabekov Yerzhan Suleimenovich",
       "position": "Deputy Head of office of Akim of Akmola Region - Business Manager",
-      "positionZh": "部门负责人",
+      "positionZh": "阿克莫拉州州长办公室副主任",
       "responsibilities": "Digitalization",
       "workScopeZh": "数字化",
       "order": "8",
@@ -3698,7 +3698,7 @@
       "name": "Darbaeva Kabiba Baltabaevna",
       "nameZh": "Darbaeva Kabiba Baltabaevna",
       "position": "Press Secretary of the Akim of the region - head of the press service",
-      "positionZh": "阿克莫拉州州长",
+      "positionZh": "阿克莫拉州州长新闻秘书",
       "responsibilities": "",
       "workScopeZh": "官方页面未列出单独工作范围。",
       "order": "10",
@@ -4104,7 +4104,7 @@
       "name": "Kyzkenova Asel Kenzhebekovna",
       "nameZh": "Kyzkenova Asel Kenzhebekovna",
       "position": "Head of the Department of State and Legal Work",
-      "positionZh": "部门负责人",
+      "positionZh": "国家法律事务处负责人",
       "responsibilities": "",
       "workScopeZh": "官方页面未列出单独工作范围。",
       "order": "",
@@ -4791,7 +4791,7 @@
       "name": "Beisekeeva Aizhan Argynovna",
       "nameZh": "Beisekeeva Aizhan Argynovna",
       "position": "Head of the financial department of the Akim's office of Akmola region - Chief Accountant",
-      "positionZh": "部门负责人",
+      "positionZh": "财务与会计处负责人",
       "responsibilities": "",
       "workScopeZh": "官方页面未列出单独工作范围。",
       "order": "",
@@ -4973,7 +4973,7 @@
       "name": "Kokishev Kairat Kazhimkanovich",
       "nameZh": "Kokishev Kairat Kazhimkanovich",
       "position": "Head of the department for control over the consideration of appeals of the Akim's office of Akmola region",
-      "positionZh": "部门负责人",
+      "positionZh": "文书保障与监督处负责人",
       "responsibilities": "",
       "workScopeZh": "官方页面未列出单独工作范围。",
       "order": "",

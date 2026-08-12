@@ -20,6 +20,8 @@ jobs:
 
       - run: node scripts/audit-region-translations.js
 
+      - run: node scripts/audit-region-positions.js
+
       - name: Commit updated data
         run: |
           git config user.name "sync-bot"

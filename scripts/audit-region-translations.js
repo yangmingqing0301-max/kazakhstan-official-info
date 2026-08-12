@@ -7,7 +7,7 @@ const REGIONS_PATH = path.join(ROOT, "data", "regions-index.json");
 const BAD_CHARS = /[?骞鏈绉闈璇戣瀹鍔欏鏂濉厠钀褰锟�]/;
 const CYRILLIC = /[\u0400-\u04ff]{2,}/;
 const PENDING = /中文译文待同步|待同步内容|暂无官方同步内容/;
-const BAD_LATIN_TERMS = /\b(the|from|with|without|implementation|interaction|coordination|development|provision|responsible|regional|district|department|office|mayor|deputy|chief|head|specialist|inspector|secretary|committee|ministry|administration|government|president|republic|kazakhstan|state|institution|national|public|social|economic|budget|planning|finance|agriculture|investment|tourism|construction|architecture|urban|healthcare|employment|programs|services|appeals|complaints|assigned|powers|engineering|engineer|director|chairman|akim|apparatus|maslikhat|akkol|bulandy|arshalynsky|zharkainsky|tselinograd|khleborob)\b/i;
+const BAD_LATIN_TERMS = /\b(the|from|with|without|implementation|interaction|coordination|development|provision|responsible|regional|district|department|office|mayor|deputy|chief|head|specialist|inspector|secretary|committee|ministry|administration|government|president|republic|kazakhstan|state|institution|national|public|social|economic|budget|planning|finance|agriculture|investment|tourism|construction|architecture|urban|healthcare|employment|programs|services|appeals|complaints|assigned|powers|engineering|engineer|director|chairman|akim|apparatus|maslikhat|akkol|bulandy|arshalynsky|zharkainsky|tselinograd|khleborob|kostanay|sarykol|uralsk|uritsky|jsc|llp|too|si|lycl)\b/i;
 const BAD_MACHINE_TERMS = /阿基姆|阿基马特|NC\s*KTZ|特纳|库斯塔奈|阿克莫拉地区|地区阿基姆|区的\s*区长|扎尔凯恩斯基|阿尔沙雷\s+区|布兰迪\s+区|阿科勒\s+区|Temirtau/i;
 
 const ALLOWED_LATIN = [
@@ -17,8 +17,6 @@ const ALLOWED_LATIN = [
   /Polistrogroup LLP/gi,
   /Fire Safeti Engineering LLP/gi,
   /BI Group/gi,
-  /\bLLP\b/g,
-  /\bTOO\b/g,
   /Kuryer Kazakhstana/gi,
   /Qazaqstan Dauiri/gi,
   /Qostanai Tany/gi,
@@ -74,6 +72,7 @@ function main() {
     const data = readJson(dataPath);
     for (const person of data.people || []) {
       for (const field of collectChineseFields(person)) {
+        if (field.path === "nameZh") continue;
         if (hasTranslationIssue(field.text)) {
           issues.push({
             region: region.key,

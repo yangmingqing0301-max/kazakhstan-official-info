@@ -183,8 +183,8 @@ function hasBadChinese(value = "") {
   if (/阿基姆|阿基马特|NC\s*KTZ|特纳|库斯塔奈|阿克莫拉地区|地区阿基姆|区的\s*区长|扎尔凯恩斯基|阿尔沙雷\s+区|布兰迪\s+区|阿科勒\s+区|Temirtau/i.test(text)) return true;
   const scan = text
     .replace(/[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}/gi, "")
-    .replace(/Center for Strategic Initiatives LLP|AQ Management|Polistrogroup LLP|Fire Safeti Engineering LLP|BI Group|Kaznur|LLP|JSC|TOO|Kuryer Kazakhstana|Qazaqstan Dauiri|Qostanai Tany|NatsTrubPlast|Narymbetov|Bakytzhan|Haberovich/gi, "");
-  if (/\b(the|from|with|without|implementation|interaction|coordination|development|provision|responsible|regional|district|department|office|mayor|deputy|chief|head|specialist|inspector|secretary|committee|ministry|administration|government|president|republic|kazakhstan|state|institution|national|public|social|economic|budget|planning|finance|agriculture|investment|tourism|construction|architecture|urban|healthcare|employment|programs|services|appeals|complaints|assigned|powers|engineering|engineer|director|chairman|akim|apparatus|maslikhat|akkol|bulandy|arshalynsky|zharkainsky|tselinograd|khleborob)\b/i.test(scan)) return true;
+    .replace(/Center for Strategic Initiatives LLP|AQ Management|Polistrogroup LLP|Fire Safeti Engineering LLP|BI Group|Kaznur|Kuryer Kazakhstana|Qazaqstan Dauiri|Qostanai Tany|NatsTrubPlast|Narymbetov|Bakytzhan|Haberovich/gi, "");
+  if (/\b(the|from|with|without|implementation|interaction|coordination|development|provision|responsible|regional|district|department|office|mayor|deputy|chief|head|specialist|inspector|secretary|committee|ministry|administration|government|president|republic|kazakhstan|state|institution|national|public|social|economic|budget|planning|finance|agriculture|investment|tourism|construction|architecture|urban|healthcare|employment|programs|services|appeals|complaints|assigned|powers|engineering|engineer|director|chairman|akim|apparatus|maslikhat|akkol|bulandy|arshalynsky|zharkainsky|tselinograd|khleborob|kostanay|sarykol|uralsk|uritsky|jsc|llp|too|si|lycl)\b/i.test(scan)) return true;
   const latinWords = scan.match(/[A-Za-z]{3,}/g) || [];
   if (latinWords.some((word) => /^[a-z]+$/.test(word) || /(tion|ment|ing|ity|ics|ance|ence|sky)$/i.test(word))) return true;
   return latinWords.join("").length > text.length * 0.45;
@@ -298,7 +298,7 @@ function polishChineseTranslation(value = "", sourceText = "") {
   if (/^e-?mail\s*:/i.test(source)) return source.replace(/^e-?mail\s*:/i, "电子邮箱：");
   if (/^Department staff\s*:?$/i.test(source)) return "部门人员：";
   if (/^(Head|Chief)\s+Specialist$/i.test(source)) return "首席专家";
-  if (/^Leading\s+Specialist$/i.test(source)) return "领先专家";
+  if (/^Leading\s+Specialist$/i.test(source)) return "主任专家";
   if (/^General\s+Inspector$/i.test(source)) return "总督察";
   if (/^Inspector$/i.test(source)) return "监察员";
   if (/^[+()\d\s-]{5,}$/.test(source)) return source;
@@ -330,6 +330,9 @@ function polishChineseTranslation(value = "", sourceText = "") {
   if (/^Functions of the Department:\s*Ensuring the activities of the regional akim/i.test(source)) return "部门职能：保障州长及州长办公室在信息通信技术领域的活动；分析技术设备、软件和信息系统使用效果，推进数字化和信息化相关工作。";
   if (/^Functional responsibilities:\s*General management of the department\. Conducting legal expertise/i.test(source)) return "职能职责：全面管理部门工作；对州长和州政府法律文件草案进行法律审查；为决议、命令和其他文件发布提供法律支持，并处理相关法律事务。";
   if (/^Functions of the department:\s*Management of the work of the department/i.test(source)) return "部门职能：管理部门工作，组织州政府、州长和州长办公室活动的文书保障；组织并监督国家元首、总统办公厅、总理和总理办公室指令及时执行。";
+  if (/^Acting\s+Leading\s+Specialist,\s+SI\s+"?Akim(?:&rsquo;|’|'|&#39;)s Office of Sarykol District"?\s*,\s*Kostanay Region$/i.test(source)) {
+    return "代理主任专家，国家机构“萨雷科尔区区长办公室”，科斯塔奈州";
+  }
   if (/^From 2017 to 2019, he served as Executive Director, CEO, and Managing Partner of Center for Strategic Initiatives LLP/i.test(source)) return "2017年至2019年，任哈萨克斯坦私营咨询公司 Center for Strategic Initiatives LLP 执行主任、首席执行官和管理合伙人。";
   if (/^From 2022 to 2024, he worked as Managing Director of the private company AQ Management and Polistrogroup LLP/i.test(source)) return "2022年至2024年，任私营公司 AQ Management 和 Polistrogroup LLP 管理主任。";
   if (/^по\s+н\/?время$/i.test(source)) return "至今";
@@ -356,6 +359,12 @@ function polishChineseTranslation(value = "", sourceText = "") {
   if (/Journalist of the newspaper “Qostanai Tany”/i.test(source)) return "《Qostanai Tany》报记者，科斯塔奈";
   if (/Executive Director, LLP/i.test(source)) return "“NatsTrubPlast”有限责任合伙企业执行董事，科斯塔奈";
   text = text
+    .replace(/&rsquo;|&#39;/g, "’")
+    .replace(/Acting\s+Leading\s+Specialist/gi, "代理主任专家")
+    .replace(/Leading\s+Specialist/gi, "主任专家")
+    .replace(/Akim’s Office of Sarykol District/gi, "萨雷科尔区区长办公室")
+    .replace(/Akim's Office of Sarykol District/gi, "萨雷科尔区区长办公室")
+    .replace(/Sarykol District/gi, "萨雷科尔区")
     .replace(/^In\s+(\d{4}(?:-\d{4})?)\s*-\s*/i, "$1 年 - ")
     .replace(/^In\s+(\d{4})-(\d{4})\s*-\s*/i, "$1-$2 年 - ")
     .replace(/^Since\s+(\d{4})\s*-\s*/i, "$1 年起 - ")
@@ -429,6 +438,10 @@ function polishChineseTranslation(value = "", sourceText = "") {
     .replace(/\bNC\s+KTZ\b/gi, "“哈萨克斯坦铁路”国家公司")
     .replace(/\bNC\s+SEC\b/gi, "国家社会企业公司")
     .replace(/\bJSC\b/g, "股份公司")
+    .replace(/\bLLP\b/g, "有限责任合伙企业")
+    .replace(/\bTOO\b/g, "有限责任合伙企业")
+    .replace(/\bSI\b/g, "国家机构")
+    .replace(/\bLYCL\b/g, "列宁共产主义青年联盟")
     .replace(/阿克莫拉地区阿基姆机构/g, "阿克莫拉州州长办公室")
     .replace(/阿克莫拉州阿基姆机构/g, "阿克莫拉州州长办公室")
     .replace(/阿克莫拉地区 Akim 办公室/g, "阿克莫拉州州长办公室")
@@ -543,6 +556,34 @@ function repairTranslatedBlocks(blocks = []) {
   return blocks.map(clone);
 }
 
+function departmentPositionZh(text = "") {
+  const lower = normalizeText(text).toLowerCase();
+  const isHead = /head|руководител|начальник|директор|басшысы|отдел|department|служба|service|unit|подразделение|центр/.test(lower);
+  if (!isHead) return "";
+  if (/государственн.*секрет|госсекрет|state secrets?|information security|информационн.*безопас/i.test(lower)) return "国家秘密与信息安全负责人";
+  if (/внутренн.*аудит|internal audit|state auditor/i.test(lower)) return "内部审计服务负责人";
+  if (/ревизионн.*комисс/i.test(lower)) return "审计委员会主席";
+  if (/финанс|бухгалтер|financial|accounting/i.test(lower)) return "财务与会计处负责人";
+  if (/эконом|budget|бюджет/i.test(lower)) return "经济与预算处负责人";
+  if (/документац|документооборот|documentation|control/i.test(lower)) return "文书保障与监督处负责人";
+  if (/обращен|appeals|citizens|physical and legal/i.test(lower)) return "信访办理监督处负责人";
+  if (/организац|инспектор|organizational|inspection/i.test(lower)) return "组织监督处负责人";
+  if (/государственно.?прав|legal|law/i.test(lower)) return "国家法律事务处负责人";
+  if (/правоохран|антитеррор|terror|extrem|атк\b/i.test(lower)) return "执法机关协作与反恐工作处负责人";
+  if (/персонал|human resources|hr|кадров/i.test(lower)) return "人事管理服务负责人";
+  if (/пресс|press/i.test(lower)) return "新闻服务负责人";
+  if (/секретариат|secretariat/i.test(lower)) return "秘书处负责人";
+  if (/проект|project/i.test(lower)) return "项目办公室负责人";
+  if (/информационн.*технолог|information technolog|digital|цифров/i.test(lower)) return "信息技术处负责人";
+  if (/аналит|analysis|monitoring|мониторинг/i.test(lower)) return "分析与监测处负责人";
+  if (/административно.?финанс|administrative/i.test(lower)) return "行政财务处负责人";
+  if (/мобилизационн|civil protection|mobilization/i.test(lower)) return "动员准备与民防负责人";
+  if (/единая служба/i.test(lower)) return "统一服务负责人";
+  if (/центр/i.test(lower)) return "中心主任";
+  if (/director|директор/i.test(lower)) return "主任";
+  return "部门负责人";
+}
+
 function translatePosition(position = "", region = {}) {
   const text = normalizeText(position);
   const lower = text.toLowerCase();
@@ -553,8 +594,16 @@ function translatePosition(position = "", region = {}) {
   if (/государственн.*секрет|госсекрет/i.test(lower)) return "国家秘密保护负责人";
   if (/проектн.*офис/i.test(lower)) return "项目办公室负责人";
   if (/мобилизационн.*подготов|мобилизац/i.test(lower)) return "动员准备保障机构负责人";
-  if (/аппарат басшысының орынбасары|басшысының орынбасары/i.test(lower)) return "办公室副主任";
+  if (/пресс-секретар|press secretary|пресс-служб/i.test(lower)) return `${regionName}州长新闻秘书`;
+  const departmentZh = departmentPositionZh(text);
+  if (/советник|advisor|adviser/i.test(lower) && departmentZh) return `${regionName}州长顾问兼${departmentZh}`;
+  if (/советник|advisor|adviser/i.test(lower)) return `${regionName}州长顾问`;
+  if (/аппарат басшысының орынбасары|басшысының орынбасары|заместител\S*\s+руководител\S*\s+аппарат|заместител.*басшы|deputy (head|chief).*?(office|staff|apparatus)|deputy head of office|deputy chief of staff|deputy head of the akim/i.test(lower)) return `${regionName}州长办公室副主任`;
+  if (/руководител\S*\s+аппарат|head of (the )?(office|staff)|head of staff|chief of staff|head of the office of the akim/i.test(lower)) return `${regionName}州长办公室主任`;
   if (/и\.?\s*о\.?\s*руководител|исполняющ.*обязанност.*руководител|временно исполняющ/i.test(lower)) return "代理负责人";
+  if (/chief inspector|главный инспектор|генеральный инспектор/i.test(lower)) return "首席监察员";
+  if (/chief specialist|главный специалист/i.test(lower)) return "首席专家";
+  if (departmentZh) return departmentZh;
   if (/director|директор/i.test(lower)) return "主任";
   if (/department head/i.test(lower)) return "部门负责人";
   if (/acting head/i.test(lower)) return "代理负责人";
@@ -563,14 +612,10 @@ function translatePosition(position = "", region = {}) {
   if (/deputy mayor|deputy akim|заместитель/i.test(lower)) return `${regionName}副州长`;
   if (/mayor of|akim of|аким/i.test(lower) && !/deputy|заместитель/i.test(lower)) return `${regionName}州长`;
   if (/head of apparatus|chief of staff|руководитель аппарата/i.test(lower)) return "办公室主任";
-  if (/press secretary|пресс-секретарь/i.test(lower)) return "新闻秘书";
   if (/ethics commissioner/i.test(lower)) return "伦理专员";
   if (/documentation support and control/i.test(lower)) return "文书流转与监督部门负责人";
   if (/head of|руководитель|начальник/i.test(lower)) return "部门负责人";
-  if (/chief inspector|главный инспектор|генеральный инспектор/i.test(lower)) return "首席监察员";
-  if (/chief specialist|главный специалист/i.test(lower)) return "首席专家";
   if (/specialist|специалист/i.test(lower)) return "专家";
-  if (/advisor|adviser|советник/i.test(lower)) return "顾问";
   return text;
 }
 
@@ -861,7 +906,17 @@ async function main() {
   for (const region of selected) await syncRegion(region);
 }
 
-main().catch((error) => {
-  console.error(error);
-  process.exit(1);
-});
+if (require.main === module) {
+  main().catch((error) => {
+    console.error(error);
+    process.exit(1);
+  });
+}
+
+module.exports = {
+  normalizeText,
+  readJson,
+  translatePosition,
+  translateWorkScope,
+  writeJson,
+};
